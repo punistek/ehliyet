@@ -1,0 +1,207 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g16_q2",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "“Araç kullanırken cep telefonu ile ilgilenmenin görsel, bilişsel, fiziksel ve işitme ile ilgili bazı sorunların ortaya çıkmasına neden olmaktadır. “\n\nBunun sonucunda aşağıdaki  problemlerden hangisi ortaya çıkmaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tepki süresinin azalması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Doğru şeritte gidebilme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Durma mesafesinin iyi ayarlanamaması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Uygun hızda seyredememe",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Cep telefonu ile ilgilenme, sürücünün dikkatini dağıtır ve tepki süresini uzatır. Bu da durma mesafesinin iyi ayarlanamamasına, uygun hızda seyredememeye ve tepki süresinin azalmasına neden olur. Ancak 'doğru şeritte gidebilme' bu sorunlar arasında yer almaz çünkü şeriti korumak daha çok dikkat ve koordinasyon gerektirirken, cep telefonu kullanımı bu yetenekleri azaltır.",
+
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q5",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Araç bakımlarının zamanında yapılmasının önemini aşağıda verilenlerden hangisi ifade etmez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Araç bakımlarını hem kişinin kendi can ve mal bütünlüğü koruması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İçinde yaşadığımız tabiatın zedelenmemesi,",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Gelecek nesillere yaşanılabilir bir dünya bırakmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik cezalarından kaçınmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Araç bakımlarının zamanında yapılması, kişinin kendi can ve mal güvenliğini korur, çevreyi zedelemekten önler ve gelecek nesillere daha iyi bir dünya bırakmayı sağlar. Ancak 'trafik cezalarından kaçınmak' araç bakımının asıl amacı değildir. Bakım, öncelikle güvenlik ve çevre koruması içindir.",
+
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q1",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Dar yoldan gelen araçlarla inatlaşma, durak harici durma, yaya geçitlerinde yol vermeme gibi sürücü davranışları ne tür sürücü davranışıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Saldırgan sürücülük",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kural ihlali",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Nezaket eksikliği",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Beceriksiz sürücülük",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Dar yoldan gelen araçlarla inatlaşma, durak dışı durma ve yaya geçitlerinde yol vermeme gibi davranışlar, sürücünün diğer yol kullanıcılarına karşı saldırgan ve tehditkar bir tutum sergilemesidir. Bu davranışlar sadece kural ihlali değil, aynı zamanda agresif ve saldırgan bir sürücülük türüdür.",
+
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q3",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "“Otoyolda belli bir yere ulaşmak amacıyla otomobillerine binmiş olan ve birbirini tanımayan iki insanın, birdenbire her şeyi unutmasına, birbirleriyle kıyasıya bir yarışa girmesine, bu uğurda kendi hayatlarını bile hiçe saymalarına” ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yol öfkesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Nefret",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sinir",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Otoyolda birbirini tanımayan iki sürücünün, birdenbire her şeyi unutup kıyasıya bir yarışa girmesi, kendi hayatlarını hiçe sayması, trafikte ortaya çıkan kontrolsüz öfke ve agresyon durumudur. Bu fenomen 'yol öfkesi' olarak adlandırılır. Kin, nefret ve sinir gibi diğer duygular daha uzun süreli ve kişisel iken, yol öfkesi trafikte aniden ortaya çıkan ve kontrol edilemeyen bir durumdur.",
+
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q4",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Yaya geçidinde ki yayayı , bir trafik işareti veya işaretçisini gördüğü halde yavaşlamayan hatta hızını artıran bir sürücü için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Geçiş önceliğini hakkını kullanmaktadır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Eğer duramayacak durumdaysa hızını arttırması gereklidir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaptığı yasaktır ve ceza gerektirir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bu davranışı usta şoför olduğunu gösterir.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Yaya geçidinde yaya veya trafik işareti görüdüğünde sürücü yavaşlamak ve yolunu vermekle yükümlüdür. Yavaşlamayıp aksine hızını artıran sürücü, trafik kurallarını ihlal eder ve yayaların hayatını tehlikeye atar. Bu davranış yasaktır ve yasal ceza gerektirir. Geçiş önceliği, eğer duramayacak durum ve usta şoför olmak gibi seçenekler bu durumda geçerli değildir.",
+
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g16_q6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Günlük yaşamımızda is arkadaşımızın olumsuz tavrı karşısında sakin ve temkinli olurken trafikte bunu yapamamamızın sebebi aşağıdakiler hangisi olamaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafikte tahrik unsurunun, karşılıklı atışmaların, kadın-erkek ayrımının daha belirgin olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Değeri herkes için her yerde ayni şekilde gösterememek, şahsi bir daha görmeyeceğimizi düşünmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafikteki insanların daha agresif olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İnsanların trafikte deşarj olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafikte sakin davranamamanın nedenleri arasında tahrik unsurlarının daha belirgin olması, karşılıklı atışmalar, bilinmezlik (daha sonra görmeyeceğimiz insanlar), zaman baskısı ve trafikteki insanların daha agresif olması sayılabilir. Ancak 'insanların trafikte deşarj olması' bu durumu açıklayan temel bir sebep değildir. Deşarj olmak sonuç olabilir ama sebep değildir; asıl sebepler yukarıda sayılanlar gibi dış faktörlerdir.",
+
+      "mainImage": null
+    }
+  ],
+  "testNumber": 16,
+  "testId": "trafikadabi_group_16",
+  "name": "Trafik ve Çevre Test 16"
+}

@@ -1,0 +1,297 @@
+{
+  "categoryId": "motor",
+  "questionCount": 9,
+  "questions": [
+    {
+      "id": "motor_g20_q2",
+      "order": 1,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi, aracın elektrik devrelerinde meydana gelebilecek kısa devre sonunda sistemi olası yangın tehlikesine karşı korumak için kullanılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Flaşör",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sigorta",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Far anahtarı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sinyal ampulü",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Elektrik devresinde ani akım artışı meydana geldiğinde sigorta, içindeki tel eriyerek devreyi otomatik olarak keser. Bu sayede aşırı ısınma ve yangın riski ortadan kalkar. Flaşör, far anahtarı ve sinyal ampulü bu koruma işlevini yerine getiremez.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g20_q4",
+      "order": 2,
+      "categoryId": "motor",
+      "question": "Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa sebebi aşağıdakilerden hangisi olabilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Fren hidroliğinin eksilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Karterde yağın kalmaması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Depodaki yakıtın azalması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Radyatörde antifrizin olmaması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Motor çalışırken yağ basıncı ikaz ışığı yanıyorsa, karterde motor yağının miktarı yetersizdir. Yağ seviyesi düşük olunca pompa yeterli basınç oluşturamaz. Fren hidroliği, yakıt ve antifiriz seviyesi bu göstergeyi etkilemez.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g20_q7",
+      "order": 3,
+      "categoryId": "motor",
+      "question": "I- LPG\nII- Benzin\nIII- Motorin\n\nİçten yanmalı motorlarda yukarıdaki yakıtlardan hangileri kullanılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız 1",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "1 ve 2",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "2 ve 3",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "1, 2, 3",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İçten yanmalı motorlar, yakıtın silindir içinde yanması ilkesine dayanır. Bu motorlar LPG, benzin ve motorin olmak üzere üç farklı yakıt türüyle çalışabilir. Bazı araçlar çok yakıtlı sisteme sahip olup farklı yakıtlar arasında geçiş yapabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g20_q9",
+      "order": 4,
+      "categoryId": "motor",
+      "question": "Motor yağı kontrol edilirken aşağıdakilerden hangisine dikkat edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aracın düz zeminde olmasına",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Aracın yan tarafına eğik olmasına",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Aracın ön tarafının kalkık olmasına",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aracın arka tarafının kalkık olmasına",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Motor yağı kontrol edilirken araç mutlaka düz ve seviye bir zeminde durmalıdır. Araç eğik konumdayken yağ dipstik üzerinde hatalı seviye gösterir. Eğer araç yan tarafına, ön veya arka tarafına eğik ise ölçüm güvenilir olmayacaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g20_q6",
+      "order": 5,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi araçlarda gücün kaynağıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şaft",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Tekerlek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Motor",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Vites Kutusu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Araçta hareket ve güç kaynağı motor tarafından sağlanır. Motor, yakıtın yanmasından elde edilen enerjiyi mekanik güce dönüştürür. Şaft, tekerlek ve vites kutusu bu gücü iletir ancak üretmez.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g20_q3",
+      "order": 6,
+      "categoryId": "motor",
+      "question": "Akünün elektrolit seviyesi azalmış ise ne ilave edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Asit",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Alkol",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Saf su",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Antifiriz",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Akü elektrolit seviyesi azaldığında sadece saf su ilave edilir. Asit eklemek tehlikelidir ve akünün kimyasal dengesini bozar. Alkol ve antifiriz de akü için uygun değildir. Saf su, elektrolit kaybını telafi eder.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g20_q5",
+      "order": 7,
+      "categoryId": "motor",
+      "question": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Buji",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Manifold",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Teker jantı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Vites kutusu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Araç kullanma kılavuzunda belirtilen bakım aralıklarına göre bujiler düzenli olarak değiştirilir. Manifold, teker jantı ve vites kutusu ise normal kullanımda değiştirilmez. Buji değişimi motor performansını ve yakıt tüketimini etkileyen önemli bir bakım işlemidir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g20_q1",
+      "order": 8,
+      "categoryId": "motor",
+      "question": "I- Akü kontrolü\nII- Lastik kontrolü\nIII- Antifriz kontrolü\n\nYukarıda verilenlerden hangileri, aracın kış koşullarına hazırlanmasında alınması gereken önlemlerdendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kış koşullarına hazırlık için akü, lastik ve antifriz kontrolleri yapılması zorunludur. Soğuk hava akü kapasitesini azaltır, lastikler sertleşir ve antifriz donmayı önler. Bu üç kontrol de kış güvenliği için kritik öneme sahiptir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g20_q8",
+      "order": 9,
+      "categoryId": "motor",
+      "question": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
+      "type": "image",
+      "options": [
+        {
+          "key": "a",
+          "text": "Karterdeki yağ miktarını",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Depodaki yakıt miktarını",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Soğutma suyu sıcaklığını",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Radyatördeki su seviyesini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Gösterge panelindeki termometre sembolü, motor soğutma sistemindeki suyun sıcaklığını gösterir. Bu gösterge hararet göstergesi olarak adlandırılır. Yağ miktarı, yakıt seviyesi ve radyatör su seviyesi için farklı göstergeler bulunur.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 20,
+  "testId": "motor_group_20",
+  "name": "Motor Test 20"
+}

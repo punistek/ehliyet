@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g19_q5",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Sürekli sol şeridi ihlal eden sürücüye uygulanacak ceza aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sadece ceza puanı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Para cezası ve ceza puanı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hafif hapis cezası",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafikten men cezası",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Sol şerit, hızlı hareket eden araçların geçiş yapması için ayrılmıştır. Bir sürücü bu şeridi sürekli işgal ederse, trafik düzenini bozar ve diğer sürücüleri tehlikeye atar. Bu ihlal için hem para cezası hem de ceza puanı uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q1",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıda verilen kişilik özelliklerinden hangisi trafikte oluşabilecek riskleri azaltır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Saygılı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Öfkeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Saldırgan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hoşgörülü",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Saygılı bir kişilik, trafikte diğer sürücülere ve yayalara saygı göstermek anlamına gelir. Bu tutum, agresif davranışları önler ve trafik kazalarının riskini azaltır. Öfkeli, saldırgan ve düşüncesiz davranışlar ise trafikte tehlikeli durumlara yol açar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q6",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Durma ve duraklama yapılırken belli başlı kurallara uyulması gerekmektedir. Aşağıdakilerden hangisi durma-duraklama kurallarına uygun olmayan davranışa örnektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bulunulan şeritte en az yeri işgal etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Duruma göre banketten faydalanma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kaldırıma park etmek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Durakta yolcu indirmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Durma ve duraklama kurallarına göre, araçlar belirli yerlerde ve belirli şartlarda durabilir. Kaldırıma park etmek ise yayaların hareket özgürlüğünü kısıtlar ve yasaktır. Diğer seçenekler (en az yer işgal etme, banketten yararlanma, durakta yolcu indirme) kurallara uygundur.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q2",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "'Bir araç sürücünün sadece kendine değil diğer araç sürücülerine karşı da sorumlulukları vardır.'\n\nYukarıda belirtilen ifade doğrultusunda aşağıda verilenlerden hangisi sorumsuz davranış olarak değerlendirilmez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik işaret ve işaretçilerini önsemekde",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hız sınırlarına dikkat etmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Takip mesafesi kurallarına uymamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yorgun araç kullanmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Sorumluluk, kendi davranışlarının sonuçlarından haberdar olmak ve diğer insanların güvenliğini göz önünde bulundurmak anlamına gelir. Hız sınırlarına uymak, trafik işaretlerine saygı göstermek ve takip mesafesini korumak sorumlu davranışlardır. Yorgun araç kullanmak, trafik kurallarını görmezden gelmek ve takip mesafesini ihlal etmek ise sorumsuz davranışlardır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q4",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Kamunun faydalandığı okul, hastane ve benzerlerinin giriş ve çıkış kapılarına her iki yönden kaç metrelik mesafe içinde park edilmesi yasaktır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "5",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "10",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "15",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "20",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Okul, hastane ve benzeri kamu tesislerinin giriş ve çıkış kapıları çok önemli alanlardır. Bu yerlerde araç park etmek, acil durumlarda ve yaya hareketinde engel oluşturur. Trafik kurallarına göre, bu tesislerin kapılarına her iki yönden 5 metrelik mesafe içinde park etmek kesinlikle yasaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g19_q3",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "'Trafikte seyreden bütün araçların bir düzen içerinde olması önemlidir. Bu noktada trafik işaret ve işaretçilerinin işlevlerini yerine getirebilecek kabileyette olması kazaların önüne geçmede büyük bir öneme sahiptir. '\n\nYukarıda verilen bilgiler ışığında, trafik işaretleri ile ilgili olarak aşağıdaki davranışlardan hangilerinin yapılması yasaktır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sorumlu kuruluşların eskiyenleri yenisi ile değiştirmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Görülen eksikliklerin ilgili kuruluşlara bildirilerek giderilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Zarar veren sorumlunun zarar karşılıklarını ve masrafı ödemesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Görülmelerini engelleyecek şekilde araçların park edilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafik işaretleri ve işaretçileri, trafikte düzeni ve güvenliği sağlayan önemli araçlardır. Bunları görmez hale getirmek, trafik kazalarına yol açabilir. Sorumlu kuruluşlar tarafından eski işaretlerin yenilenmesi, eksikliklerin bildirilmesi ve zarar verenin masrafı ödemesi gerekli ve yasaldır. Ancak, araç park ederek işaretleri engellemek yasaktır ve trafikte tehlike oluşturur.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 19,
+  "testId": "trafikadabi_group_19",
+  "name": "Trafik ve Çevre Test 19"
+}

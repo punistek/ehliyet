@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g18_q6",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıda bulunan sürücü özelliklerinden hangisi trafiği tehlikeye düşürebilecek niteliktedir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yardımlaşan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sabırlı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Saygılı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bencil",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bencil sürücüler, kendi çıkarlarını öncelik verip diğer yol kullanıcılarını göz ardı ederek tehlikeli durumlara yol açerler. Yardımlaşan (A), sabırlı (B) ve saygılı (C) sürücüler ise trafikte güvenli ve sorumlu davranışlar sergilerler.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q3",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "'Çakıllı dar ve herhangi bir araba cebi olmayan bir yolda ilerleyen araç içinde hamile bulunmaktadır. Araç sürücüsü dörtlü flaşörü yakarak ağır ağır yolda ilerlemektedir. Arkadan gelen arazi aracı tarafından sellektör yapılmakta, sık sık kornaya basılmaktadır. '\n\nBu durum için arkadaki araç sürücüsü için hangisini söylemek doğru olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Empati yeteneği gelişmiştir.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saygısız sürücü davranışlarına örnektir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hoşgörülüdür.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Adabımuaşeret kurallarına uymaktadır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hamile bir kadının bulunduğu araç sürücüsü, güvenli ve yavaş ilerleme için dörtlü flaşörü kullanmaktadır. Arkadan gelen arazi aracı sürücüsünün sellektör yapması ve korna çalması, bu durumu göz ardı ederek saygısız ve sabırsız davranış sergileyen bir örnektir. Empati (A), hoşgörü (C) ve adabımuaşeret (D) ise bu davranışların tam tersidir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q5",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi tedbirsiz araç kullanmaya örnek değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hız sınırlarını aşmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kar lastiği olmadan yola çıkmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Araç içinde sigara içmek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sisli havalarda sis farını yakmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Hız sınırlarını aşmak (A), kar lastiği olmadan yola çıkmak (B) ve araç içinde sigara içmek (C) hepsi tedbirsiz ve tehlikeli davranışlardır. Ancak sisli havalarda sis farını yakmak, görüşün iyileştirilmesi için alınan bir önlemdir ve tedbirsizlik değildir. Bu nedenle D seçeneği tedbirsiz araç kullanmaya ÖRNEK DEĝİLDİR.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q1",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Alkollü araç kullanımıyla ilgili aşağıda verilenlerden hangisi yanlıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ticari araçlar için promil sınırı daha düşüktür.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ehliyet 2 yıl süreyle elinden alınan sürücüler davranış geliştirme eğitimi alır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Alkollü araç kullanma dikkati arttırır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Alkollü araç kullanan sürücü aday sürücüyse ehliyet belgesine el konulur.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Alkollü araç kullanma, dikkati ve reaksiyon hızını azaltır, arttırmaz. C seçeneği bu nedenle yanlıştır. Ticari araçlar için promil sınırı daha düşük (A doğru), ehliyet elinden alınan sürücüler davranış geliştirme eğitimi alır (B doğru), aday sürücüler için ehliyet belgesine el konulur (D doğru).",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q2",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte iki araç yol verme/vermeme konusunda birbirlerine karşı üstünlük kurmaya çalışmaktadır. \n\nBöyle bir durum söz konusuyken araç sürücüsünün çok öfkeli olduğu gözlemlenmektedir. Camını indirip öfkesini dışa vurmaya hazırlanırken, diğer araç sürücünün hangi davranışı sergilemesi doğru olur.",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aynı şekilde karşılık vermesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Küfretmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Mimiklerle öfkesini belli etmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Gülümseyerek karşılık vermesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Öfkeli bir sürücüye karşı gülümseyerek karşılık vermek, gerginliği azaltır ve durumu sakinleştirir. Aynı şekilde karşılık vermek ve küfretmek, durumu kızdırır. Mimiklerle öfke belli etmek de olumsuz bir tepkidir. Gülümseme, trafikte öfkeyi yatıştıran ve empatinin göstergesi olan bir davranıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g18_q4",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Trafikteki ve çevredeki diğer unsurlarda göz önüne alındığında aşağıda verilen yaş aralıklarından hangisinin kaza yapma riski daha yüksektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "18-25",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "25-35",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "35-40",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "40-45",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "18-25 yaş aralığındaki sürücüler, deneyim eksikliği, hız merakı ve risk alma eğilimi nedeniyle daha yüksek kaza riski taşırlar. Bu yaş grubunda motor kontrol becerisi, karar verme hızı ve tehlike öngörümü henüz tam gelişmemiştir. Daha ileri yaş gruplarında (25-45) deneyim ve olgunluk arttığı için kaza riski azalır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 18,
+  "testId": "trafikadabi_group_18",
+  "name": "Trafik ve Çevre Test 18"
+}

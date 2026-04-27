@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g8_q1",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "I. Trafikteki bütün kuralların nedenini öğrenir.\nII. Araç kullanırken yapacağı bir kural ihlalinin sonucunda sadece maddi ceza olduğunu düşünür.\nIII. Trafik içinde yapacağı bir kural ihlalinde, kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olur.\n\nYukarıdakilerden hangileri trafik adabına sahip olan bir sürücü için söylenebilir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Trafik adabına sahip bir sürücü, kuralların arkasındaki güvenlik gerekçelerini anlar (I. doğru). Ancak sadece maddi ceza düşünmek (II) trafik adabının eksikliğidir - gerçek sorumluluk, canın tehlikede olduğunu bilmektir (III). Trafik adabı, kuralları anlayış ve empati ile uygulamaktan geçer.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q4",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Bir olay ya da durumda, karşımızdaki kişi hakkında herhangi bir yargıda bulunmadan önce kendimizi onun yerine koyarak olayı/ durumu onun gibi yaşamamız anlamına gelmektedir.\n\nYukarıdaki açıklama, trafik adabı açısından da çok ciddi bir öneme sahip olan hangi davranış özelliğine aittir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Empati",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bastırma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Engellenme",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Sorunun tanımladığı davranış - kendimizi karşımızdakinin yerine koyarak olayı yaşamak - empatinin tanımıdır. Empati, trafikte diğer sürücülerin durumlarını anlamamızı ve onlara saygı göstermemizi sağlar. Öfke olumsuz bir duygu, bastırma ve engellenme ise psikolojik durumlar olup, trafik adabıyla doğrudan ilişkili değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q6",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi trafikte bireye yapılan hak ihlallerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aşırı hız yapmaktan kaçınılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Geçiş önceliğine sahip araçlara yol verilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Engelli kişiler için ayrılmış yerlere park edilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafikte sürücülerin tek başına olmadığının düşünülmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Engelli kişiler için ayrılmış yerlere park etmek, o kişilerin temel haklarını ihlal eder ve onlara yapılan bir haksızlıktır. Aşırı hız yapmaktan kaçınmak, geçiş önceliğine yol vermek ve trafikte birbirini düşünmek, aksine trafik kurallarına uyma ve hak saygısı göstermedir. Engelli alanlarına park etmek ise açık bir hak ihlalidir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q5",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte yaşanan öfke duygusu aşağıdakilerden hangisine yol açabilmektedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kural ihlallerinin azalmasına",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Direksiyon hâkimiyetinin artmasına",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kazaya karışma olasılığının azalmasına",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sürücülük yeteneğinin olumsuz yönde etkilenmesine",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafikte öfke, sürücünün karar verme yeteneğini zayıflatır, tepki süresi uzar ve hata yapma riski artar. Öfkeli sürücü, kural ihlallerini artırır, direksiyon hâkimiyetini kaybeder ve kaza riskini yükseltir. Sonuç olarak, öfke sürücülük yeteneğini olumsuz yönde etkiler ve trafikte güvenliği tehlikeye sokar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q2",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aracı arıza yaptığı için yolda kalmış ve trafiğin aksamasına sebep olmuş sürü- cünün sorununa, yoldan geçen diğer bir sürücünün durup çözüm bulması hâli, trafikte hangi temel değere sahip olunduğuna örnektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yardımlaşmaya",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Öfke duygusuna",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bencil davranmaya",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki göstermeye",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Sorunun tanımladığı durum - arızalanan araç sürücüsüne yardım etmek - yardımlaşmanın en güzel örneğidir. Yardımlaşma, trafikte birbirimizin zorlukları karşısında destek olmak anlamına gelir. Öfke göstermek, bencillik ve aşırı tepki ise bu değerin tam tersidir. Trafikte yardımlaşma, güvenli ve saygılı bir ortam yaratır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g8_q3",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan sürücünün, ışığın yeşile dönmesi için 1 saniye bile bekleyememesi durumu, bu sürücünün trafikte hangi temel değere sahip olmadığını gösterir? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İnatlaşma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sabır",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Sürücü, sarı ışıkta yeşile dönmesini bekleyemeyip korna çalmaktadır. Bu davranış, sabır değerinin eksikliğini gösterir. Sabır, trafikte hız sınırlamak, diğer sürücüleri beklemek ve sakin kalmak demektir. Öfke, inatlaşma ve aşırı tepki ise sabırın karşıtıdır. Sabırlı bir sürücü, trafikte daha güvenli ve düzenli bir ortam yaratır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 8,
+  "testId": "trafikadabi_group_8",
+  "name": "Trafik ve Çevre Test 8"
+}

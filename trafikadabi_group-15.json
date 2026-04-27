@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g15_q2",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "“Sol şeridi sürekli ihlal etmek yasaktır ve cezai işlem nedenidir.”\n\nBunun nedeni aşağıdakilerden hangisi olamaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sol şeridin sadece sollamalarda kullanılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Trafikte araçların seyir halindeki düzenini kolaylaştırmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Arkadan yüksek hızda gelen lüks araçlara yol vermek.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Geçiş üstünlüğü olan araçların geçişlerini kolaylaştırmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Sol şeridi sadece sollama için kullanmak (a), trafik düzenini sağlamak (b) ve geçiş üstünlüğü olan araçları kolaylaştırmak (d), sol şeridi ihlal etmenin gerçek nedenlerindendir. Ancak arkadan yüksek hızda gelen lüks araçlara yol vermek (c), sol şeridi ihlal etmenin bir nedeni değildir. Lüks araç olması, trafik kurallarını ihlal etme sebebi olamaz.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g15_q4",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": " 'İki otomobil eğimli bir yerde karşılaştıklarında eğimli yola çıkan aracın üstünlüğü vardır.'\n\nBuna rağmen yoğun kar sonucu buzlanan eğimli yolda yokuş çıkan aracın sürücüsü  inen aracın geçişini kolaylaştırmak ne gibi bir kişilik özelliğine sahip olduğunu gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfkeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yetenekli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sabırsız",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hoşgörülü",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Buzlanan eğimli yolda, yokuş çıkan araç yasal üstünlüğe sahip olmasına rağmen, sürücü inen aracın geçişini kolaylaştırıyor. Bu davranış, kişinin hoşgörülü ve başkasının güvenliğini düşünen bir kişilik özelliğine sahip olduğunu gösterir. Öfkeli olmak, sabırsız olmak bu durumla uyumlu değildir. Yetenekli olmak ise sürüş becerisiyle ilgilidir, bu davranışın motivasyonunu açıklamaz.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g15_q3",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi sürüş yeteneğini etkileyen zihinsel süreçlerden biridir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İşitme",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaş",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bedensel Sakatlık",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Sürüş yeteneğini etkileyen zihinsel süreçler, öfke gibi duygusal durumlar ve stres gibi psikolojik faktörlerdir. Öfke, sürücünün dikkatini dağıtır, karar verme yeteneğini zayıflatır ve tepki süresini uzatır. İşitme, yaş ve bedensel sakatlık ise fiziksel faktörlerdir ve zihinsel süreçler değildir. Öfke, trafikte en tehlikeli zihinsel etkilerden biridir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g15_q6",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte makas atmak çok tehlikelidir. Kişi sadece kendini riske atmaz. Kendiyle birlikte bir çok sürücüyü tehlikeye atarak zincirleme kazaya neden olabilir. Bunun yanında ağır yaralanma ve hatta ölümlere sebebiyet verebilir. Cinayetten farksız sonuçlar doğurabilecek bu duruma sebebiyet veren kişiler hakkında aşağıdakilerden hangisi söylemek yanlış olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kişisel problemleri vardır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Öfkesini yeteneğe dönüştürmüştür.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Egosunu tatmin etmektedir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yaptığı hatanın farkına varacak olgunlukta değildir.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Makas atan sürücüler, kişisel problemleri olan, egosunu tatmin etmeye çalışan ve yaptıkları hatanın ciddiyetini anlayamayan kişilerdir. Ancak öfkesini yeteneğe dönüştürmüş demek, bu davranışı olumlu bir şekilde tanımlamak olur ki, bu yanlıştır. Makas atmak, öfke ve kontrol kaybının bir göstergesidir, hiçbir şekilde yetenek değildir. Bu davranış cinayetten farksız sonuçlar doğurabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g15_q1",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi trafikte güvenliği tehdit eden unsurlardan birisi değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Artış hızına uyumlu bir şekilde gerekli yol çalışması ve düzenlemenin yapılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Trafik ortamındaki sürücü ve yayaların artması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kişilik özellilerinden kaynaklı riskler",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Artan stresli ve güç yaşam koşulları",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Trafikte güvenliği tehdit eden unsurlar, sürücü ve yayaların artması (b), kişilik özelliklerinden kaynaklı riskler (c) ve stresli yaşam koşulları (d) gibi olumsuz faktörlerdir. Ancak artan hızlara uyumlu yol çalışması ve düzenleme (a), aksine güvenliği artıran ve iyileştiren bir uygulamadır. Planlı altyapı yatırımları, trafik güvenliğini sağlamak için yapılır, tehdit değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g15_q5",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi trafik adabına uymayan tavırlara örnek değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Araçlar için yeşil ışık yanmasına rağmen yaya kırmızı ışıkta geçiyorsa aracı yavaşlatmaya gerek yoktur.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yakın bir dostumuzu gördüğümüz zaman kornayla selam vermek doğrudur.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sigara külünü aracın dışına atmak doğru bir davranıştır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Karşıdan karşıya geçmeye çalışan kör bir kişiye trafiği tehlikeye düşürmeden yardım etmek.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafik adabına uymayan tavırlar: yaya kırmızı ışıkta geçiyorsa aracı yavaşlatmamak (a), kornayla selam vermek (b) ve sigara külünü dışarı atmak (c) gibi davranışlardır. Ancak görme engelli bir kişiye karşıdan karşıya geçmede yardım etmek (d), trafik adabına uygun, insani ve sorumluluk bilincinin göstergesidir. Başkasının güvenliğini düşünerek hareket etmek, trafik adabının özüdür.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 15,
+  "testId": "trafikadabi_group_15",
+  "name": "Trafik ve Çevre Test 15"
+}

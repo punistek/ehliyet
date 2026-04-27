@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g34_q7",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Kaza yerindeki yaralı, sağlık kuruluşuna ne zaman sevk edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hayati tehlikelerine karşı önlem alındıktan sonra",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kendine gelmesi sağlandıktan sonra",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hiçbir müdahale yapılmadan önce",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yakınları geldikten sonra",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Yaralının hayati riskleri ortadan kaldırıldıktan sonra, tıbbi kuruluşa taşınması gerekir. Acil müdahalelerin ardından sevk işlemi yapılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q10",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Bir trafik kazası sonucunda yaralanan kazazedenin durumunun ağırlığını ve ciddiyetini gösteren bulgulardan biride bilinç düzeyidir. Aşağıdakilerden hangisi 1. derece bilinç düzeyini gösteren bir bulgudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sözlü ve gürültülü uyaranlara cevap vermesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Göz bebeklerinin farklı büyüklükte olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ağrılı uyaranlara cevap vermesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tüm uyaranlara tepkisiz olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Sözlü ve gürültülü uyaranlara tepki göstermek, kazazedenin tam bilinçte olduğunu ve normal bilinç düzeyinde olduğunu gösterir. Diğer seçenekler daha düşük bilinç seviyeleri veya anormal bulguları temsil eder.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q11",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Kaza yerindeki araçtan, yaralının çıkarılmasında ilk aşama aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tıbbi yardım istenmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaralıyı taşımak için sedye getirilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Motorun durdurulup aracın sabitlenmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yaralının araçtan çıkarılabileceği çıkış yerlerinin sağlanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Yaralıyı araçtan çıkarmadan önce en önemli adım, motor kapatılıp aracın hareket etmesinin engellenmesidir. Bu, ikincil kazaları ve yangın riskini önler.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q9",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Kalp ve kan damarları vücudumuzdaki hangi sistemde yer alır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sinir sisteminde",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dolaşım sisteminde",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sindirim sisteminde",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum sisteminde",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kalp ve damar sistemi, vücutta kan dolaşımını sağlayan sistem olarak bilinir. Bu sistem oksijen ve besinleri tüm vücut bölgelerine taşır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q1",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "• Geçici hafıza kaybı\n•Burundan kan gelmesi\n•Göz bebeklerinde büyüklük farkı\n\nYukarıdaki belirtiler, hangi bölge yaralanmalarında daha çok görülür?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Baş",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Karın",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Omurga",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Hafıza kaybı, burundan kanama ve göz bebeklerinde farklılık, baş bölgesindeki travmaların tipik bulguları arasındadır. Diğer seçenekler farklı bölge yaralanmalarıyla ilişkilidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q12",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "• Solunum yolu açık tutulur.\n•Solunum ve dolaşım desteklenir.\n\nYukarıda verilenlerin kazazedeye uygulanmasının amacı aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik kazalarının azaltılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Temel yaşam desteğinin sağlanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Çok sayıda yaralının olduğunun bildirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dinlenmiş olarak taşıt kullanmasının sağlanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hava yolunun açık kalması ve kan dolaşımının devam ettirilmesi, yaralının hayatını kurtarmak için gerekli temel müdahalelerdir. Bu uygulamalar yaşamsal fonksiyonları destekler.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q8",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "I- Her zaman tedbirli olmak\nII- Soğukkanlılığını korumak\nIII- Emin olmadığı uygulamalardan kaçınmak\n\nYukarıdakilerden hangileri ilk yardımı yapacak kişide bulunmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız 1",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "1 ve 2",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "2 ve 3",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "1, 2 ve 3",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İlk yardım yapacak kişi, her zaman dikkatli davranmalı, duygusal kontrolünü korumalı ve bilmediği uygulamalardan uzak durmalıdır. Üç koşul da başarılı müdahale için gereklidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q3",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Tehlikenin olmadığı kaza yerinde, boyun yaralanması olan yaralı hangi uygulamadan sonra araçtan çıkartılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Boynuna boyunluk takıldıktan sonra",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Boyun hareketleri yaptırıldıktan sonra",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Boyun ağrılarını dindirici ilaç verildikten sonra",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Boyun bölgesine masaj yapılıp, oturur şekilde",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Boyun bölgesinde yaralanma olduğunda, yaralının boynu desteklenip sabitlenmesi gerekir. Boyunluk kullanılarak hareket kısıtlanır ve daha fazla zarar önlenir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q6",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımda haberleşme ilkelerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Uzun ve detaylı bilgi verilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaralıların tüm kimlik bilgilerinin tam olarak verilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Olayın ciddiyetinin anlaşılabilmesi için aceleci ve telaşlı olunması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İlk yardım uygulaması yapıldı ise nasıl bir yardım yapıldığının anlatılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Yapılan ilk yardım uygulamalarının sağlık görevlilerine açık ve net bir şekilde anlatılması, haberleşme ilkelerine uygun davranıştır. Bu bilgi, sonraki tıbbi müdahaleleri yönlendirir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q2",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Diz ile kalça arasındaki kemikte kırık varsa yaralıya aşağıdakilerden hangisi uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Üzerine bastırılarak yürütülür.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Oturtularak atelle tespit edilir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sırtüstü yatırılarak iç ve dış yanlardan atelle tespit edilir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kan dolaşımını engellemeyecek şekilde turnike uygulanır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Femur kırığında yaralı yatırılmalı ve bacak iç ve dış taraflarından atelle desteklenmelidir. Bu yöntem, kırık bölgesinin hareketsiz kalmasını ve kan kaybının azalmasını sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q4",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi trafik psikolojisinin hedeflerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stresli olarak araç kullanmayı teşvik etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kurallara uymayan sürücüleri cezalandırmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Saygısız ve tedbirsiz davranışlar kazandırmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Toplumda insan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafik psikolojisi, insanların trafikteki davranışlarını ve karar alma süreçlerini inceleyerek, insan hatasından kaynaklanan kazaları azaltmayı hedefler.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g34_q5",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Kaza sonrasında oluşan sağlık sorunlarını en aza indirmeyi amaçlayan uygulamalara ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Girişim",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İlk yardım",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yöntem",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kaza sonrasında yaralıya yapılan acil müdahaleler ve uygulamalar, sağlık sorunlarını hafifletmek ve hayatı kurtarmak amacıyla yapılır. Bu uygulamalara ilk yardım adı verilir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 34,
+  "testId": "ilkyardim_group_34",
+  "name": "İlk Yardım Test 34"
+}

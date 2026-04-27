@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g7_q5",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi, trafikte diğerlerine göre daha çabuk ve fazla öfkelenen sürücülerin yol açtığı bir durum değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sabırsızlık ve tahammülsüzlüğün artması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kazaya karışma olasılığının azalması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kural ihlallerinin artması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dikkatin dağılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Öfkeli ve sabırsız sürücüler genellikle daha agresif davranırlar, hız yaparlar ve kurallara uymazlar. Bu davranışlar kazaya karışma olasılığını artırır. Seçenek B (kazaya karışma olasılığının azalması) ise öfkeli sürücülerin yol açtığı bir durum değildir, çünkü öfke riski azaltmaz, aksine artırır.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q6",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "I. Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi\nII. Köprü ve tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması\nIII. Trafo ve elektrik direğine çarpma gibi durumlarda kesintilerin yaşanması\nIV. Bilhassa yakıt, kimyasal madde, tıbbi atık vs. yüklü araçların yaptığı kazalar neticesinde büyük ekolojik zararların görülmesi\n\nYukarıdakilerden hangileri kara yolundameydana gelen trafik kazalarının kişiye, topluma, kamuya ve çevreye verdiği zararlardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I, III ve IV.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II, III ve IV.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II, III ve IV.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafik kazalarının zararları çok geniş bir yelpazede görülür. Ağaçlara verilen zarar (çevre), köprü ve tünellerdeki kazaların ulaşımı aksatması (kamu), elektrik kesintileri (kamu ve çevre), tehlikeli madde taşıyan araçların kazaları (çevre ve toplum) hepsi trafik kazalarının neden olduğu zararlardır. Dört seçenek de bu zararları kapsar.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q2",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "Trafik kazası, sadece maddi hasarlı bile olsa yaşanması hiç istenmeyen ve kazaya karışan sürücüleri psikolojik olarak olumsuz etkileyen bir durumdur.\n\nBuna göre kaza sonrası tarafların birbirine hangi şekilde davranması hâlinde meydana gelen kaza ile ilgili sorunlar daha kısa sürede çözülecektir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Asabi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Aşırı tepkili",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kaba ve saldırgan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Saygılı ve nezaketli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kaza sonrası taraflar arasında yaşanan gerginlik ve öfke, sorunun çözülmesini zorlaştırır. Saygılı ve nezaketli davranış, her iki tarafın da daha rahat iletişim kurmasını sağlar. Bu sayede sigorta işlemleri, raporlar ve diğer yasal işlemler daha hızlı ve sorunsuz bir şekilde tamamlanır. Asabi, aşırı tepkili veya saldırgan davranışlar ise durumu daha da kötüleştirir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q3",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Trafik içinde hatalı davranış sergileyen bir sürücüyü uyarmak aşağıdakilerden hangisini azaltır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Trafikteki araç sayısını",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sürücünün kaza yapma riskini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yayaların yaya geçidini kullanma oranlarını",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Diğer sürücülerin trafik kurallarına uyma yüzdelerini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Hatalı davranış sergileyen bir sürücüyü uyarmak, o sürücüyü dikkatli olmaya teşvik eder. Bu sayede sürücü hatalarını düzeltir ve daha güvenli bir şekilde araç kullanır. Sonuç olarak, o sürücünün kaza yapma riski azalır. Diğer seçenekler (araç sayısı, yaya geçidi kullanım oranları, diğer sürücülerin uyum yüzdeleri) uyarı ile doğrudan ilişkili değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q4",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Kendinden çok başkalarını düşünen, başkalarının iyiliği için fedakârlık yapan ve özgeci şeklinde tanımlanır. Yardım etme davranışının bir alt kategorisidir.\n\nYukarıdaki açıklama hangi davranış özelliğine aittir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saldırganlık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diğergamlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sorumsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Tanımda 'kendinden çok başkalarını düşünen', 'başkalarının iyiliği için fedakârlık yapan' ve 'özgeci' ifadeleri kullanılmıştır. Bu özellikler diğergamlığın tanımıdır. Diğergamlık, kişinin kendi çıkarlarından ziyade başkalarının çıkarlarını düşünmesi anlamına gelir. Bencillik (A) bunun tam tersidir, saldırganlık (B) ve sorumsuzluk (D) ise tamamen farklı davranış özellikleridir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g7_q1",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "“Hiçbir toplum 24 saat trafik zabıtası tarafından denetlenemez. Toplum yararına kesintisiz denetim - - - - ile mümkündür.”\n\nVerilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "trafik adabı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "trafik cezası",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "trafik terörü",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "trafik müfettişi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Cümlenin anlamı şöyledir: Trafik zabıtası 24 saat denetim yapamayacağı için, toplum yararına kesintisiz denetim ancak sürücülerin trafik adabını (kurallarına uyma, saygılı davranış, disiplin) benimsemesiyle mümkün olur. Trafik adabı, sürücülerin kendi iradesiyle kuralları uymasını ve diğer yol kullanıcılarına saygı göstermesini sağlar. Trafik cezası (B) sadece cezalandırma, trafik terörü (C) olumsuz bir durum, trafik müfettişi (D) ise denetim görevlisidir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 7,
+  "testId": "trafikadabi_group_7",
+  "name": "Trafik ve Çevre Test 7"
+}

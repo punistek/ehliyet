@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g33_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdaki özelliklerden hangisi ilk yardımcıda mutlaka bulunmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "İyi bir sürücü olmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Trafik görevlisi olmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sağlık personeli olmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sakin ve tedbirli olmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İlk yardımcı, acil durumlarda hızlı ve etkili müdahale yapabilmek için duygusal olarak kontrol altında olmalıdır. Sakin ve tedbirli davranış, panik yaratmadan doğru adımları atabilmeyi sağlar. Diğer seçenekler (sürücü olmak, trafik görevlisi olmak, sağlık personeli olmak) gerekli değildir; önemli olan kişisel özelliktir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q7",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Hangi durumdaki kazazedeye, göğüs kemiği 5 cm aşağıya inecek şekilde basınç uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kalbi duran",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalbi düzensiz çalışan",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunum sayısı azalan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunumu düzensiz olan",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kardiyak arrest durumunda göğüs kemiğine 5 cm derinliğinde basınç uygulanması, kalbin pompa fonksiyonunu yapay olarak yerine getirerek vücut organlarına kan pompalanmasını sağlar. Bu teknik, beyin ve diğer hayati organların oksijen almasını mümkün kılar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q12",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kesik şeklindeki yaralanmalarda yapılan ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yara üzerine alkol döküp açık bırakmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yara kenarlarını birbirine yaklaştırdıktan sonra sarmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yarayı tentürdiyotlu pamukla sarıp sıcak tutmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kesilen bölgenin kalp seviyesinin altında kalmasını sağlamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kesik yaralanmalarda yara kenarlarını birbirine yaklaştırmak ve sarmak, kan kaybını minimize eder ve yara iyileşmesini hızlandırır. Alkol dökmek yarayı açık bırakmak enfeksiyona neden olur; tentürdiyot ve sıcak uygulamalar da uygun değildir. Kesilen bölgeyi kalp seviyesinin altında tutmak ise bu tür yaralarda standart uygulama değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q3",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi bilinç kaybı olan bir kazazedenin solunum yolunu tıkayarak boğulmasına sebep olabillir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Çenenin kasılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Vücudun kasılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dilin geriye kaçması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Baş-çene pozisyonu verilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bilinç kaybı olan hastada dil kasları gevşer ve dil geriye doğru hareket ederek solunum yolunu tıkayabilir. Bu durum acil müdahale gerektiren bir tehlikedir. Çenenin kasılması, vücudun kasılması ve baş-çene pozisyonu verilmesi dilin geriye kaçmasını doğrudan sebep olmaz.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q6",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Ağızdan ağıza suni solunum yapılacak olan kazazedede boyun travması yoksa, verilecek en doğru pozisyon aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yastıksız olarak sırtüstü yatırılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Başının altına yastık konularak sırtüstü yatırılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sırtüstü yatar pozisyonda iken başının geriye doğru olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sırtüstü yatar pozisyonda iken çenesinin göğsüne değecek şekilde olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Ağızdan ağıza suni solunum uygulanacaksa, başın geriye doğru eğilmesi solunum yolunu açar ve havanın akciğerlere ulaşmasını kolaylaştırır. Yastık kullanmak veya çeneyi göğüse yaklaştırmak bu amaç için uygun değildir. Boyun travması olmadığı sürece bu pozisyon güvenlidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q4",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Kazazedenin ağız bölgesine bir cam parçası ya da ayna yaklaştırarak buharlanıp buharlanmadığına bakılması 'Bak - Dinle - Hisset' yönteminde hangisinin bir göstergesidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dinle",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hisset",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dinle - Hisset",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "'Bak - Dinle - Hisset' yöntemi, bilinç kaybı olan hastanın durumunu değerlendirmek için kullanılır. Ağız bölgesine cam veya ayna yaklaştırarak buharlanıp buharlanmadığını kontrol etmek, hastanın solunum durumunu görsel olarak gözlemlemektir. Bu, 'Bak' aşamasının bir parçasıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q2",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "İnsan vücudunda ağız, yemek borusu, mide, ince ve kalın bağırsakların yer aldığı sistem hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sinir sistemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dolaşım sistemi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunum sistemi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sindirim sistemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Sindirim sistemi, besinlerin alınmasından başlayarak vücuda faydalı hale getirilmesine kadar olan tüm süreci yönetir. Ağız, yemek borusu, mide ve bağırsaklar bu sistemin ana bileşenleridir. Sinir sistemi iletişimi, dolaşım sistemi kan taşımacılığını, solunum sistemi ise oksijen alışverişini sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q8",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kanamayı azaltmak için uygulanan bir yöntemdir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kanayan yerin oksijenli su ile yıkanması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanayan yere sıcak uygulama yapılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanama bölgesinde bulunan pıhtıların yıkanarak temizlenmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanayan yere en yakın basınç noktasına baskı uygulanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kanamayı durdurmak için kanayan yere en yakın basınç noktasına baskı uygulanması, kan damarlarını sıkıştırarak kan akışını engeller. Su ile yıkamak, sıcak uygulama ve pıhtıları temizlemek kanamaları artırır. Bu yöntem, acil durumlarda etkili bir ilk yardım uygulamasıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q11",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi bilinç kaybının başlıca nedenlerinden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bayılma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beyin kanaması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yüzün kızarması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı dozda alkol alımı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bilinç kaybının ana nedenleri arasında bayılma, beyin kanaması ve aşırı alkol alımı yer alır. Yüzün kızarması ise genellikle utanç, sıcak ortam veya egzersiz gibi fizyolojik tepkilerden kaynaklanır ve bilinç kaybı ile doğrudan ilişkili değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q9",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "El bileği ile dirsek arasında meydana gelen büyük bir dış kanamayı durdurmak için aşağıdakilerden hangisinin uygulanması doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sıcak su ile yıkanması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanayan yere merhem sürülmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dirsekle omuz arasına turnike uygulanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanayan yerin kalp seviyesinden aşağıda tutulması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "El bileği ile dirsek arasında meydana gelen büyük dış kanamada, turnike dirsekle omuz arasına uygulanır. Bu, kolun üst kısmındaki ana kan damarlarını sıkıştırarak kanamanın durdurulmasını sağlar. Sıcak su, merhem ve pozisyon değişikliği bu tür ciddi kanamaları kontrol etmede yetersizdir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q10",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Şok pozisyonunda hastanın ayaklarının yukarıya kaldırılmasının amacı nedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sindirime yardımcı olmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Vücut sıcaklığını düşürmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunumun düzenli olmasını sağlamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Beyne yeterince kan gitmesini sağlamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Şok pozisyonunda hastanın ayakları yukarıya kaldırıldığında, yerçekimi etkisiyle kan aşağı ekstremitelerden beyne ve kalbe doğru akar. Bu, beyin ve hayati organların yeterli kan akışı almasını sağlar. Sindirime yardımcı olmak, vücut sıcaklığını düşürmek veya solunumu düzenlemek bu pozisyonun amacı değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g33_q5",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Trafik kazalarına müdahalede ilk yardımın 1. adımı nedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tıbbi yardım istenmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaralının hemen araçtan çıkarılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaralının hemen hastaneye taşınması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafik ve can güvenliğinin sağlanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Trafik kazasında ilk adım, kaza bölgesinin güvenliğini sağlamaktır. Trafik düzenlemesi ve can güvenliğini sağlamak, ek kazaları önler ve yaralılara müdahale edilebilecek güvenli bir ortam oluşturur. Tıbbi yardım çağrısı yapılmalı ancak yaralı hemen araçtan çıkarılmamalı, hastaneye taşınması ise profesyonellere bırakılmalıdır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 33,
+  "testId": "ilkyardim_group_33",
+  "name": "İlk Yardım Test 33"
+}

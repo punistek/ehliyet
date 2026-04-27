@@ -1,0 +1,297 @@
+{
+  "categoryId": "motor",
+  "questionCount": 9,
+  "questions": [
+    {
+      "id": "motor_g32_q4",
+      "order": 1,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisinin periyodik bakımı yapılmadığında yakıt sistemine yeterli miktarda yakıt ulaşmaz?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yağ filtresi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Polen filtresi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yakıt filtresi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ekran filtresi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Yakıt filtresi, yakıt deposundan gelen yakıtı arıtarak motor sistemine temiz yakıt ulaştırır. Bakımı yapılmadığında tıkanır ve yakıt akışını keser. Diğer seçenekler (yağ filtresi, polen filtresi, ekran filtresi) yakıt sistemine doğrudan etki etmez.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q7",
+      "order": 2,
+      "categoryId": "motor",
+      "question": "Geri vites lambalarından biri parlak diğeri sönük yanıyorsa sebebi aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Flaşör arızalıdır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Akü gerilimi düşüktür.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Geri vites müşiri arızalıdır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Lamba bağlantısında oksitlenme vardır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Geri vites lambalarının bağlantı noktalarında oksitlenme oluştuğunda, elektrik akışında direnç artışı meydana gelir. Bu durum lambalardan birine daha az akım ulaşmasına neden olur ve o lamba daha sönük yanar. Flaşör arızası her iki lambayı etkilerdi, akü gerilimi düşüklüğü ise tüm sistemi etkilerdi.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q8",
+      "order": 3,
+      "categoryId": "motor",
+      "question": "Akünün bakımında, elektrolit seviyesinin düşük olduğu gözlemlendiğinde aşağıdakilerden hangisi yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Asit ilave edilmeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saf su ilave edilmeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hava filtresi değiştirilmeli",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kutup başları gevşetilmeli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Akü çalışırken elektrolit seviyesi azalır ancak asit oranı değişmez. Eksilen kısmı tamamlamak için sadece saf su eklenir. Asit ilave etmek elektrolit oranını bozar ve akünün işlevini zayıflatır. Hava filtresi ve kutup başları akü bakımıyla ilgili değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q5",
+      "order": 4,
+      "categoryId": "motor",
+      "question": "Motor yağ seviyesinin tavsiye edilenden az veya çok olması aşağıdakilerden hangisine neden olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "El freninin daha iyi tutmasına",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motor parçalarının zarar görmesine",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Egzoz susturucusunun delinmesine",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Lastik hava basınçlarının düşmesine",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Motor yağı, motor parçalarını yağlayarak ve soğutarak korur. Yağ seviyesi az olursa yeterli yağlama sağlanamaz ve parçalar aşınır; çok olursa motor aşırı ısınır ve parçalar zarar görür. El freni, egzoz susturucusu ve lastik basıncı yağ seviyesinden etkilenmez.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q3",
+      "order": 5,
+      "categoryId": "motor",
+      "question": "Taşıtla ilgili sistemlerin çalışma durumlarını bildiren ışıklı, sesli veya ibreli uyarıcıların toplandığı bölüme ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kabin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Gösterge paneli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Başlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sigorta tablası",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Gösterge paneli, sürücüyü araç sistemlerinin durumu hakkında bilgilendiren ışıklı, sesli ve ibreli uyarıcıların toplandığı kontrol merkezi görevini görür. Kabin araç içi alan, başlık ön bölüm, sigorta tablası elektrik koruması için kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q6",
+      "order": 6,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi sürüş sırasında aracın bir tarafa çekmesine sebep olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Lastiklerden birinin hava basıncının farklı olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yakıt deposunun dolu olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bujilerin ayarsız olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aracın hızlı sürülmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Lastiklerin hava basıncı farklı olduğunda, daha düşük basınçlı lastik daha fazla sıkışır ve daha az dirençle hareket eder. Bu dengesizlik aracın düşük basınçlı lastik tarafına çekilmesine neden olur. Yakıt deposu doluluk, buji ayarı ve hız bu soruna neden olmaz.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q2",
+      "order": 7,
+      "categoryId": "motor",
+      "question": "I- Frenler\nII- Lastikler\nIII- Yakıt seviyesi\n\nAracı kullanmaya başlamadan önce, yukarıda verilenlerden hangilerinin durumu iyi olmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Araç kullanmaya başlamadan önce frenler güvenli sürüş için, lastikler tutunma ve denge için, yakıt seviyesi ise yolculuk tamamlanması için kontrol edilmelidir. Bu üç unsur da sürüş öncesi kontrol listesinin temel bileşenleridir.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q1",
+      "order": 8,
+      "categoryId": "motor",
+      "question": "Dizel motorlarda yakıtın ateşlenmesi nasıl olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Buji kıvılcımı ile",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Elektrik motoru ile",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dışarıdan ısıtılarak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sıkıştırılan havanın sıcaklığı ile",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Dizel motorlarda, yakıt-hava karışımı silindir içinde sıkıştırıldığında, sıkıştırmanın mekanik etkisiyle hava sıcaklığı yakıtın tutuşma sıcaklığına ulaşır ve kendiliğinden yanmaya başlar. Benzin motorlarından farklı olarak buji kıvılcımına ihtiyaç yoktur.",
+      "mainImage": null
+    },
+    {
+      "id": "motor_g32_q9",
+      "order": 9,
+      "categoryId": "motor",
+      "question": "Motorun soğutma sisteminde kullanılan su, 0 oC'nin altındaki hava şartlarında donarak motorda çatlama ve hasara sebep olabilir. Buna göre, donmanın önlenmesi için motor soğutma suyuna aşağıdakilerden hangisi karıştırılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Antifriz",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motor yağı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Fren hidroliği",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Akü elektroliti",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Antifriz, soğutma suyuna karıştırıldığında suyun donma noktasını 0°C'nin altına düşürür ve çok soğuk ortamlarda donmayı engeller. Motor yağı yağlama için, fren hidroliği fren sistemi için, akü elektroliti ise akü işlevi için kullanılır ve soğutma sisteminde yer almaz.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 32,
+  "testId": "motor_group_32",
+  "name": "Motor Test 32"
+}

@@ -1,0 +1,201 @@
+{
+  "categoryId": "trafikadabi",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "trafikadabi_g12_q4",
+      "order": 1,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte aracıyla kırmızı ışıkta bekleyen sürücünün, ışık yeşile döndüğünde karşıya geçmek için yolu neredeyse yarılamış bir yayanın geçişini tamamlamasını beklemesi, bu sürücünün hangi davranış özelliğine sahip olduğunu gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diğergamlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sabırsızlık",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Doğru cevap C'dir. Yeşil ışıkta geçme hakkına sahip olmasına rağmen yayanın geçişini tamamlamasını beklemek, başkasının güvenliğini kendi çıkarından öne alan diğergamlık davranışıdır. A (öfke), B (bencillik) ve D (sabırsızlık) bu davranışla çelişir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q5",
+      "order": 2,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi hoşgörü sahibi olmayan sürücülerin özelliklerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfkeli olmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sabırlı olmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Başarılı iletişim kurmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bencillikten uzak durmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Doğru cevap A'dır. Hoşgörü eksikliği öfke ile yakından ilişkilidir. Hoşgörüsüz sürücüler küçük sorunlara aşırı tepki gösterirler. B (sabırlı olmak), C (başarılı iletişim) ve D (bencillikten uzak durmak) hoşgörü sahibi sürücülerin özellikleridir.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q2",
+      "order": 3,
+      "categoryId": "trafikadabi",
+      "question": "• Trafikte temel değerleri içselleştirerek doğru davranış göstermek\n• Trafikte karşılaşılan sorunları doğru yöntemlerle çözmek\n• Sağlıklı ve güvenli bir trafik ortamı oluşmasına katkı sağlamak\n\nVerilenler aşağıdakilerden hangisinin amacını oluşturur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mizacın",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beden dilinin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik adabının",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Konuşma üslubunun",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Doğru cevap C'dir. Verilen maddeler (değerleri içselleştirme, sorunları doğru çözme, güvenli ortam oluşturma) trafik adabının temel amaçlarıdır. A (mizaç), B (beden dili) ve D (konuşma üslubu) bu hedefleri tanımlamaz.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q3",
+      "order": 4,
+      "categoryId": "trafikadabi",
+      "question": "Hangi temel değere sahip sürücü, yoğun trafikte bir dizi hâlinde gitmekte olan diğer sürücülerin önlerine geçip, trafiği daha da sıkışık hâle getirerek yoluna devam etmez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencil",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sorumsuz",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Görgü seviyesi düşük",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Empati düzeyi yüksek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Doğru cevap D'dir. Yoğun trafikte sıraya girmek yerine öne geçmeyen sürücü, diğer yol kullanıcılarının durumunu düşünerek hareket etmektedir. Bu, empati düzeyinin yüksek olduğunu gösterir. A (bencil), B (sorumsuz) ve C (görgü seviyesi düşük) bu davranışı açıklamaz.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q6",
+      "order": 5,
+      "categoryId": "trafikadabi",
+      "question": "Denetim ve ceza korkusu olmadan yazılı kurallara uymanın yanı sıra yazılı olmayan, trafik içerisinde karşılıklı anlayış ve empati gerektiren davranışları oluşturma ve bu davranışları alışkanlık haline getirmedir.\n\nBu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mizaç",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Beden dili",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik adabı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Konuşma üslubu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Doğru cevap C'dir. Tanımda belirtilen ceza korkusu olmadan kurallara uyma, karşılıklı anlayış ve empati gerektiren davranışlar trafik adabının özüdür. A (mizaç), B (beden dili) ve D (konuşma üslubu) bu tanımla eşleşmez.",
+      "mainImage": null
+    },
+    {
+      "id": "trafikadabi_g12_q1",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Aşağıdakilerden hangisi, kara yolunda meydana gelen trafik kazalarının çevreye verdiği zararlardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Açılan çok sayıda dava ile yargı sisteminde iş yükünün artması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Köprü, tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Trafo, elektrik direğine çarpma gibi durumlarda kesintiler yaşanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Doğru cevap A'dır. Soru çevreye verilen zararları soruyor. Dava açılması hukuki bir sonuç olup çevresel zarar değildir. B (ağaçlara zarar), C (ulaşım aksaması) ve D (altyapı kesintileri) trafik kazalarının çevresel etkileridir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 12,
+  "testId": "trafikadabi_group_12",
+  "name": "Trafik ve Çevre Test 12"
+}

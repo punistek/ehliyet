@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g27_q6",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi atardamar kanamasındaki kanın özelliklerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Açık kırmızı renkte olması ve fışkırarak akması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Çok hafif olup sızarak akması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kısa sürede pıhtılaşması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yavaş akması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Atardamar kanamasında kan yüksek basınç altında olduğu için parlak kırmızı renkte ve düzenli fışkırarak akış gösterir. Venöz kanama yavaş ve koyu renkte, kapiller kanama ise sızıntı şeklinde olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Vücudumuzdaki yapı birimlerinin küçükten büyüğe doğru sıralanışı aşağıdakilerden hangisindeki gibi olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sistem - Doku - Organ - Hücre",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Organ - Hücre - Doku - Sistem",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hücre - Doku - Organ - Sistem",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hücre - Organ - Doku - Sistem",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Vücudun organizasyon seviyeleri hücreden başlayarak artar. Hücreler → Dokular → Organlar → Sistemler şeklinde ilerler. Her seviye bir öncekinin yapı taşlarından oluşur ve daha karmaşık fonksiyonlar gerçekleştirir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q11",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Köprücük kemiği kırıklarında yaralının hangi bölgesi tespit edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "El",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Omuz",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kalça",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Göğüs",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Köprücük kemiği omuz bölgesinde bulunan ve göğüs ile kol arasında bağlantı sağlayan bir kemiktir. Bu bölgedeki kırıklar omuz ve üst kol bölgesinde ağrı ve hareket kısıtlılığına neden olur. El, kalça ve göğüs gibi uzak bölgeler doğrudan etkilenmez.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q10",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Başa alınan darbe sonucu kulağından kan gelen kazazedeye aşağıdakilerden hangisi uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Oturtulup kulağına pamuk tıkanır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sırtüstü yatırılarak ayakları yukarı kaldırılır.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kan akan bölgesi üstte kalacak şekilde yan yatırılır ve kulak pamukla tıkanır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kan akan bölgesi altta kalacak şekilde yan yatırılır ve kanama engellenmez.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Başa alınan darbe sonucu kulağından kan gelmesi ciddi bir yaralanmanın göstergesidir. Bu durumda kanın doğal olarak akmasına izin vermek önemlidir çünkü kanamayı durdurmaya çalışmak iç basıncı artırabilir. Hastanın kan akan taraf üstte kalacak şekilde yan yatırılması, sıvıların doğal akışını sağlar ve aspirasyon riskini azaltır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q3",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Bak-Dinle-Hisset yönteminde 'Bak' ne anlama gelir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yaralının göğüs kafesinin inip kalktığına bakılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kaza bölgesinde yanıcı madde olup olmadığına bakılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaralıda kırık olup olmadığına bakılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kaç yaralı olduğuna bakılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bak-Dinle-Hisset yöntemi bilinçsiz kişilerde solunum varlığını değerlendirmek için kullanılır. 'Bak' aşamasında göğüs kafesinin hareket ettiği gözlemlenir. 'Dinle' aşamasında ağızdan solunum sesi kontrol edilir. 'Hisset' aşamasında ağız veya burun seviyesinde hava akışı hissedilir. Bu üç gösterge birlikte değerlendirilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q8",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi şok belirtilerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nabız atışının güçlü olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Cildin kuru ve sıcak olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kan basıncının düşmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Zihinsel aktivitenin artması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Şok, dokulara yeterli oksijen taşıyan kan akışının azalması durumudur. Şok belirtileri arasında kan basıncının düşmesi, nabız hızının artması, cilt soğuk ve ıslak olması, huzursuzluk ve bilinç değişiklikleri yer alır. Güçlü nabız ve sıcak cilt normal durumun göstergeleridir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q12",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi koma hâlinin belirtilerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kötü kokulara karşı burnunu tıkama",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bilinçsizlik, hareketsizlik ve uyku hâli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sorulan sorulara anlamlı cevap verme",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Gözleri ile hareket eden cisimleri takip etme",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Koma, kişinin tamamen bilinçsiz olduğu ve dış uyarılara hiçbir şekilde yanıt vermediği derin bir bilinç kaybı durumudur. Koma halindeki hastalar uyku halinde görünse de normal uyandırma yöntemleriyle uyandırılamaz. Refleks yanıtlar da kaybolabilir. Diğer seçenekler kısmen bilinç korunduğu durumları tanımlar.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q4",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Suni solunum işlemleri öncesinde ilk olarak yapılması gereken aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Solunumu uyarmak için göğüs bölgesine yumruk atılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ağız içinin temizlenerek hava yolu açıklığının sağlanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Suni solunuma başlamadan 5 dakika beklenilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hastanın ayaklarının yükseltilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Suni solunum başlamadan önce hava yolunun tamamen açık olması şarttır. Ağız ve boğazda yabancı cisim, tükürük, kan veya kusma varsa bunlar dikkatli şekilde temizlenmelidir. Tıkalı hava yolu ile yapılan suni solunum etkisiz kalır ve aspirasyon (yabancı maddenin akciğerlere girmesi) riskini artırır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Burun kanaması olan bir kazazedeye aşağıdaki uygulamalardan hangisinin yapılması doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Baş ve işaret parmakları arasına alınan burun kemiğinin kuvvetlice sıkılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Burun köküne ve enseye sıcak uygulama yapılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sümkürtülerek burun içinin temizlenmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sırtüstü yatırılıp başın geriye alınması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Burun kanamasında ilk müdahale, burun kemiğinin yumuşak kısmını (alt bölüm) işaret ve baş parmakları arasına alarak sıkı basınç uygulamaktır. Bu basınç 10-15 dakika boyunca sürdürülmelidir. Sıcak uygulama kan akışını artırabilir, sümkürtme kanamayı yeniden başlatabilir ve baş geriye alma aspirasyon riskini artırır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q1",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımın hedeflerinden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şokun önlenmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kazaların önlenmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Acil yardım istenmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanamanın durdurulması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "İlk yardımın temel amaçları yaralının hayatını kurtarmak, durumunun ilerlemesini durdurmak, şok gelişimini önlemek, kanamayı kontrol etmek ve profesyonel tıbbi yardım alınmasını sağlamaktır. Kazaların önlenmesi ise iş güvenliği ve trafik düzenlemeleri gibi koruyucu önlemlerin alanıdır ve ilk yardımın kapsamı dışındadır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q7",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Omuz ve koldaki kanamalarda, şekilde gösterilen hangi bölgeye basınç uygulanmalıdır?",
+      "type": "image",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kasık bölgesine",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Şakak bölgesine",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Çene altı bölgesine",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Köprücük kemiğinin iç kısmına",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Omuz ve kol bölgesindeki atardamar kanamasını kontrol etmek için köprücük kemiğinin iç kısmında yer alan ana atardamara basınç uygulanır. Bu bölgeye yapılan basınç, kol ve omuz bölgesine giden kan akışını azaltarak kanamayı durdurur. Kasık, şakak ve çene altı gibi diğer bölgeler vücudun farklı kısımlarındaki kanamalar için kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g27_q5",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Kalbi çalıştığı hâlde solunumu durmuş olanlara yapılacak suni solunuma ne kadar devam edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "10 dakika",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "15 dakika",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kalbi daha hızlı çalışana kadar",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hasta kendi kendine soluyuncaya kadar",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kalbi çalışan ancak solunumu durmuş olan hastaya suni solunum uygulanması, hastanın kendi kendine soluyuncaya kadar devam ettirilmelidir. Belirli bir zaman sonra durdurmak tehlikelidir. Suni solunum, hastanın spontan solunum başlaması veya tıbbi profesyonellerin müdahalesi ile sonlandırılır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 27,
+  "testId": "ilkyardim_group_27",
+  "name": "İlk Yardım Test 27"
+}

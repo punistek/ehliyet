@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g1_q6",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdaki durumların hangisinde kazazedeye Heimlich Manevrası uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kan şekeri düştüğünde",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Tam tıkanma yaşadığında",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanaması olduğunda",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kalbi durduğunda",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Heimlich Manevrası, solunum yolunun tamamen tıkandığı acil durumlarda uygulanır. Bu teknik, hava yolunu tıkayan yabancı cismi çıkarmak için karın bölgesine yukarı doğru ani bir basınç uygulanmasını içerir. Kan şekeri düşüklüğü, kanaması veya kalp durması gibi diğer tıbbi durumlar bu manevrayı gerektirmez; bu durumlar için farklı ilk yardım müdahaleleri gereklidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q4",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "• Bir el alına yerleştirilir.\n• Diğer elin iki parmağı çene kemiğinin üzerine yerleştirilir.\n• Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir.\n\nUygulama basamakları verilen ve kazazedenin hava yolunu açmak için kullanılan pozisyon aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şok pozisyonu",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yarı oturuş pozisyonu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Baş geri-çene yukarı pozisyonu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yarı yüzükoyun-yan pozisyon",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Açıklanan teknik, baş geri-çene yukarı pozisyonudur. Bu pozisyon, kazazedenin hava yolunu açmak için kullanılır. Uygulamada, bir el alına konur, diğer elin iki parmağı çene altına yerleştirilir, alından hafif basınç uygulanırken çeneden yukarı doğru kaldırılır ve baş geriye itilerek hava yolu açılmış olur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q1",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi ilk yardımcıda bulunması gereken özelliklerdendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Telaşlı ve tedirgin olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İletişim becerilerinin zayıf olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Önce çevrenin güvenliğini sağlaması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "İnsan vücudu ile ilgili temel bilgilere sahip olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "İlk yardımcı, insan vücudu ve temel fizyoloji hakkında bilgi sahibi olmalıdır. Vücudun yapısını, organların işlevlerini ve sistemler arası ilişkileri anlamak, kazazedelere uygun ve etkili yardım sağlamayı mümkün kılar. Telaş, tedirginlik veya zayıf iletişim becerisi ise ilk yardımcıda bulunmaması gereken olumsuz özelliklerdir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q3",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "I. El freninin çekilmesi\nII. Kontağın kapatılması\nIII. LPG’li ise aracın bagajında bulunan tüpün vanasının kapatılması\n\nYukarıdakilerden hangileri kazaya uğrayan araçta alınması gereken güvenlik önlemlerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kazaya uğrayan araçta alınması gereken güvenlik önlemleri şunlardır: el freninin çekilmesi araçın hareket etmesini engeller, kontağın kapatılması elektrik sistemini devre dışı bırakır ve yangın riskini azaltır, LPG'li araçlarda bagaj tüpünün vanasının kapatılması gaz sızıntısını önler. Bu üç önlem de kaza sonrası ortaya çıkabilecek ikincil tehlikeleri minimize etmek için gereklidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q12",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Kaza sonrası solunum durması, yangın tehlikesi, patlama gibi tehlikeli durumların olasılığı mevcut ise kazazedenin omuriliğine zarar vermeden araçtan çıkarılmasında kullanılan teknik aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rentek manevrası",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İtfaiyeci yöntemi ile omuzda taşıma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ayak bileklerinden sürükleme yöntemi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Koltuk altından tutarak sürükleme yöntemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Rentek manevrası, hayati tehlike durumlarında (solunum durması, yangın, patlama riski) kazazedenin omuriliğini koruyarak araçtan çıkarmak için kullanılır. Bu teknik, kazazedenin gövdesini bir bütün olarak hareket ettirerek, özellikle boyun ve bel bölgesinin korunmasını sağlar. Diğer yöntemler (omuzda taşıma, sürükleme) omuriliğe zarar verebileceğinden bu durumlarda uygun değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q9",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi delici karın yaralanması olan kazazedeye yapılması gereken ilk yardım uygulamalarından biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bilinç kontrolünün yapılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaşam bulgularının sık sık izlenmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Dışarı çıkan organlarının içeri sokulmaya çalışılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bilinci yerinde ise sırtüstü pozisyonda bacakları bükülmüş olarak yatırılması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Delici karın yaralanmasında yapılması gereken uygulamalar: bilinç kontrolü, yaşam bulgularının izlenmesi ve bilinci yerinde ise sırtüstü pozisyonda bacakları bükülmüş şekilde yatırılmasıdır. Dışarı çıkan organların içeri sokulmaya çalışılması yapılmamalıdır, çünkü bu hareket yaralanmayı daha da ağırlaştırabilir ve enfeksiyona yol açabilir. Organlar steril bir bezle kaplanmalı ve tıbbi yardım beklenmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q11",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Beyne giden kan akışının azalması sonucu oluşan kısa süreli, yüzeysel ve geçici bilinç kaybına ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Koma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bayılma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sara krizi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ateşli havale",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bayılma, beyne giden kan akışının geçici olarak azalması sonucu oluşan kısa süreli ve geçici bilinç kaybıdır. Koma ise uzun süreli ve derin bir bilinç kaybı durumudur. Sara krizi sinir sisteminin elektriksel aktivitesindeki bozulma, ateşli havale ise yüksek ateşle ilişkili nöbettir. Bayılma bu durumlardan farklı olarak ani başlayan ve çabuk geçen bir durumdur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q10",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi çıkıklarda yapılması gereken ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Çıkığın yerine oturtulmaya çalışılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Eklemin düzeltildikten sonra tespit edilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Çıkık olan bölgeye kuvvetli masaj yapılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bölgenin nabzının, deri renginin ve ısısının kontrol edilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Çıkığın derecesini ve komplikasyonları belirlemek için bölgenin nabzı, deri rengi ve ısısı kontrol edilir. Nabzın zayıflaması, deri renginin değişmesi veya bölgenin anormal ısısı, sinir veya kan damarı hasarını gösterebilir. Çıkığın yerine oturtulmaya çalışılması, masaj yapılması veya düzeltme sonrası tespit edilmeden hareket ettirilmesi komplikasyonları artırabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q8",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi dış kanamalarda yapılan hatalı ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kanayan bölgeyi aşağıya indirmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanayan yer üzerine temiz bir bezle bastırmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Uzuv kopması varsa boğucu sargı (turnike) uygulamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanayan yere en yakın basınç noktasına baskı uygulamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Dış kanamalarda kanayan bölgeyi aşağıya indirmek hatalı bir uygulamadır. Doğru yöntem, yaralı bölgeyi kalp seviyesinin yukarısına kaldırmaktır. Bu, yerçekiminin etkisiyle kan akışını yavaşlatır ve kanamanın durdurulmasına yardımcı olur. Diğer seçenekler (temiz bezle bastırma, turnike uygulaması, basınç noktasına baskı) hep doğru uygulamalardır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q5",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Yetişkin bir kazazedenin solunum yapıp yapmadığı bak-dinle-hisset yöntemiyle kaç saniye süre ile kontrol edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "10",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "20",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "30",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "40",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bak-dinle-hisset yöntemi, kazazedenin solunumunu değerlendirmek için 10 saniye içinde yapılır. Yardımcı kazazedenin yüzüne bakarak ağız ve burundan hava çıkışını gözlemler, kulağını göğsüne yaklaştırarak solunum seslerini dinler ve göğüs hareketlerini hisseder. Bu kısa süre içinde solunum yoksa, derhal yapay solunum başlatılmalıdır. 20, 30 veya 40 saniye beklemek kazazedenin beynine gidecek oksijen miktarını tehlikeye düşürür.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q2",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak “iyi misiniz?” diye sorularak - - - - değerlendirmesi yapılır.\n\nYukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır? ",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "dolaşım",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "bilinç durumu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "solunum",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "hava yolu açıklığı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kazazedenin bilinç durumu, sözlü uyaranlar (seslenme) veya fiziksel uyaranlar (hafif omuz dokunması) ile değerlendirilir. 'İyi misiniz?' sorusu ve kazazedenin tepkisi, bilinç seviyesini belirler. Bilinç durumu değerlendirmesi, ilk yardım protokolünün ilk adımıdır ve kazazedenin hava yolu, solunum ve dolaşım durumunun değerlendirilmesinden önce yapılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g1_q7",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi atardamar kanamalarının özelliklerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kanamanın sızıntı şeklinde olması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanın koyu renkli ve küçük kabarcıklar şeklinde akması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Açık renkli kanın kalp atımları ile uyumlu olarak kesik kesik akması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanamanın fışkırma olmadan akması ve kısa sürede durdurulabilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Atardamar kanaması, açık renkli kanın kalp atımlarına senkron olarak kesik kesik fışkırması şeklinde görülür. Bu, atardamarların yüksek basınçlı kan taşımasından kaynaklanır. Toplardamar kanaması koyu renkli ve sızıntı halinde akar. Kılcal damar kanaması ise yavaş sızıntı şeklindedir. Atardamar kanaması en tehlikeli olanıdır ve hızlı müdahale gerektirir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 1,
+  "testId": "ilkyardim_group_1",
+  "name": "İlk Yardım Test 1"
+}

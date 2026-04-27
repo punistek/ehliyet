@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g32_q8",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi çıkık belirtisi değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Eklemde morarma ve şişlik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Eklem bölgesinde şekil bozukluğu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Eklemde hareket kısıtlılığı veya kaybı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Eklem hareket ettirildiğinde azalan ağrı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Çıkık belirtileri arasında morarma, şişlik, şekil bozukluğu ve hareket kısıtlılığı yer alır. Hareket ettirildiğinde ağrının azalması ise çıkığın karakteristik bir özelliği değildir; aksine çıkıkta ağrı genellikle artar veya sabit kalır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q12",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "I- İyileşmeyi kolaylaştırmak\nII- Kazazedelerin özel yaşamlarıyla ilgilenmek\nIII- Yaşamın korunması ve sürdürülmesini sağlamak\n\nYukarıda verilenlerden hangileri ilk yardımın amaçlarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "I ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "İlk yardımın ana hedefleri yaşamı korumak ve iyileşmeyi hızlandırmaktır. Kazazedelerin özel yaşamlarıyla ilgilenmek ise ilk yardım hizmetinin kapsamı dışındadır. Bu nedenle I ve III doğru, II yanlıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q2",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Kanayan yer kalp seviyesinden üstte tutulursa aşağıdakilerden hangisi olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Beyin kanaması riski artar.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalbin kasılıp-gevşeme sayısı artar.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanama bölgesindeki kan basıncı düşer.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Atardamarlardan nabız hissedilemez.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kanayan bölgeyi kalp seviyesinin üstünde tutmak, yerçekimi nedeniyle kan akışını azaltır. Bu pozisyon, yaralı bölgedeki kan basıncını düşürerek kanamanın kontrol altına alınmasını kolaylaştırır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q10",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Kişinin çevre ile bağlantısının tamamen kesildiği, uyaranlara cevap veremediği derin bilinç kaybına ne denir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şok",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Koma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hâlsizlik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Zehirlenme",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Koma, kişinin çevre ile tüm bağlantısını kaybettiği, uyaranlara hiçbir şekilde yanıt veremediği derin bilinç kaybı durumudur. Şok acil bir fizyolojik durum, hâlsizlik ise hafif bir rahatsızlık, zehirlenme ise madde maruziyetidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q9",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Burkulan eklem bölgesinin şişmesini önlemek için yapılması gereken uygulama aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Burkulan bölgenin kalp seviyesinden yukarıda ve soğuk tutulması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Burkulan bölgenin kalp seviyesinden aşağıda ve sıcak tutulması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Burkulan bölgenin sürekli hareket ettirilmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kişinin yan yatış pozisyonuna alınması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Burkulan eklem bölgesinin şişmesini önlemek için yüksek tutulması ve soğuk uygulanması gerekir. Kalp seviyesinin üstünde tutmak, yerçekimi yardımıyla kan ve sıvı birikimini azaltır; soğuk uygulamak ise inflamasyonu sınırlandırır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q1",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi atardamar kanamasının özelliğidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Açık renkli kanın, yara ağzından kalp atımlarına uyumlu şekilde fışkırarak akması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Düşük basınçla akması ve kısa sürede durdurulabilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Koyu renkli ve taşma tarzında kan akması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanamanın sızıntı şeklinde olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Atardamar kanaması, yüksek basınç altında olduğu için açık renkli kanın kalp atımlarına uyumlu şekilde fışkırması karakteristiktir. Diğer kanama türleri daha düşük basınçta ve farklı akış biçiminde gerçekleşir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q3",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerin hangisinde şok pozisyonu vermek sakıncalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tansiyonu düşük ve nabız alınamayanlarda",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Burnundan ve kulağından kanama olanlarda",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "El bileğinde açık kırık ve kanama olanlarda",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bacağında açık kırık ve kanama olanlarda",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Burnundan ve kulağından kanama, baş veya iç organ yaralanmasını gösterebilir. Bu durumlarda şok pozisyonu (bacakları kaldırılmış yatış) uygulamak, başa kan akışını artırarak kanamanın şiddetlenmesine neden olabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q4",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Kazazedenin naklinden önce, yaralanmalarda uygulanan genel ilk yardım kuralı aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yarayı sargı bezi ile kapattıktan sonra yaralı bölgeyi sabitlemek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yara üzerine merhem sürüp yarayı sarmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yara üzerine tentürdiyot sürüp bırakmak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yarayı temiz pamukla kapatmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Nakil öncesi yaralanma ilk yardımında, yara önce steril sargı ile kapatılmalı, ardından yaralı bölge sabitlenmelidir. Bu işlem sırasında merhem, tentürdiyot veya diğer maddeler uygulanmaz; sadece temiz sargı kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q6",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisinin kaza anında kırılması hâlinde, akciğerlere batarak zarar verme ihtimali daha fazladır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pazı kemiği",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kaval kemiği",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kaburga kemiği",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Uyluk kemiği",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kaburga kemikleri akciğerleri çevreler. Kırıldığında keskin parçaları akciğerlere batarak ciddi iç yaralanmalara neden olabilir. Diğer kemikler akciğerlerden daha uzak olduğu için bu risk daha düşüktür.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q7",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisinin yarı oturuş veya oturuş pozisyonunda taşınması sakıncalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kaburgalarında kırık olanlar",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalça kemiğinde kırık olanlar",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Açık göğüs yaralanması olanlar",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kol ve köprücük kemiğinde kırık olanlar",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Kalça kemiği kırıkları ciddi yaralanmalardır. Oturuş veya yarı oturuş pozisyonu, kırık parçaların hareket etmesine ve iç yaralanmaların artmasına neden olur. Bu hastaların düz yüzeyde yatış pozisyonunda taşınması gerekir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q5",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Baş yaralanması sebebiyle bayılan ve daha sonra kendine gelen yaralıya aşağıdakilerden hangisi uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Başı sıcak su ile yıkanır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bulantı önleyici ve ağrı kesici ilaç verilir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Normal faaliyetini sürdürmesine izin verilir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "En az 12-24 saat süre ile hekim kontrolünde tutulur.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Baş yaralanması sonrası bayılma ve sonra kendine gelme, iç kanama veya beyin hasarı işareti olabilir. Bu hastaların en az 12-24 saat hekim kontrolünde tutulması, geç komplikasyonları (kanama, ödem) tespit etmek için gereklidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g32_q11",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Çok sayıda yaralının olduğu kazalarda en son taşınması gereken kazazede aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Açık karın yarası olan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bilinci yerinde olmayan",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ayak kemiğinde kırık olan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum yolu zehirlenmesi olan",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Çok yaralının olduğu kazalarda triage (önceliklendirme) yapılır. Açık karın yarası, bilinç kaybı ve solunum yolu zehirlenmesi hayati tehlike oluştururken, ayak kemiği kırığı nispeten stabil bir yaralanmadır ve en son taşınır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 32,
+  "testId": "ilkyardim_group_32",
+  "name": "İlk Yardım Test 32"
+}
