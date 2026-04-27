@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g24_q5",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi şok belirtilerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Zihinsel aktivitenin artması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Cildin soğuk ve nemli olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Vücut sıcaklığının hızla yükselmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dilin gevşeyerek geriye doğru toplanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Şok durumunda vücudun dolaşım sistemi yetersiz kalır. Bu durum cildin soğuk ve nemli hale gelmesine neden olur. Diğer seçenekler şok belirtileri değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q2",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Göğüs ve sırt kısmının iki elin arasına alınarak sıkıştırılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sağ elin yumruk hâline getirilerek göğüs merkezine vurulması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs kemiği 6 cm aşağıya inecek şekilde basınç uygulanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bir elin orta ve yüzük parmağı ile göğüs kemiği 4 cm aşağıya inecek şekilde basınç uygulanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bebek kalp masajında, bir elin orta ve yüzük parmağı kullanılarak göğüs kemiği 4 cm kadar basınç altına alınmalıdır. Bu derinlik bebeğin küçük vücut yapısına uygun olup, iki elin kullanılması veya daha derin basınç uygulanması yaralanmaya neden olabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q11",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Çok sayıda yaralının olduğu kazalarda, kazazedelerin durumu değerlendirilir ve öncelikli müdahale edilecekler belirlenir. Buna göre ilk önce müdahale edilmesi gereken kazazede aşağıdakilerden hangisidir",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ölmüş olan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ağır kanamalı olan",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Birinci derecede yanığı olan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Ayak bileğinde burkulma olan",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Çok sayıda yaralı durumunda triage (öncelik belirleme) sistemi uygulanır. Yaşamı tehdit eden ağır kanaması olan kazazede acil müdahale gerektirdiği için ilk öncelik sırasındadır. Ölmüş olan kişiye müdahale yapılmaz, hafif yaralanmalar sonraya bırakılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q4",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdaki organlardan hangisinin yaralanması durumunda öksürme ile ağızdan pembe köpüklü kan gelir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Akciğer",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Mide",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Karaciğer",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dalak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Akciğer yaralanması sonucunda akciğer dokusundan sıvı sızması ve kan karışması pembe köpüklü sputum oluşturur. Öksürme sırasında bu karışım ağızdan dışarı gelir. Mide, karaciğer ve dalak yaralanmaları farklı belirtiler gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q9",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi kandaki oksijen oranının düşmesine bağlı olarak meydana gelmez?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kansızlık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bilinç kaybı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Baş dönmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Düzensiz nabız atışı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kandaki oksijen oranı düştüğünde beyin ve kalp gibi hayati organlar etkilenir. Bu durum bilinç kaybı, baş dönmesi ve ritim bozuklukları meydana getirir. Kansızlık (hemoglobin eksikliği) ise oksijen taşıyıcı kapasitesinin azalması olup, düşük oksijen seviyesinin doğrudan sonucu değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q3",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "• Konuşamıyor.\n•Nefes alamıyor.\n•Rengi morarıyor.\n•Acı çekerek ellerini boğazına götürüyor.\n\nVerilen bulgular kazazedede aşağıdaki durumların hangisinin olduğunu gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Koma hâli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Uykuya eğilim",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunum yolunun yabancı cisimle tıkanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Dolaşımın durması, kalp atımlarının alınamaması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Verilen bulgular (konuşamama, nefes alamama, morarma ve boğaza el götürme) solunum yolunun yabancı cisimle tıkanmasının klasik belirtileridir. Bu acil durum hava yolunun açılması gerektirir. Koma, uykuya eğilim veya kalp durması farklı belirtiler gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q8",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamasıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Çıkan bölge üzerine masaj yapmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Çıkan bölge üzerine sıcak uygulama yapmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Çıkan bölge ile kalp arasına turnike uygulamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Çıkan bölgenin hareketsizliğini sağlayarak, sevk etmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Çıkık uygulanırken ilk adım çıkan bölgenin hareketsiz hale getirilmesidir. Masaj, sıcak uygulama veya turnike kullanımı durumu kötüleştirebilir. Bölge sabitlendikten sonra yaralı tıbbi yardım için taşınmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q7",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Delici karın yaralanması olan bir kazazedenin bilinci yerinde ise verilecek pozisyon nasıl olmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yan yatış",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Baş yanda, yarı yüzüstü yatış",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bacaklar karna doğru bükülü, sırtüstü yatış",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bacaklar yerden 30 cm yüksekte, sırtüstü yatış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Delici karın yaralanmasında bilinç yerinde olan kazazede bacakları karna doğru bükülü sırtüstü pozisyonda yatırılmalıdır. Bu pozisyon karın duvarı kaslarını gevşetir, iç organ hasarını minimize eder ve omurga stabilitesini korur.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q6",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Boyun, sırt ve bel omurları kırıklarında, yaralı uygun şekilde tespit ve nakil edilmezse aşağıdakilerden hangisinin olması beklenir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Vücudun bir bölgesinde felç oluşması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Nabız atışlarının sürekli hızlanması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bulantı ve kusmanın olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Vücut sıcaklığının artması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Boyun, sırt ve bel omurları kırıkları hayati önem taşır. Uygun tespit ve nakil yapılmazsa omurga hareketi sinir kordunu hasar görebilir ve kalıcı felç meydana gelebilir. Diğer seçenekler omurga kırığının doğrudan sonuçları değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q10",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Yaralının araçtan çıkarılması esnasında en çok hangisine dikkat edilmelidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hızlı ve aceleci davranmaya",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kaza yapan araca hasar verilmemesine",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaralıda yeni bir yaralanma meydana gelmemesine",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kazayı seyredenlerin uzaklaştırılmasına",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Araçtan yaralı çıkarılması sırasında en kritik nokta mevcut yaralanmaların kötüleştirilmemesidir. Hızlı ve aceleci davranış, araç hasarı veya seyirciler ikinci derecede önemlidir. Ek yaralanmalar yaralının durumunu ciddi şekilde ağırlaştırabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q12",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Kazazedelerde görülen kırık ve ezilmeler hangi sistemi ilgilendiren bir konudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Boşaltım sistemini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Dolaşım sistemini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hareket sistemini",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sindirim sistemini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Kırık ve ezilmeler kemik, kas, tendon ve eklemleri ilgilendiren yaralanmalardır. Bu yapılar hareket sisteminin (muskuloskeletal sistem) bileşenleridir. Boşaltım, dolaşım ve sindirim sistemleri bu tür yaralanmalardan doğrudan etkilenmez.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g24_q1",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "İlk yardımcı, kaza yapan aracın içerisinden yaralıları çıkarmadan önce aşağıdakilerden hangisine özellikle dikkat etmelidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aracın yanma veya devrilme tehlikesinin olup olmadığına",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaralıların üzerinde bulunan giysilere",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaralıların cinsiyetlerine",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aracın modeline",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kaza yapan araçtan yaralı çıkarmadan önce ilk yardımcı aracın yanma, patlama veya devrilme riskini değerlendirmelidir. Eğer böyle bir tehlike varsa, yaralıları çıkarmak daha büyük tehlike yaratabilir. Güvenlik sağlandıktan sonra müdahaleye başlanmalıdır.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 24,
+  "testId": "ilkyardim_group_24",
+  "name": "İlk Yardım Test 24"
+}

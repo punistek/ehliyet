@@ -1,0 +1,393 @@
+{
+  "categoryId": "ilkyardim",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": "ilkyardim_g26_q1",
+      "order": 1,
+      "categoryId": "ilkyardim",
+      "question": "Havada bulunan oksijenin kanda bulunan karbondioksitle yer değiştirmesi işlemi, vücudumuzdaki hangi sistem sayesinde gerçekleşir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sinir sistemi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sindirim sistemi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Boşaltım sistemi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum sistemi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Havadaki oksijen akciğerlere girer ve kandaki karbondioksit dışarı atılır. Bu gaz değişimi solunum sistemi tarafından yönetilir. Diğer seçenekler bu işlevle ilgili değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q4",
+      "order": 2,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi solunum durmasının nedenlerinden biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Suda boğulma",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Birinci derece yanıklar",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Zehirli gazların solunması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunum yolunun tıkanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Birinci derece yanıklar sadece deri yüzeyinin üst katmanını etkiler ve ciddi solunum sorununa neden olmaz. Suda boğulma, zehirli gazlar ve solunum yolunun tıkanması doğrudan solunum durmasına yol açabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q12",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Yutkunma, öksürük gibi reflekslerin ve dışarıdan gelen uyarılara karşı tepkinin azalması ya da yok olması ile ortaya çıkan uzun süreli bilinç kaybına ne denir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sara",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Koma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bayılma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Halsizlik",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Koma, yutkunma ve öksürük gibi temel reflekslerin kaybolması ve dış uyarılara tepki vermemenin sonucu olan derin bilinç kaybı durumudur. Sara nöbetler, bayılma ise geçici bilinç kaybıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q9",
+      "order": 4,
+      "categoryId": "ilkyardim",
+      "question": "Kırıkların sabitlenme nedeni aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Üşümeyi engellemek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kırık bölgesini her yöne hareket ettirebilmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kırık uçlarının kana karışıp kalbe gitmesini engellemek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kırık kemik uçlarının dokulara zarar vermesini engellemek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Kırık kemik uçları sabitlenmediğinde çevre kasları, sinirleri ve damarları yaralayabilir. Sabitleme bu ek hasarları engeller ve ağrıyı azaltır. Üşümeyi engelleme veya hareket sağlama sabitlemenin amacı değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q7",
+      "order": 5,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi açık yaralarda yapılabilecek genel ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yaraya merhem sürmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaraya pamuk koyarak sarmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanama varsa şoka karşı önlem almak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yaralı bölgeyi kalp seviyesinden aşağıda tutmak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Açık yaralarda ilk adım kanama kontrolüdür. Kanama devam ederse şok gelişebilir. Merhem sürme, pamuk koyma ve yaralı bölgeyi kalp seviyesinden aşağıda tutma doğru uygulamalar değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q6",
+      "order": 6,
+      "categoryId": "ilkyardim",
+      "question": "Uzun süreli kanamalardaki turnike uygulamalarında, kanayan bölgeye göre kaç dakikada bir boğucu sargı gevşetilmelidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "1-2 dakika",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "5-10 dakika",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "15-20 dakika",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "30-40 dakika",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Turnike uzun süre uygulanırsa doku ölümü ve kalıcı hasar oluşabilir. Bu nedenle 15-20 dakikada bir gevşetilerek dokunun kan akışı sağlanmalıdır. Daha kısa veya daha uzun aralıklar etkisizdir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q10",
+      "order": 7,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, eklem yüzeylerinin kalıcı olarak ayrılması ve kendiliğinden normal konumuna dönememesi hâlidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kırık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Çıkık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İncinme",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Burkulma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Çıkık, eklem kemiklerinin normal pozisyonlarından kalıcı olarak ayrılmasıdır. Kırık kemik kırılması, incinme ise yumuşak doku hasarı, burkulma ise bağ gerilmesidir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q5",
+      "order": 8,
+      "categoryId": "ilkyardim",
+      "question": "Aşağıdakilerden hangisi, durmuş olan dolaşım ve solunum sistemini yeniden çalışır hâle getirmek için uygulanan yöntemler bütünüdür?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kalp masajı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Atelle tespit",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Köprü tekniği",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Rentek manevrası",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Kalp masajı, durmuş kalbin yerine geçerek vücuda kan pompalamaya devam eder. Suni solunum ile birlikte uygulanarak durmuş dolaşım ve solunum sistemini yeniden çalıştırmaya çalışılır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q8",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Boyun kırıklarında, yanlış taşıma ve gereksiz hareketler sonucu omurilik zedelenmesine bağlı olarak vücutta aşağıdakilerden hangisi meydana gelebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Felç",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saç dökülmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bulantı ve kusma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bedensel aktivitede artma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Boyun bölgesinde omurilik geçer. Yanlış hareket ve taşıma omurilik zedelenmesine neden olabilir ve bu da vücudun alt kısımlarında kalıcı felç oluşturabilir. Diğer seçenekler bu yaralanmayla ilgili değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q3",
+      "order": 10,
+      "categoryId": "ilkyardim",
+      "question": "Kaza sonrası olay yerini değerlendirmenin amacı aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sağlık personeli niteliğinin kazanılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kazazedelerin özel yaşamlarıyla ilgilenilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Tekrar kaza olma riskinin ortadan kaldırılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kaza yapmış araçların cins ve modelinin tespit edilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Olay yeri değerlendirmesi, kazaya neden olan tehlikeleri belirlemek ve gelecekteki kazaları önlemek amacıyla yapılır. Sağlık personeli eğitimi, özel yaşam veya araç modeli tespiti bu değerlendirmenin amacı değildir.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q2",
+      "order": 11,
+      "categoryId": "ilkyardim",
+      "question": "Kalp atımlarının atardamar duvarına yaptığı basıncın, damar duvarında parmak uçlarıyla hissedilmesine ne denir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nabız",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Solunum",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Vücut ısısı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kan şekeri",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Nabız, kalp atımlarının atardamarlar üzerinde oluşturduğu dalgalanmadır ve parmak uçlarıyla hissedilebilir. Solunum, vücut ısısı ve kan şekeri farklı vital bulgulardır.",
+      "mainImage": null
+    },
+    {
+      "id": "ilkyardim_g26_q11",
+      "order": 12,
+      "categoryId": "ilkyardim",
+      "question": "Burkulmalar nerelerde meydana gelir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sadece kol eklemlerinde",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sadece bacak eklemlerinde",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hareketli eklem bölgelerinde",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hareketsiz eklem bölgelerinde",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Burkulmalar, eklem bağlarının aşırı gerilmesi sonucu oluşur ve hareketli eklemlerde meydana gelir. Omuz, dirsek, bilek ve ayak bileği gibi hareketli eklemler burkulma açısından risklidir.",
+      "mainImage": null
+    }
+  ],
+  "testNumber": 26,
+  "testId": "ilkyardim_group_26",
+  "name": "İlk Yardım Test 26"
+}
