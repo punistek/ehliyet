@@ -178,5 +178,275 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-3.svg",
     "category": "tanzim",
     "sign_code": "TT-3"
+  },
+  {
+    "id": "fc_021",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Bisiklet Giremez",
+    "explanation": "Kırmızı çerçeveli yuvarlak levha içinde bisiklet silueti — bisikletlerin o yola giremeyeceğini bildirir. Genellikle otoyollar ve ekspres yollarda bulunur.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-10.svg",
+    "category": "tanzim",
+    "sign_code": "TT-10"
+  },
+  {
+    "id": "fc_022",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "İleri Gidilemez",
+    "explanation": "Kırmızı çerçeveli yuvarlak levha içinde düz çizgi — o yönde düz ilerlenmesi yasaktır. Sağa veya sola dönülmesi gerekir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-13.svg",
+    "category": "tanzim",
+    "sign_code": "TT-13"
+  },
+  {
+    "id": "fc_023",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Geçmek Yasaktır",
+    "explanation": "Kırmızı-siyah yuvarlak levha — o bölgede araçların birbirini geçmesi yasaktır. Genellikle tehlikeli virajlar, köprüler ve görüş mesafesinin kısa olduğu bölgelerde kullanılır.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-15.svg",
+    "category": "tanzim",
+    "sign_code": "TT-15"
+  },
+  {
+    "id": "fc_024",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Asgari Hız (30 km/s)",
+    "explanation": "Mavi daire içinde rakam — o yolda en az bu hızda gidilmesi zorunludur. Çok yavaş gitmek trafiği tehlikeli şekilde engeller.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-29-30.svg",
+    "category": "mecburiyet",
+    "sign_code": "TT-29"
+  },
+  {
+    "id": "fc_025",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Yalnız İleri",
+    "explanation": "Mavi daire içinde yukarı ok — araçların yalnızca düz ilerleyebileceğini bildirir. Sağa veya sola dönmek yasaktır.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-30.svg",
+    "category": "mecburiyet",
+    "sign_code": "TT-30"
+  },
+  {
+    "id": "fc_026",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Sağdan Gidiniz",
+    "explanation": "Mavi daire içinde sağa ok — araçların engel veya adanın sağından geçmesi zorunludur. Genellikle bölücü adalar ve trafik yönlendirme noktalarında kullanılır.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-33a.svg",
+    "category": "mecburiyet",
+    "sign_code": "TT-33a"
+  },
+  {
+    "id": "fc_027",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Taşıt Yolu",
+    "explanation": "Mavi zemin üzerinde araç simgesi — bu yolun yalnızca motorlu taşıtlara ait olduğunu bildirir. Yayalar ve bisikletliler bu yolu kullanamazlar.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-2.svg",
+    "category": "bilgi",
+    "sign_code": "B-2"
+  },
+  {
+    "id": "fc_028",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Yaya Yolu",
+    "explanation": "Mavi zemin üzerinde yaya simgesi — bu yolun yalnızca yayalara ait olduğunu bildirir. Motorlu taşıtlar ve bisikletler bu yolu kullanamazlar.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-3.svg",
+    "category": "bilgi",
+    "sign_code": "B-3"
+  },
+  {
+    "id": "fc_029",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Bisiklet Yolu",
+    "explanation": "Mavi zemin üzerinde bisiklet simgesi — bu yolun yalnızca bisikletlilere ait olduğunu bildirir. Motorlu taşıtlar bu yolu kullanamazlar.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-4.svg",
+    "category": "bilgi",
+    "sign_code": "B-4"
+  },
+  {
+    "id": "fc_030",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "İlk Yardım",
+    "explanation": "Beyaz artı işaretli yeşil kare levha — yakında ilk yardım veya sağlık hizmetleri bulunduğunu bildirir. Acil durumlarda bu yöne gidilmelidir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-14.svg",
+    "category": "bilgi",
+    "sign_code": "B-14"
+  },
+  {
+    "id": "fc_031",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Çift Yönlü Trafik",
+    "explanation": "Üçgen tehlike uyarı işareti — tek yönlü yolun bitip çift yönlü trafiğin başladığını bildirir. Karşı yönden araç gelebileceğine dikkat edilmelidir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-20.svg",
+    "category": "tehlike",
+    "sign_code": "T-20"
+  },
+  {
+    "id": "fc_032",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Düşen Taş / Kaya",
+    "explanation": "Üçgen tehlike uyarı işareti — yol kenarından taş veya kaya düşme tehlikesi olduğunu bildirir. Yavaşlanmalı ve yolda taş olup olmadığına dikkat edilmelidir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-12.svg",
+    "category": "tehlike",
+    "sign_code": "T-12"
+  },
+  {
+    "id": "fc_033",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Tünel",
+    "explanation": "Üçgen tehlike uyarı işareti — ileride tünel bulunduğunu bildirir. Tünele girerken farlar yakılmalı, hız sınırına uyulmalı ve güvenli takip mesafesi korunmalıdır.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-23.svg",
+    "category": "tehlike",
+    "sign_code": "T-23"
+  },
+  {
+    "id": "fc_034",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Buzlanma / Kaygan Yol",
+    "explanation": "Üçgen tehlike uyarı işareti — yolda buzlanma veya kayma tehlikesi olduğunu bildirir. Hız mutlaka azaltılmalı, ani fren ve manevra yapılmamalıdır.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-11.svg",
+    "category": "tehlike",
+    "sign_code": "T-11"
+  },
+  {
+    "id": "fc_035",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Trafik Işıkları",
+    "explanation": "Üçgen tehlike uyarı işareti — ileride trafik ışığı bulunduğunu bildirir. Genellikle görüş açısının kısıtlı olduğu yerlerde sürücüleri önceden uyarmak için kullanılır.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-16.svg",
+    "category": "tehlike",
+    "sign_code": "T-16"
+  },
+  {
+    "id": "fc_036",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Kasisli Yol (Çıkıntı)",
+    "explanation": "Üçgen tehlike uyarı işareti — yolda kasis (çıkıntı) bulunduğunu bildirir. Hız azaltılmazsa araç hasarı ve kontrol kaybı yaşanabilir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-9a.svg",
+    "category": "tehlike",
+    "sign_code": "T-9a"
+  },
+  {
+    "id": "fc_037",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Yol Daralıyor",
+    "explanation": "Üçgen tehlike uyarı işareti — ileride yolun daraldığını bildirir. Hız düşürülmeli ve dar kesimde yanınızdaki araçlara dikkat edilmelidir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-4a.svg",
+    "category": "tehlike",
+    "sign_code": "T-4a"
+  },
+  {
+    "id": "fc_038",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Köprü",
+    "explanation": "Üçgen tehlike uyarı işareti — ileride köprü bulunduğunu bildirir. Köprülerde hız sınırına uyulmalı, rüzgarlı havalarda dikkatli olunmalıdır.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-6.svg",
+    "category": "tehlike",
+    "sign_code": "T-6"
+  },
+  {
+    "id": "fc_039",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Yavaş (Hız Kısıtlaması Sonu)",
+    "explanation": "Siyah-beyaz yuvarlak levha — önceki hız kısıtlamasının sona erdiğini bildirir. Ancak genel trafik kuralları ve diğer hız levhalarına uymak zorunludur.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-18.svg",
+    "category": "tanzim",
+    "sign_code": "TT-18"
+  },
+  {
+    "id": "fc_040",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Taksi Durağı",
+    "explanation": "Mavi zemin üzerinde 'TAKSİ' yazılı bilgi levhası — o noktada resmi taksi durağı bulunduğunu bildirir. Taksi dışındaki araçlar bu noktada duramaz.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-16.svg",
+    "category": "bilgi",
+    "sign_code": "B-16"
+  },
+  {
+    "id": "fc_041",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Otobüs Durağı",
+    "explanation": "Mavi zemin üzerinde otobüs simgeli bilgi levhası — o noktada otobüs durağı bulunduğunu bildirir. Diğer araçlar bu bölgede park veya duraklama yapamaz.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-15.svg",
+    "category": "bilgi",
+    "sign_code": "B-15"
+  },
+  {
+    "id": "fc_042",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Geçiş Üstünlüğünü Yitiriniz",
+    "explanation": "Sarı-siyah kare levhanın üstü kapatılmış hali — daha önce geçiş üstünlüğüne sahipken artık o hakkın bittiğini bildirir. Bundan sonra diğer kurallara göre hareket edilmelidir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-6.svg",
+    "category": "tanzim",
+    "sign_code": "TT-6"
+  },
+  {
+    "id": "fc_043",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "U Dönüşü Yasaktır",
+    "explanation": "Kırmızı çerçeveli yuvarlak levha — o noktada U dönüşü yapmak yasaktır. Bu yasağa uymamak hem tehlikelidir hem de trafik cezasına neden olur.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-14.svg",
+    "category": "tanzim",
+    "sign_code": "TT-14"
+  },
+  {
+    "id": "fc_044",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Yaya Geçişine İzin Veriniz",
+    "explanation": "Mavi zemin üzerinde yaya simgesi — sürücülerin yaya geçidindeki yayalara öncelik vermesi gerektiğini bildirir. Yayalar geçiş hakkına sahiptir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-11.svg",
+    "category": "bilgi",
+    "sign_code": "B-11"
+  },
+  {
+    "id": "fc_045",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Park Yeri",
+    "explanation": "Mavi zemin üzerinde beyaz P harfi — o bölgede park yeri bulunduğunu bildirir. Genellikle park alanının giriş yönünü ve konumunu gösterir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-9.svg",
+    "category": "bilgi",
+    "sign_code": "B-9"
+  },
+  {
+    "id": "fc_046",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Engelli Park Yeri",
+    "explanation": "Mavi zemin üzerinde tekerlekli sandalye simgesi — bu park alanının yalnızca engelli araçlarına ayrıldığını bildirir. Engelli kartı olmayan araçlar bu alana park edemez.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-10.svg",
+    "category": "bilgi",
+    "sign_code": "B-10"
+  },
+  {
+    "id": "fc_047",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Servis İstasyonu",
+    "explanation": "Mavi zemin üzerinde benzin pompası simgesi — yakında akaryakıt istasyonu bulunduğunu bildirir. Yakıt ikmali için bu yöne gidilmelidir.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_B-17.svg",
+    "category": "bilgi",
+    "sign_code": "B-17"
+  },
+  {
+    "id": "fc_048",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Hayvan Geçidi",
+    "explanation": "Üçgen tehlike uyarı işareti — yolda hayvan geçişi olabileceğini bildirir. Genellikle kırsal alanlarda ve çiftlik hayvanlarının yolları geçtiği bölgelerde kullanılır.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_T-10.svg",
+    "category": "tehlike",
+    "sign_code": "T-10"
+  },
+  {
+    "id": "fc_049",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Yol Sonu",
+    "explanation": "Çizgili yuvarlak levha — tüm yasakların ve kısıtlamaların sona erdiğini bildirir. Sona eren kısıtlama levhalarının üzeri çizilidir. Ancak genel trafik kuralları geçerliliğini korur.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_TT-27.svg",
+    "category": "tanzim",
+    "sign_code": "TT-27"
+  },
+  {
+    "id": "fc_050",
+    "question": "Bu trafik işareti ne anlama gelir?",
+    "answer": "Yerleşim Yeri Başlangıcı",
+    "explanation": "Beyaz dikdörtgen levha üzerinde şehir adı — yerleşim yeri sınırına girildiğini bildirir. Bu levhadan itibaren şehir içi hız kuralları (50 km/s) geçerli olur.",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_road_sign_YB-1a.svg",
+    "category": "bilgi",
+    "sign_code": "YB-1a"
   }
 ]
