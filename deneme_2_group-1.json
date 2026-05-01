@@ -1,0 +1,1610 @@
+{
+  "categoryId": "deneme_2",
+  "groupId": "deneme_2_group-1",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "deneme2_q1",
+      "order": 1,
+      "categoryId": "deneme_2",
+      "question": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili verilenlerden hangisi doğrudur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Göğüs kemiğinin alt ve üst ucunun tespit edilerek üst yarısına orta ve yüzük parmağının dik olarak yerleştirilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Basıyı tam uygulayabilmek için kazazedeye uzak mesafede durulması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Göğüs kemiğine bası uygulama ve kaldırmanın ritmik olarak yapılması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Göğüs kemiği 1 cm çökecek şekilde bası uygulanması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q2",
+      "order": 2,
+      "categoryId": "deneme_2",
+      "question": "I. Deri bütünlüğü bozulmuştur. II. Kanama ve enfeksiyon tehlikesi yoktur. Açık kırık ile ilgili olarak verilenler için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I. doğru, II. yanlış",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I. yanlış, II. doğru",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Her ikisi de doğru",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her ikisi de yanlış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q3",
+      "order": 3,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerin hangisinde şok pozisyonu vermek sakıncalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tansiyonu düşük ve nabız alınamayanlarda",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Burnundan ve kulağından kanama olanlarda",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "El bileğinde açık kırık ve kanama olanlarda",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bacağında açık kırık ve kanama olanlarda",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q4",
+      "order": 4,
+      "categoryId": "deneme_2",
+      "question": "Boyun kırıklarında, yanlış taşıma ve gereksiz hareketler sonucu omurilik zedelenmesine bağlı olarak vücutta aşağıdakilerden hangisi meydana gelebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Felç",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saç dökülmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bulantı ve kusma",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bedensel aktivitede artma",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q5",
+      "order": 5,
+      "categoryId": "deneme_2",
+      "question": "Hangi durumdaki kazazedeye, göğüs kemiği 5 cm aşağıya inecek şekilde basınç uygulanır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kalbi duran",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kalbi düzensiz çalışan",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Solunum sayısı azalan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Solunumu düzensiz olan",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q6",
+      "order": 6,
+      "categoryId": "deneme_2",
+      "question": "I. Bir ilk yardımcı tarafından uygulanır. II. Yürüyemeyen ya da bilinci kapalı olan kişiler için kullanılır. Yaralı taşımada kullanılan itfaiyeci yöntemi ile ilgili verilenler için, aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I. doğru, II. yanlış",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I. yanlış, II. doğru",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Her ikisi de doğru",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her ikisi de yanlış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q7",
+      "order": 7,
+      "categoryId": "deneme_2",
+      "question": "İlk yardımcı, kaza yapan aracın içerisinden yaralıları çıkarmadan önce aşağıdakilerden hangisine özellikle dikkat etmelidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aracın yanma veya devrilme tehlikesinin olup olmadığına",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yaralıların üzerinde bulunan giysilere",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yaralıların cinsiyetlerine",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aracın modeline",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q8",
+      "order": 8,
+      "categoryId": "deneme_2",
+      "question": "İlk yardım girişimlerinin amacı aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hastaları tedavi etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Trafik kazalarını önlemek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Temel yaşam desteği sağlamak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bulaşıcı hastalıklardan korunmayı sağlamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q9",
+      "order": 9,
+      "categoryId": "deneme_2",
+      "question": "Kazazedenin dolaşımı değerlendirilirken; I. Bebeklerde kol atardamarından, II. Çocuk ve yetişkinlerde şah damarından nabız alınır. Verilenler için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I. doğru, II. yanlış",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I. yanlış, II. doğru",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Her ikisi de doğru",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her ikisi de yanlış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q10",
+      "order": 10,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdaki yaralılardan hangisinin sedyesiz ve oturtularak taşınmasında tehlike yoktur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şoka girmiş olan",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Omurga kırığı olan",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kol kemiği kırık olan",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kalça kemiği kırık olan",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q11",
+      "order": 11,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerden hangisi, dış kanamalarda yapılacak ilk yardım uygulamalarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Uzuv kopması durumunda turnike uygulamaktan kaçınılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kanama durmazsa ikinci bir bez koyarak basıncın arttırılması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kanayan yere en uzak basınç noktasına baskı uygulanması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kanayan bölgenin kalp hizasının altına indirilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q12",
+      "order": 12,
+      "categoryId": "deneme_2",
+      "question": "• Bir el alına yerleştirilir. • Diğer elin iki parmağı çene kemiğinin üzerine yerleştirilir. • Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir. Uygulama basamakları verilen ve kazazedenin hava yolunu açmak için kullanılan pozisyon aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Şok pozisyonu",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Yarı oturuş pozisyonu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Baş geri-çene yukarı pozisyonu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yarı yüzükoyun-yan pozisyon",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q13",
+      "order": 13,
+      "categoryId": "deneme_2",
+      "question": "Kara yollarında gerekli düzenleme ve işaretlemeleri aşağıdakilerden hangisi yapar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Emniyet Genel Müdürlüğü",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Karayolları Genel Müdürlüğü",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik Kazalarını Önleme Derneği",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bilim, Sanayi ve Teknoloji Bakanlığı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q14",
+      "order": 14,
+      "categoryId": "deneme_2",
+      "question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "08.00-16.00 saatleri arasında yayaların yola giremeyeceğini",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "08.00-16.00 saatleri arasında motorlu taşıtların yola girebileceğini",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "08.00-16.00 saatleri arasında yolun motorlu taşıt trafiğine kapalı olduğunu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "08.00-16.00 saatleri arasında motorlu taşıtların yol kenarına park yapabileceğini",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjIiIGhlaWdodD0iMTc0IiB2aWV3Qm94PSIwIDAgMTIyIDE3NCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+    },
+    {
+      "id": "deneme2_q15",
+      "order": 15,
+      "categoryId": "deneme_2",
+      "question": "Görsele göre, hangisinin yapılması doğru olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Her iki araçta yoluna devam edebilir",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sadece beyaz araç yoluna devam edebilir",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sadece kırmızı araç yoluna devam edebilir",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her iki araçta beklemelidir",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NDYiIGhlaWdodD0iMjc0IiB2aWV3Qm94PSIwIDAgNDQ2IDI3NCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+    },
+    {
+      "id": "deneme2_q16",
+      "order": 16,
+      "categoryId": "deneme_2",
+      "question": "Trafik kuralının ihlal edildiği tarihten geriye doğru bir yıl içinde, toplam 100 ceza puanını ilk defa aştığı tespit edilen sürücülerin sürücü belgesi kaç ay süre ile geri alınır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "12",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q17",
+      "order": 17,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerden hangisi azami hız sınırlaması anlamındadır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjMiIGhlaWdodD0iMTMwIiB2aWV3Qm94PSIwIDAgMTIzIDEzMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjMiIGhlaWdodD0iMTMwIiB2aWV3Qm94PSIwIDAgMTIzIDEzMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+        },
+        {
+          "key": "b",
+          "text": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzAiIGhlaWdodD0iMTQxIiB2aWV3Qm94PSIwIDAgMTMwIDE0MSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzAiIGhlaWdodD0iMTQxIiB2aWV3Qm94PSIwIDAgMTMwIDE0MSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+        },
+        {
+          "key": "c",
+          "text": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzMiIGhlaWdodD0iMTM5IiB2aWV3Qm94PSIwIDAgMTMzIDEzOSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzMiIGhlaWdodD0iMTM5IiB2aWV3Qm94PSIwIDAgMTMzIDEzOSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+        },
+        {
+          "key": "d",
+          "text": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzAiIGhlaWdodD0iMTMzIiB2aWV3Qm94PSIwIDAgMTMwIDEzMyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzAiIGhlaWdodD0iMTMzIiB2aWV3Qm94PSIwIDAgMTMwIDEzMyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+        }
+      ],
+      "correctAnswer": null,
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q18",
+      "order": 18,
+      "categoryId": "deneme_2",
+      "question": "Videoya göre sürücünün hangisi yapması doğru olur?",
+      "type": "video",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hızlanmaları",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Ani manevralar yapmaları",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Takip mesafesini azaltmaları",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hızını azaltarak kontrollü şekilde yoluna devam etmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null,
+      "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/sinavlar/soru-1130/soru-1-video.mp4"
+    },
+    {
+      "id": "deneme2_q19",
+      "order": 19,
+      "categoryId": "deneme_2",
+      "question": "Araçlar yüklenirken aşağıdakilerden hangisinin yapılması yasaktır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Gabarinin aşılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Araç dengesinin korunması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafik güvenliğinin dikkate alınması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Taşıma sınırına ve dingil ağırlığına uyulması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q20",
+      "order": 20,
+      "categoryId": "deneme_2",
+      "question": "Şekildeki trafik işaretinin anlamı nedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yaya giremez.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bisiklet giremez.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "At arabası giremez.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Motorlu taşıt giremez.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDgiIGhlaWdodD0iMTMwIiB2aWV3Qm94PSIwIDAgMTQ4IDEzMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+    },
+    {
+      "id": "deneme2_q21",
+      "order": 21,
+      "categoryId": "deneme_2",
+      "question": "• Aracın hızı arttıkça fren mesafesi azalır. • Yol yüzeyinde su birikmesi, buz ya da kar olması fren mesafesini artıran faktörlerdendir. Fren mesafesi ile ilgili verilen cümleler doğru (D)- yanlış (Y) olarak değerlendirildiğinde sıralama aşağıdakilerden hangisi olur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "D - Y",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Y - D",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "D - D",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Y - Y",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q22",
+      "order": 22,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerden hangisi öndeki taşıtı geçmek yasaktır anlamındadır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjkiIGhlaWdodD0iMTQwIiB2aWV3Qm94PSIwIDAgMTI5IDE0MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjkiIGhlaWdodD0iMTQwIiB2aWV3Qm94PSIwIDAgMTI5IDE0MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+        },
+        {
+          "key": "b",
+          "text": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjciIGhlaWdodD0iMTI3IiB2aWV3Qm94PSIwIDAgMTI3IDEyNyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjciIGhlaWdodD0iMTI3IiB2aWV3Qm94PSIwIDAgMTI3IDEyNyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+        },
+        {
+          "key": "c",
+          "text": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzMiIGhlaWdodD0iMTM1IiB2aWV3Qm94PSIwIDAgMTMzIDEzNSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzMiIGhlaWdodD0iMTM1IiB2aWV3Qm94PSIwIDAgMTMzIDEzNSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+        },
+        {
+          "key": "d",
+          "text": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTMzIiB2aWV3Qm94PSIwIDAgMTIwIDEzMyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTMzIiB2aWV3Qm94PSIwIDAgMTIwIDEzMyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+        }
+      ],
+      "correctAnswer": null,
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q23",
+      "order": 23,
+      "categoryId": "deneme_2",
+      "question": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "50",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "70",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "80",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "90",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNDIiIGhlaWdodD0iMTU1IiB2aWV3Qm94PSIwIDAgMjQyIDE1NSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+    },
+    {
+      "id": "deneme2_q24",
+      "order": 24,
+      "categoryId": "deneme_2",
+      "question": "Videya göre hangisi söylenemez?",
+      "type": "video",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ehil hayvanlar çıkma ihitmaline karşı dikkatli olmalıdır",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Burası bir anayoldur",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Uygun koşullarda sollama yapabilir",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yol virajlı bir yol olduğu için takip mesafesini arttırmalıdır",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null,
+      "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/sinavlar/soru-1135/soru-1-video.mp4"
+    },
+    {
+      "id": "deneme2_q25",
+      "order": 25,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerden hangisi atıkların çevreye verdiği zararlardan biri değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kötü koku yayması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Çirkin görünüm arz etmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hastalık bulaştıran zararlıların üremesine sebep olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Toplanıp işlenerek tekrar kullanılabilir hâle getirilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q26",
+      "order": 26,
+      "categoryId": "deneme_2",
+      "question": "Aralıklı olarak yanıp sönen kırmızı ışıkta sürücü ne yapmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yavaşlayıp yolu kontrol ederek geçmeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Durmalı, trafik uygunsa devam etmeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Yeşil ışık yanıncaya kadar durmalı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Durmadan dikkatli geçmeli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q27",
+      "order": 27,
+      "categoryId": "deneme_2",
+      "question": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Geçme yaparken sinyal verilmesi",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Tehlikeli madde taşıyan araçların geçilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sürülmeleri sırasında elde bagaj, paket ve benzerlerinin taşınması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Gidiş yönüne göre yolun en sağından seyredilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q28",
+      "order": 28,
+      "categoryId": "deneme_2",
+      "question": "I- Motor ve araç kontrolünün yapılması II- Koltuk ve aynaların ayarlanması III- Emniyet kemerinin ayarlanması Verilenlerden hangileri, aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Yalnız I",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I ve II",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "II ve III",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "I, II ve III",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q29",
+      "order": 29,
+      "categoryId": "deneme_2",
+      "question": "Şekildeki gibi eğimsiz iki yönlü dar yoldaki karşılaşmada 2 numaralı aracın sürücüsü ne yapmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "U dönüşü yapmalı",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "1 numaralı araca yol vermeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "İlk geçiş hakkını kendisi kullanmalı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "1 numaralı aracın sürücüsünü ikaz edip durdurmalı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MTIiIGhlaWdodD0iMjA4IiB2aWV3Qm94PSIwIDAgNDEyIDIwOCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+    },
+    {
+      "id": "deneme2_q30",
+      "order": 30,
+      "categoryId": "deneme_2",
+      "question": "Araç sürücüsü nasıl davranmalıdır?",
+      "type": "video",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dörtlü ikaz ışıklarını yakarak beklemeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Korna çalarak öndeki araç sürücüsünü uyarmalı",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hızını artırarak bu bölgeden uzaklaşmalı",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hızını azaltarak sol şeritten yoluna devam etmeli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null,
+      "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/sinavlar/soru-1142/soru-1-video.mp4"
+    },
+    {
+      "id": "deneme2_q31",
+      "order": 31,
+      "categoryId": "deneme_2",
+      "question": "Monoküler (tek gözü gören) kişilerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bu kişiler ticari araç kullanabilir.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Sürücü belgesi aldıktan sonra her yıl bir göz hekiminden sağlık raporu almaları zorunludur.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kullanacakları araçların içinde, sağında ve solunda olmak üzere en az 3 ayna bulunması zorunludur.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kendileri açısından konulan kurallara uyup uymadıklarının denetlenebilmesi için sürücü belgelerine monoküler ibaresi yazılır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q32",
+      "order": 32,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerden hangisi ruhsal yapısı bozuk sürücü davranışlarındandır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kullandıkları her araçta geçiş üstünlüğünü kendilerine ait sanmak",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Başkalarının haklarına saygı göstermek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kurallara uymaya özen göstermek",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hırslı ve kızgın olmamak",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q33",
+      "order": 33,
+      "categoryId": "deneme_2",
+      "question": "Şekildeki kara yoluna ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tali yol",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Geçiş yolu",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bağlantı yolu",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Bölünmüş yol",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMzAiIGhlaWdodD0iMjMyIiB2aWV3Qm94PSIwIDAgMzMwIDIzMiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
+    },
+    {
+      "id": "deneme2_q34",
+      "order": 34,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdaki araçların hangisinde yangın söndürme cihazının bulundurulması zorunludur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bisiklet",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motosiklet",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Lastik tekerlekli Traktör",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Tehlikeli madde taşıyan araç",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q35",
+      "order": 35,
+      "categoryId": "deneme_2",
+      "question": "• Reflektör • İlk yardım çantası • Yangın söndürme cihazı Yukarıdaki teçhizatın tamamını bulundurması zorunlu olmayan motorlu taşıt aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Otobüs",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Kamyon",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Otomobil",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Lastik tekerlekli traktör",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q36",
+      "order": 36,
+      "categoryId": "deneme_2",
+      "question": "Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa aşağıdakilerden hangisi yapılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Motor devri düşürülür.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motor devri yükseltilir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Motor hemen durdurulur.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Motor rölantide çalıştırılır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q37",
+      "order": 37,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerden hangisi yakıt tüketiminin artmasında sürücüden kaynaklanan kusurdur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aşırı hız yapılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Frenlerin ayarsız olması",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Rölanti ayarının bozuk olması",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Lastiklerin havasının az olması",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q38",
+      "order": 38,
+      "categoryId": "deneme_2",
+      "question": "Yakıttan elde ettiği ısı enerjisini mekanik enerjiye çeviren makinelere ne ad verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Alternatör",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motor",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diferansiyel",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Vites kutusu",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q39",
+      "order": 39,
+      "categoryId": "deneme_2",
+      "question": "Dizel motorlarda sıkıştırılmış hava üzerine enjektörle aşağıdakilerden hangisi püskürtülür?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Benzin",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Motorin",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Antifriz",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Su buharı",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q40",
+      "order": 40,
+      "categoryId": "deneme_2",
+      "question": "Geri vites lambalarından biri parlak diğeri sönük yanıyorsa sebebi aşağıdakilerden hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Flaşör arızalıdır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Akü gerilimi düşüktür.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Geri vites müşiri arızalıdır.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Lamba bağlantısında oksitlenme vardır.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q41",
+      "order": 41,
+      "categoryId": "deneme_2",
+      "question": "Akünün bakımında, elektrolit seviyesinin düşük olduğu gözlemlendiğinde aşağıdakilerden hangisi yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Asit ilave edilmeli",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Saf su ilave edilmeli",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Hava filtresi değiştirilmeli",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Kutup başları gevşetilmeli",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q42",
+      "order": 42,
+      "categoryId": "deneme_2",
+      "question": "Seyir hâlindeyken araçtan yanık kablo kokusu alınırsa aşağıdakilerden hangisi yapılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Durulur, kontak kapatılır ve akü bağlantısı çıkarılır.",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Lastiklerin hava basıncı kontrol edilir.",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Önemsenmez, devam edilir.",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Yakıt seviyesi kontrol edilir.",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q43",
+      "order": 43,
+      "categoryId": "deneme_2",
+      "question": "Radyatöre konulacak su peteklerin neresinde olmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Altında",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Üzerinde",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Ortasında",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Hizasında",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q44",
+      "order": 44,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerden hangisi elektrik devresindeki sigortanın görevidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aküyü şarj etmek",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Bujilere giden akımı yükseltmek",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Kısa devre olduğunda sistemi korumak",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Endüksiyon bobinine giden akımı yükseltmek",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q45",
+      "order": 45,
+      "categoryId": "deneme_2",
+      "question": "Aracını kaldırıma park etmiş bir sürücü, diğer yol kullanıcılarının kaldırımı kullanmasına engel olduğu gibi kaldırımı kullanamayan yayaların araç yoluna çıkmalarına neden olmaktadır. Oysaki - - - - düzeyi yüksek bir sürücü, kendini yaya olan yol kullanıcısının yerine koyar ve aracını kaldırıma park etmez. Verilen ifadede boş bırakılan yere aşağı dakilerden hangisi yazılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "empati",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "bencillik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "sorumsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q46",
+      "order": 46,
+      "categoryId": "deneme_2",
+      "question": "Aşağıdakilerden hangisi trafikte bireye yapılan hak ihlallerindendir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aşırı hız yapmaktan kaçınılması",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Geçiş önceliğine sahip araçlara yol verilmesi",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Trafikte sürücülerin tek başına olmadığının düşünülmesi",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Engeli olmadığı hâlde engelli kişiler için ayrılmış yerlere park edilmesi",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q47",
+      "order": 47,
+      "categoryId": "deneme_2",
+      "question": "Geçme yapan araca, geçilmekte olan araç sürücüsünün yavaşlayıp kolaylık sağlaması durumu, trafikte hangi temel değerle ifade edilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İnatlaşmak",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Diğergamlık",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sorumsuzluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q48",
+      "order": 48,
+      "categoryId": "deneme_2",
+      "question": "Kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan sürücünün, ışığın yeşile dönmesi için 1 saniye bile bekleyememesi durumu, bu sürücünün trafikte hangi temel değere sahip olmadığını gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Öfke",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "İnatlaşma",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Sabır",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Aşırı tepki",
+          "image": null
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q49",
+      "order": 49,
+      "categoryId": "deneme_2",
+      "question": "Trafik kazası geçiren kişiler; I. Canlarına bir zarar gelmese bile psikolojik olarak zarar görürler. II. Kişilerin bu bozuk psikolojileri ailelerine ve topluma olumlu yansır. Verilenler için aşağıdakilerden hangisi söylenebilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "I. doğru, II. yanlış",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "I. yanlış, II. doğru",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Her ikisi de doğru",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Her ikisi de yanlış",
+          "image": null
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": null,
+      "mainImage": null
+    },
+    {
+      "id": "deneme2_q50",
+      "order": 50,
+      "categoryId": "deneme_2",
+      "question": "Sürücülerin trafik içindeki davranışlarının sonuçlarını düşünerek hareket etmesi hâli, trafikte hangi temel değere sahip olunduğunu gösterir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kabalık",
+          "image": null
+        },
+        {
+          "key": "b",
+          "text": "Hırçınlık",
+          "image": null
+        },
+        {
+          "key": "c",
+          "text": "Bencillik",
+          "image": null
+        },
+        {
+          "key": "d",
+          "text": "Sorumluluk",
+          "image": null
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": null,
+      "mainImage": null
+    }
+  ]
+}
