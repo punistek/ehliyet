@@ -1,12 +1,12 @@
 {
-  "categoryId": "deneme_1",
-  "groupId": "deneme_1_group-1",
+  "categoryId": "trafik",
+  "groupId": "trafik_group-37",
   "questionCount": 50,
   "questions": [
     {
-      "id": "deneme1_q1",
+      "id": "trafik_g37_q1",
       "order": 1,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Resimde uygulaması gösterilen ve kazazedenin omuriliğine zarar verilmeden araçtan çıkarılmasında kullanılan tekniğe ne ad verilir?",
       "type": "text",
       "options": [
@@ -36,9 +36,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMzAiIGhlaWdodD0iMjI1IiB2aWV3Qm94PSIwIDAgMzMwIDIyNSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q2",
+      "id": "trafik_g37_q2",
       "order": 2,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Yaralının araçtan çıkarılması esnasında en çok hangisine dikkat edilmelidir?",
       "type": "text",
       "options": [
@@ -68,9 +68,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q3",
+      "id": "trafik_g37_q3",
       "order": 3,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "I. Ambulans ekiplerince müdahale yapılması II. Olay yerinde, ilk yardımcı tarafından temel yaşam desteği yapılması III. Hastane acil servislerinde müdahale yapılması IV. Sağlık kuruluşuna haber verilmesi Hayat kurtarma zinciri halkalarının doğru sıralaması hangisinde verilmiştir?",
       "type": "text",
       "options": [
@@ -100,9 +100,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q4",
+      "id": "trafik_g37_q4",
       "order": 4,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi kandaki oksijen oranının düşmesine bağlı olarak meydana gelmez?",
       "type": "text",
       "options": [
@@ -132,9 +132,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q5",
+      "id": "trafik_g37_q5",
       "order": 5,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Soluk yoluna yabancı cisim kaçmış bir kazazedenin;konuşamadığını, nefes alamadığını, renginin morardığını ve acı çekerek ellerini boğazına götürdüğünü gözlemlediniz. Bu belirtiler kazazedede hangi tür tıkanma olduğunu gösterir?",
       "type": "text",
       "options": [
@@ -164,9 +164,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q6",
+      "id": "trafik_g37_q6",
       "order": 6,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Kazazedeyi araçtan çıkarırken aşağıdakilerden hangisine dikkat edilmelidir?",
       "type": "text",
       "options": [
@@ -196,9 +196,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q7",
+      "id": "trafik_g37_q7",
       "order": 7,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Zorlama, çarpma, düşme veya çeşitli darbeler sonucu oluşan, eklem yüzeylerinin kalıcı olarak ayrılmasına sebep olan duruma ne ad verilir?",
       "type": "text",
       "options": [
@@ -228,9 +228,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q8",
+      "id": "trafik_g37_q8",
       "order": 8,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi atardamar kanamalarının özelliklerindendir?",
       "type": "text",
       "options": [
@@ -260,9 +260,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q9",
+      "id": "trafik_g37_q9",
       "order": 9,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Kazazedenin ağız bölgesine bir cam parçası ya da ayna yaklaştırarak buharlanıp buharlanmadığına bakılması, \"Bak-DinleHisset\" yönteminin hangi aşamasını oluşturur?",
       "type": "text",
       "options": [
@@ -292,9 +292,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q10",
+      "id": "trafik_g37_q10",
       "order": 10,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "• Yaralı sayısının ve türlerinin belirlenmesi • Tekrar kaza olma riskinin ortadan kaldırılması Verilenler aşağıdakilerden hangisinin amacını oluşturur?",
       "type": "text",
       "options": [
@@ -324,9 +324,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q11",
+      "id": "trafik_g37_q11",
       "order": 11,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "İlk yardımın ABC'si olarak nitelendirilen uygulamalardan \"C\" neyi ifade eder?",
       "type": "text",
       "options": [
@@ -356,9 +356,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q12",
+      "id": "trafik_g37_q12",
       "order": 12,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi burkulmanın tanımıdır?",
       "type": "text",
       "options": [
@@ -388,9 +388,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q13",
+      "id": "trafik_g37_q13",
       "order": 13,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Şekildeki trafik işareti neyi bildirir?",
       "type": "text",
       "options": [
@@ -420,9 +420,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjUiIGhlaWdodD0iMTI3IiB2aWV3Qm94PSIwIDAgMTI1IDEyNyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q14",
+      "id": "trafik_g37_q14",
       "order": 14,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Şekildeki gibi yeterince aydınlatılmamış tünele giriş yapan aracın sürücüsü aşağıdakilerden hangisini yapmak zorundadır?",
       "type": "text",
       "options": [
@@ -452,9 +452,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzODkiIGhlaWdodD0iMjYwIiB2aWV3Qm94PSIwIDAgMzg5IDI2MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q15",
+      "id": "trafik_g37_q15",
       "order": 15,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?",
       "type": "text",
       "options": [
@@ -484,9 +484,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q16",
+      "id": "trafik_g37_q16",
       "order": 16,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi sürücüler için trafik suçudur?",
       "type": "text",
       "options": [
@@ -516,9 +516,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q17",
+      "id": "trafik_g37_q17",
       "order": 17,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Şekildeki 1 numaralı araç 80 km/saat hızla seyrederken önündeki araca en fazla kaç metre yaklaşabilir?",
       "type": "text",
       "options": [
@@ -548,9 +548,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNzAiIGhlaWdodD0iMjE2IiB2aWV3Qm94PSIwIDAgMjcwIDIxNiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q18",
+      "id": "trafik_g37_q18",
       "order": 18,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Videodaki kazayla ilgili hangisi kesinlikle söylenir?",
       "type": "video",
       "options": [
@@ -581,9 +581,9 @@
       "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/2026/04/118172.mp4"
     },
     {
-      "id": "deneme1_q19",
+      "id": "trafik_g37_q19",
       "order": 19,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Haritalarda gösterilen şekildeki işaret, aşağıdakilerden hangisine verilen yol numarasıdır?",
       "type": "text",
       "options": [
@@ -613,9 +613,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NiIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDk2IDU2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjY2ZkNGRiIi8+PC9zdmc+"
     },
     {
-      "id": "deneme1_q20",
+      "id": "trafik_g37_q20",
       "order": 20,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerin hangisinde 1 numaralı aracın sürücüsü geçme yasağına uymamıştır?",
       "type": "text",
       "options": [
@@ -645,9 +645,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q21",
+      "id": "trafik_g37_q21",
       "order": 21,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aksine bir durum yoksa, ışıklı trafik işaret cihazında kırmızı ışık yanmakta ise sürücü ne yapmalıdır?",
       "type": "text",
       "options": [
@@ -677,9 +677,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q22",
+      "id": "trafik_g37_q22",
       "order": 22,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Taşıt yolu üzerine çizilen şekildeki çizgilerin anlamı nedir?",
       "type": "text",
       "options": [
@@ -709,9 +709,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDUiIGhlaWdodD0iMjk3IiB2aWV3Qm94PSIwIDAgMTQ1IDI5NyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q23",
+      "id": "trafik_g37_q23",
       "order": 23,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi sürücülerden beklenen olumlu davranış özelliklerindendir?",
       "type": "text",
       "options": [
@@ -741,9 +741,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q24",
+      "id": "trafik_g37_q24",
       "order": 24,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Videodaki araç sollama yapmak istemektedir. Fakat ................... sebeptan dolayı yapmayı iptal etmek zorunda kalmıştır. Yukardaki ....... yere hangisi yazılmalıdır?",
       "type": "video",
       "options": [
@@ -774,9 +774,9 @@
       "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/2026/04/lv_0_20230901004211.mp4"
     },
     {
-      "id": "deneme1_q25",
+      "id": "trafik_g37_q25",
       "order": 25,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "I. Araç sahipleri zorunlu mali sorumluluk sigortası yaptırmak zorundadır. II. Sürücüler, yetkililerin istemesi hâlinde zorunlu mali sorumluluk sigorta poliçelerini göstermek zorundadır. Yukarıdaki bilgiler için hangisi söylenebilir?",
       "type": "text",
       "options": [
@@ -806,9 +806,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q26",
+      "id": "trafik_g37_q26",
       "order": 26,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aksine bir işaret yoksa yerleşim yeri dışındaki şehirler arası çift yönlü kara yollarında aşağıdakilerden hangisinin azami hızı 90 km/saat olmalıdır?",
       "type": "text",
       "options": [
@@ -838,9 +838,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q27",
+      "id": "trafik_g37_q27",
       "order": 27,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Şekildeki trafik işareti hangi yol bölümünde bulunur?",
       "type": "text",
       "options": [
@@ -870,9 +870,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzUiIGhlaWdodD0iMTQxIiB2aWV3Qm94PSIwIDAgMTM1IDE0MSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q28",
+      "id": "trafik_g37_q28",
       "order": 28,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Şekildeki kara yolu üzerinde soru işareti (?) ile gösterilen, çizgilerle belirlenmiş alana ne ad verilir?",
       "type": "text",
       "options": [
@@ -902,9 +902,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMzAiIGhlaWdodD0iMjIyIiB2aWV3Qm94PSIwIDAgMzMwIDIyMiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q29",
+      "id": "trafik_g37_q29",
       "order": 29,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisinin kara yollarında geceleri seyrederken yapılması yasaktır?",
       "type": "text",
       "options": [
@@ -934,9 +934,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q30",
+      "id": "trafik_g37_q30",
       "order": 30,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Bu durumda kalırsak neden durmalıyız? l. yol ver işareti yüzünden ll. Bisiklet yolu ve geçen bisikletli yüzünden lll. Sarı kamyon yüzünden",
       "type": "video",
       "options": [
@@ -967,9 +967,9 @@
       "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/sinavlar/soru-1150/soru-1-video.mp4"
     },
     {
-      "id": "deneme1_q31",
+      "id": "trafik_g37_q31",
       "order": 31,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi tedbirsiz ve saygısız araç sürmeye örnek değildir?",
       "type": "text",
       "options": [
@@ -999,9 +999,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q32",
+      "id": "trafik_g37_q32",
       "order": 32,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Geceleyin, görüşün yeterli olmadığı kavşağa yaklaşan sürücü gelişini nasıl haber vermelidir?",
       "type": "text",
       "options": [
@@ -1031,9 +1031,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q33",
+      "id": "trafik_g37_q33",
       "order": 33,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdaki yerlerden hangisinde duraklama yapılması yasak değildir?",
       "type": "text",
       "options": [
@@ -1063,9 +1063,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q34",
+      "id": "trafik_g37_q34",
       "order": 34,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aracın sürücü belgesiz kişilerce sürülmesine izin veren araç sahibine aşağıdaki cezalardan hangisi uygulanır?",
       "type": "text",
       "options": [
@@ -1095,9 +1095,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q35",
+      "id": "trafik_g37_q35",
       "order": 35,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Şekildeki 1 numaralı araç sürücüsünün, önündeki aracı geçmesi sırasında aşağıdakilerden hangisini yapması yasaktır?",
       "type": "text",
       "options": [
@@ -1127,9 +1127,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOTkiIGhlaWdodD0iMjIxIiB2aWV3Qm94PSIwIDAgMjk5IDIyMSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q36",
+      "id": "trafik_g37_q36",
       "order": 36,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Dört zamanlı motorlarda, zamanların oluşum sırası aşağıdakilerin hangisindeki gibi olur?",
       "type": "text",
       "options": [
@@ -1159,9 +1159,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q37",
+      "id": "trafik_g37_q37",
       "order": 37,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "I- LPG II- Benzin III- Motorin İçten yanmalı motorlarda yukarıdaki yakıtlardan hangileri kullanılır?",
       "type": "text",
       "options": [
@@ -1191,9 +1191,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q38",
+      "id": "trafik_g37_q38",
       "order": 38,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aracın lastikleri ne zaman kontrol edilir?",
       "type": "text",
       "options": [
@@ -1223,9 +1223,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q39",
+      "id": "trafik_g37_q39",
       "order": 39,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Seyir hâlindeyken motordan \"anormal sesler\" gelmesi durumunda aşağıdakilerden hangisi yapılır?",
       "type": "text",
       "options": [
@@ -1255,9 +1255,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q40",
+      "id": "trafik_g37_q40",
       "order": 40,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerin hangisindeki arıza, farların yanmamasına sebep olur?",
       "type": "text",
       "options": [
@@ -1287,9 +1287,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q41",
+      "id": "trafik_g37_q41",
       "order": 41,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Sürüşe başlamadan önce koltuk ve ayna ayarlarının yapılmasının sebebi hangisidir?",
       "type": "text",
       "options": [
@@ -1319,9 +1319,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q42",
+      "id": "trafik_g37_q42",
       "order": 42,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Süspansiyon sisteminde bulunan ve yay salınım süresini kısaltan, şekilde soru işareti (?) ile gösterilmiş parça aşağıdakilerden hangisidir?",
       "type": "text",
       "options": [
@@ -1351,9 +1351,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTgiIGhlaWdodD0iMTkzIiB2aWV3Qm94PSIwIDAgMjU4IDE5MyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme1_q43",
+      "id": "trafik_g37_q43",
       "order": 43,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "I. Lastik hava basınçlarının ve yakıt seviyesinin kontrol edilmesi II. Aydınlatma ve sinyal sisteminin düzgün çalışıp çalışmadığının kontrol edilmesi III. Ön koltuklar, kafalıkları ve aynanın beden ölçülerine uygun olarak ayarlanması Verilenlerden hangileri, aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardandır?",
       "type": "text",
       "options": [
@@ -1383,9 +1383,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q44",
+      "id": "trafik_g37_q44",
       "order": 44,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Araç lastiği değiştirilirken, aracın kriko ile kaldırılması durumunda aşağıdakilerden hangisi yapılır?",
       "type": "text",
       "options": [
@@ -1415,9 +1415,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q45",
+      "id": "trafik_g37_q45",
       "order": 45,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Trafikte hangi temel değere sahip olan sürücü, aracını park ettiği yerin diğer yol kullanıcıları açısından görme-görülme ya da manevra engeli oluşturup oluşturmadığına dikkat eder?",
       "type": "text",
       "options": [
@@ -1447,9 +1447,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q46",
+      "id": "trafik_g37_q46",
       "order": 46,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "- - - - ; trafik içinde sorumluluk, yardımlaşma, tahammül, saygı, fedakârlık, sabır vb. değerlere sahip olabilme yetisidir. Verilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
       "type": "text",
       "options": [
@@ -1479,9 +1479,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q47",
+      "id": "trafik_g37_q47",
       "order": 47,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "I. Trafikteki bütün kuralların nedenini öğrenir. II. Araç kullanırken yapacağı bir kural ihlalinin sonucunda sadece maddi ceza olduğunu düşünür. III. Trafik içinde yapacağı bir kural ihlalinde, kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olur. Yukarıdakilerden hangileri trafik adabına sahip olan bir sürücü için söylenebilir?",
       "type": "text",
       "options": [
@@ -1511,9 +1511,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q48",
+      "id": "trafik_g37_q48",
       "order": 48,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Yayalara, özellikle de yaşlı, çocuk ve engellilere; yeşil ışık süresinde karşıya geçişi tamamlayamadığından dolayı korna çalma ya da el kol hareketleri ile çabuk geçmeye zorlama hâli, trafikte hangi temel değere sahip olunmadığını gösterir?",
       "type": "text",
       "options": [
@@ -1543,9 +1543,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q49",
+      "id": "trafik_g37_q49",
       "order": 49,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Seyir hâlindeki sürücünün, yaptığı bir hatadan dolayı eliyle veya yüz ifadesiyle diğer sürücülerden özür dilemesi trafikte aşağıdakilerden hangisinin kullanıldığına örnek olur?",
       "type": "text",
       "options": [
@@ -1575,9 +1575,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme1_q50",
+      "id": "trafik_g37_q50",
       "order": 50,
-      "categoryId": "deneme_1",
+      "categoryId": "trafik",
       "question": "Sürücünün trafik ortamında yaptığı hangi davranış, diğer sürücülerin dikkatinin dağılmasına ya da paniğe kapılmalarına sebep olabilir?",
       "type": "text",
       "options": [
@@ -1606,5 +1606,6 @@
       "explanation": null,
       "mainImage": null
     }
-  ]
+  ],
+  "name": "Trafik Testi 37"
 }
