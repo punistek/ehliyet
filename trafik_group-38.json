@@ -1,12 +1,12 @@
 {
-  "categoryId": "deneme_2",
-  "groupId": "deneme_2_group-1",
+  "categoryId": "trafik",
+  "groupId": "trafik_group-38",
   "questionCount": 50,
   "questions": [
     {
-      "id": "deneme2_q1",
+      "id": "trafik_g38_q1",
       "order": 1,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili verilenlerden hangisi doğrudur?",
       "type": "text",
       "options": [
@@ -36,9 +36,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q2",
+      "id": "trafik_g38_q2",
       "order": 2,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "I. Deri bütünlüğü bozulmuştur. II. Kanama ve enfeksiyon tehlikesi yoktur. Açık kırık ile ilgili olarak verilenler için aşağıdakilerden hangisi söylenebilir?",
       "type": "text",
       "options": [
@@ -68,9 +68,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q3",
+      "id": "trafik_g38_q3",
       "order": 3,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerin hangisinde şok pozisyonu vermek sakıncalıdır?",
       "type": "text",
       "options": [
@@ -100,9 +100,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q4",
+      "id": "trafik_g38_q4",
       "order": 4,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Boyun kırıklarında, yanlış taşıma ve gereksiz hareketler sonucu omurilik zedelenmesine bağlı olarak vücutta aşağıdakilerden hangisi meydana gelebilir?",
       "type": "text",
       "options": [
@@ -132,9 +132,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q5",
+      "id": "trafik_g38_q5",
       "order": 5,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Hangi durumdaki kazazedeye, göğüs kemiği 5 cm aşağıya inecek şekilde basınç uygulanır?",
       "type": "text",
       "options": [
@@ -164,9 +164,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q6",
+      "id": "trafik_g38_q6",
       "order": 6,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "I. Bir ilk yardımcı tarafından uygulanır. II. Yürüyemeyen ya da bilinci kapalı olan kişiler için kullanılır. Yaralı taşımada kullanılan itfaiyeci yöntemi ile ilgili verilenler için, aşağıdakilerden hangisi söylenebilir?",
       "type": "text",
       "options": [
@@ -196,9 +196,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q7",
+      "id": "trafik_g38_q7",
       "order": 7,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "İlk yardımcı, kaza yapan aracın içerisinden yaralıları çıkarmadan önce aşağıdakilerden hangisine özellikle dikkat etmelidir?",
       "type": "text",
       "options": [
@@ -228,9 +228,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q8",
+      "id": "trafik_g38_q8",
       "order": 8,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "İlk yardım girişimlerinin amacı aşağıdakilerden hangisidir?",
       "type": "text",
       "options": [
@@ -260,9 +260,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q9",
+      "id": "trafik_g38_q9",
       "order": 9,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Kazazedenin dolaşımı değerlendirilirken; I. Bebeklerde kol atardamarından, II. Çocuk ve yetişkinlerde şah damarından nabız alınır. Verilenler için aşağıdakilerden hangisi söylenebilir?",
       "type": "text",
       "options": [
@@ -292,9 +292,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q10",
+      "id": "trafik_g38_q10",
       "order": 10,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdaki yaralılardan hangisinin sedyesiz ve oturtularak taşınmasında tehlike yoktur?",
       "type": "text",
       "options": [
@@ -324,9 +324,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q11",
+      "id": "trafik_g38_q11",
       "order": 11,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi, dış kanamalarda yapılacak ilk yardım uygulamalarındandır?",
       "type": "text",
       "options": [
@@ -356,9 +356,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q12",
+      "id": "trafik_g38_q12",
       "order": 12,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "• Bir el alına yerleştirilir. • Diğer elin iki parmağı çene kemiğinin üzerine yerleştirilir. • Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir. Uygulama basamakları verilen ve kazazedenin hava yolunu açmak için kullanılan pozisyon aşağıdakilerden hangisidir?",
       "type": "text",
       "options": [
@@ -388,9 +388,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q13",
+      "id": "trafik_g38_q13",
       "order": 13,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Kara yollarında gerekli düzenleme ve işaretlemeleri aşağıdakilerden hangisi yapar?",
       "type": "text",
       "options": [
@@ -420,9 +420,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q14",
+      "id": "trafik_g38_q14",
       "order": 14,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
       "type": "text",
       "options": [
@@ -452,9 +452,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjIiIGhlaWdodD0iMTc0IiB2aWV3Qm94PSIwIDAgMTIyIDE3NCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme2_q15",
+      "id": "trafik_g38_q15",
       "order": 15,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Görsele göre, hangisinin yapılması doğru olur?",
       "type": "text",
       "options": [
@@ -484,9 +484,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NDYiIGhlaWdodD0iMjc0IiB2aWV3Qm94PSIwIDAgNDQ2IDI3NCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme2_q16",
+      "id": "trafik_g38_q16",
       "order": 16,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Trafik kuralının ihlal edildiği tarihten geriye doğru bir yıl içinde, toplam 100 ceza puanını ilk defa aştığı tespit edilen sürücülerin sürücü belgesi kaç ay süre ile geri alınır?",
       "type": "text",
       "options": [
@@ -516,9 +516,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q17",
+      "id": "trafik_g38_q17",
       "order": 17,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi azami hız sınırlaması anlamındadır?",
       "type": "text",
       "options": [
@@ -548,9 +548,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q18",
+      "id": "trafik_g38_q18",
       "order": 18,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Videoya göre sürücünün hangisi yapması doğru olur?",
       "type": "video",
       "options": [
@@ -581,9 +581,9 @@
       "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/sinavlar/soru-1130/soru-1-video.mp4"
     },
     {
-      "id": "deneme2_q19",
+      "id": "trafik_g38_q19",
       "order": 19,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Araçlar yüklenirken aşağıdakilerden hangisinin yapılması yasaktır?",
       "type": "text",
       "options": [
@@ -613,9 +613,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q20",
+      "id": "trafik_g38_q20",
       "order": 20,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Şekildeki trafik işaretinin anlamı nedir?",
       "type": "text",
       "options": [
@@ -645,9 +645,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDgiIGhlaWdodD0iMTMwIiB2aWV3Qm94PSIwIDAgMTQ4IDEzMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme2_q21",
+      "id": "trafik_g38_q21",
       "order": 21,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "• Aracın hızı arttıkça fren mesafesi azalır. • Yol yüzeyinde su birikmesi, buz ya da kar olması fren mesafesini artıran faktörlerdendir. Fren mesafesi ile ilgili verilen cümleler doğru (D)- yanlış (Y) olarak değerlendirildiğinde sıralama aşağıdakilerden hangisi olur?",
       "type": "text",
       "options": [
@@ -677,9 +677,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q22",
+      "id": "trafik_g38_q22",
       "order": 22,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi öndeki taşıtı geçmek yasaktır anlamındadır?",
       "type": "text",
       "options": [
@@ -709,9 +709,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q23",
+      "id": "trafik_g38_q23",
       "order": 23,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
       "type": "text",
       "options": [
@@ -741,9 +741,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNDIiIGhlaWdodD0iMTU1IiB2aWV3Qm94PSIwIDAgMjQyIDE1NSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme2_q24",
+      "id": "trafik_g38_q24",
       "order": 24,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Videya göre hangisi söylenemez?",
       "type": "video",
       "options": [
@@ -774,9 +774,9 @@
       "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/sinavlar/soru-1135/soru-1-video.mp4"
     },
     {
-      "id": "deneme2_q25",
+      "id": "trafik_g38_q25",
       "order": 25,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi atıkların çevreye verdiği zararlardan biri değildir?",
       "type": "text",
       "options": [
@@ -806,9 +806,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q26",
+      "id": "trafik_g38_q26",
       "order": 26,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aralıklı olarak yanıp sönen kırmızı ışıkta sürücü ne yapmalıdır?",
       "type": "text",
       "options": [
@@ -838,9 +838,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q27",
+      "id": "trafik_g38_q27",
       "order": 27,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?",
       "type": "text",
       "options": [
@@ -870,9 +870,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q28",
+      "id": "trafik_g38_q28",
       "order": 28,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "I- Motor ve araç kontrolünün yapılması II- Koltuk ve aynaların ayarlanması III- Emniyet kemerinin ayarlanması Verilenlerden hangileri, aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardandır?",
       "type": "text",
       "options": [
@@ -902,9 +902,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q29",
+      "id": "trafik_g38_q29",
       "order": 29,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Şekildeki gibi eğimsiz iki yönlü dar yoldaki karşılaşmada 2 numaralı aracın sürücüsü ne yapmalıdır?",
       "type": "text",
       "options": [
@@ -934,9 +934,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MTIiIGhlaWdodD0iMjA4IiB2aWV3Qm94PSIwIDAgNDEyIDIwOCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme2_q30",
+      "id": "trafik_g38_q30",
       "order": 30,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Araç sürücüsü nasıl davranmalıdır?",
       "type": "video",
       "options": [
@@ -967,9 +967,9 @@
       "videoUrl": "https://www.mebehliyetsinavsorulari.com/wp-content/uploads/sinavlar/soru-1142/soru-1-video.mp4"
     },
     {
-      "id": "deneme2_q31",
+      "id": "trafik_g38_q31",
       "order": 31,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Monoküler (tek gözü gören) kişilerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
       "type": "text",
       "options": [
@@ -999,9 +999,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q32",
+      "id": "trafik_g38_q32",
       "order": 32,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi ruhsal yapısı bozuk sürücü davranışlarındandır?",
       "type": "text",
       "options": [
@@ -1031,9 +1031,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q33",
+      "id": "trafik_g38_q33",
       "order": 33,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Şekildeki kara yoluna ne ad verilir?",
       "type": "text",
       "options": [
@@ -1063,9 +1063,9 @@
       "mainImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMzAiIGhlaWdodD0iMjMyIiB2aWV3Qm94PSIwIDAgMzMwIDIzMiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg=="
     },
     {
-      "id": "deneme2_q34",
+      "id": "trafik_g38_q34",
       "order": 34,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdaki araçların hangisinde yangın söndürme cihazının bulundurulması zorunludur?",
       "type": "text",
       "options": [
@@ -1095,9 +1095,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q35",
+      "id": "trafik_g38_q35",
       "order": 35,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "• Reflektör • İlk yardım çantası • Yangın söndürme cihazı Yukarıdaki teçhizatın tamamını bulundurması zorunlu olmayan motorlu taşıt aşağıdakilerden hangisidir?",
       "type": "text",
       "options": [
@@ -1127,9 +1127,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q36",
+      "id": "trafik_g38_q36",
       "order": 36,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa aşağıdakilerden hangisi yapılır?",
       "type": "text",
       "options": [
@@ -1159,9 +1159,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q37",
+      "id": "trafik_g38_q37",
       "order": 37,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi yakıt tüketiminin artmasında sürücüden kaynaklanan kusurdur?",
       "type": "text",
       "options": [
@@ -1191,9 +1191,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q38",
+      "id": "trafik_g38_q38",
       "order": 38,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Yakıttan elde ettiği ısı enerjisini mekanik enerjiye çeviren makinelere ne ad verilir?",
       "type": "text",
       "options": [
@@ -1223,9 +1223,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q39",
+      "id": "trafik_g38_q39",
       "order": 39,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Dizel motorlarda sıkıştırılmış hava üzerine enjektörle aşağıdakilerden hangisi püskürtülür?",
       "type": "text",
       "options": [
@@ -1255,9 +1255,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q40",
+      "id": "trafik_g38_q40",
       "order": 40,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Geri vites lambalarından biri parlak diğeri sönük yanıyorsa sebebi aşağıdakilerden hangisidir?",
       "type": "text",
       "options": [
@@ -1287,9 +1287,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q41",
+      "id": "trafik_g38_q41",
       "order": 41,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Akünün bakımında, elektrolit seviyesinin düşük olduğu gözlemlendiğinde aşağıdakilerden hangisi yapılmalıdır?",
       "type": "text",
       "options": [
@@ -1319,9 +1319,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q42",
+      "id": "trafik_g38_q42",
       "order": 42,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Seyir hâlindeyken araçtan yanık kablo kokusu alınırsa aşağıdakilerden hangisi yapılır?",
       "type": "text",
       "options": [
@@ -1351,9 +1351,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q43",
+      "id": "trafik_g38_q43",
       "order": 43,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Radyatöre konulacak su peteklerin neresinde olmalıdır?",
       "type": "text",
       "options": [
@@ -1383,9 +1383,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q44",
+      "id": "trafik_g38_q44",
       "order": 44,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi elektrik devresindeki sigortanın görevidir?",
       "type": "text",
       "options": [
@@ -1415,9 +1415,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q45",
+      "id": "trafik_g38_q45",
       "order": 45,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aracını kaldırıma park etmiş bir sürücü, diğer yol kullanıcılarının kaldırımı kullanmasına engel olduğu gibi kaldırımı kullanamayan yayaların araç yoluna çıkmalarına neden olmaktadır. Oysaki - - - - düzeyi yüksek bir sürücü, kendini yaya olan yol kullanıcısının yerine koyar ve aracını kaldırıma park etmez. Verilen ifadede boş bırakılan yere aşağı dakilerden hangisi yazılmalıdır?",
       "type": "text",
       "options": [
@@ -1447,9 +1447,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q46",
+      "id": "trafik_g38_q46",
       "order": 46,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Aşağıdakilerden hangisi trafikte bireye yapılan hak ihlallerindendir?",
       "type": "text",
       "options": [
@@ -1479,9 +1479,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q47",
+      "id": "trafik_g38_q47",
       "order": 47,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Geçme yapan araca, geçilmekte olan araç sürücüsünün yavaşlayıp kolaylık sağlaması durumu, trafikte hangi temel değerle ifade edilir?",
       "type": "text",
       "options": [
@@ -1511,9 +1511,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q48",
+      "id": "trafik_g38_q48",
       "order": 48,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan sürücünün, ışığın yeşile dönmesi için 1 saniye bile bekleyememesi durumu, bu sürücünün trafikte hangi temel değere sahip olmadığını gösterir?",
       "type": "text",
       "options": [
@@ -1543,9 +1543,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q49",
+      "id": "trafik_g38_q49",
       "order": 49,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Trafik kazası geçiren kişiler; I. Canlarına bir zarar gelmese bile psikolojik olarak zarar görürler. II. Kişilerin bu bozuk psikolojileri ailelerine ve topluma olumlu yansır. Verilenler için aşağıdakilerden hangisi söylenebilir?",
       "type": "text",
       "options": [
@@ -1575,9 +1575,9 @@
       "mainImage": null
     },
     {
-      "id": "deneme2_q50",
+      "id": "trafik_g38_q50",
       "order": 50,
-      "categoryId": "deneme_2",
+      "categoryId": "trafik",
       "question": "Sürücülerin trafik içindeki davranışlarının sonuçlarını düşünerek hareket etmesi hâli, trafikte hangi temel değere sahip olunduğunu gösterir?",
       "type": "text",
       "options": [
@@ -1606,5 +1606,6 @@
       "explanation": null,
       "mainImage": null
     }
-  ]
+  ],
+  "name": "Trafik Testi 38"
 }
