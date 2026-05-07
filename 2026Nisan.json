@@ -1,0 +1,1409 @@
+{
+  "name": "2026 Nisan Çıkmış Sınav",
+  "categoryId": "trafik",
+  "questionCount": 50,
+  "testNumber": 1,
+  "testId": "cikmis_2026nisan",
+  "questions": [
+    {
+      "id": "nisan2026_1",
+      "order": 1,
+      "categoryId": "trafik",
+      "question": "Şehir içinde azami hız kaç km/saat'tir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "30 km/saat"
+        },
+        {
+          "key": "B",
+          "text": "50 km/saat"
+        },
+        {
+          "key": "C",
+          "text": "70 km/saat"
+        },
+        {
+          "key": "D",
+          "text": "90 km/saat"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Şehir içinde azami hız 50 km/saattir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_2",
+      "order": 2,
+      "categoryId": "trafik",
+      "question": "Otoyollarda azami hız kaç km/saat'tir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "90 km/saat"
+        },
+        {
+          "key": "B",
+          "text": "110 km/saat"
+        },
+        {
+          "key": "C",
+          "text": "120 km/saat"
+        },
+        {
+          "key": "D",
+          "text": "140 km/saat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Otoyollarda azami hız 120 km/saattir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_3",
+      "order": 3,
+      "categoryId": "trafik",
+      "question": "Emniyet kemeri takmak ne zaman zorunludur?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece otoyollarda"
+        },
+        {
+          "key": "B",
+          "text": "Sadece şehir dışında"
+        },
+        {
+          "key": "C",
+          "text": "Her koşulda zorunludur"
+        },
+        {
+          "key": "D",
+          "text": "Sadece gece sürüşlerinde"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Emniyet kemeri her türlü sürüşte takmak zorunludur.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_4",
+      "order": 4,
+      "categoryId": "trafik",
+      "question": "Dur işaretinin şekli hangisidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üçgen"
+        },
+        {
+          "key": "B",
+          "text": "Daire"
+        },
+        {
+          "key": "C",
+          "text": "Sekizgen"
+        },
+        {
+          "key": "D",
+          "text": "Kare"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dur işareti sekizgen şeklindedir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_5",
+      "order": 5,
+      "categoryId": "trafik",
+      "question": "Yaya geçidinde yaya geçerken sürücü ne yapmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hızını artırmalı"
+        },
+        {
+          "key": "B",
+          "text": "Durmalı"
+        },
+        {
+          "key": "C",
+          "text": "Kornaya basmalı"
+        },
+        {
+          "key": "D",
+          "text": "Işık yakmalı"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Yaya geçidinde yaya geçerken sürücü durmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_6",
+      "order": 6,
+      "categoryId": "trafik",
+      "question": "Alkollü araç kullanma sınırı kaç promildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.25 promil"
+        },
+        {
+          "key": "B",
+          "text": "0.50 promil"
+        },
+        {
+          "key": "C",
+          "text": "0.75 promil"
+        },
+        {
+          "key": "D",
+          "text": "1.00 promil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Türkiyede alkollü araç kullanma sınırı 0.50 promildir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_7",
+      "order": 7,
+      "categoryId": "trafik",
+      "question": "Kırmızı ışıkta ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yavaşlanır"
+        },
+        {
+          "key": "B",
+          "text": "Durulur"
+        },
+        {
+          "key": "C",
+          "text": "Geçilir"
+        },
+        {
+          "key": "D",
+          "text": "Kornaya basılır"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kırmızı ışıkta mutlaka durulmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_8",
+      "order": 8,
+      "categoryId": "trafik",
+      "question": "Sarı ışık ne anlama gelir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Geçebilirsiniz"
+        },
+        {
+          "key": "B",
+          "text": "Hızlanın"
+        },
+        {
+          "key": "C",
+          "text": "Durmaya hazırlanın"
+        },
+        {
+          "key": "D",
+          "text": "Geri gidin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sarı ışık durmaya hazırlanın anlamına gelir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_9",
+      "order": 9,
+      "categoryId": "trafik",
+      "question": "Öncelik işareti hangi şekle sahiptir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kırmızı üçgen"
+        },
+        {
+          "key": "B",
+          "text": "Sarı eşkenar dörtgen"
+        },
+        {
+          "key": "C",
+          "text": "Mavi daire"
+        },
+        {
+          "key": "D",
+          "text": "Beyaz dikdörtgen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Öncelik işareti sarı eşkenar dörtgen şeklindedir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_10",
+      "order": 10,
+      "categoryId": "trafik",
+      "question": "Şehir dışında azami hız kaç km/saat'tir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "70 km/saat"
+        },
+        {
+          "key": "B",
+          "text": "80 km/saat"
+        },
+        {
+          "key": "C",
+          "text": "90 km/saat"
+        },
+        {
+          "key": "D",
+          "text": "100 km/saat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Şehir dışında azami hız 90 km/saattir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_11",
+      "order": 11,
+      "categoryId": "motor",
+      "question": "Motor yağı ne işe yarar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Motoru soğutur"
+        },
+        {
+          "key": "B",
+          "text": "Yakıt sağlar"
+        },
+        {
+          "key": "C",
+          "text": "Sürtünmeyi azaltır"
+        },
+        {
+          "key": "D",
+          "text": "Egzozu temizler"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Motor yağı motor parçaları arasındaki sürtünmeyi azaltır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_12",
+      "order": 12,
+      "categoryId": "motor",
+      "question": "Akü ne işe yarar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yakıtı depolar"
+        },
+        {
+          "key": "B",
+          "text": "Elektrik enerjisi sağlar"
+        },
+        {
+          "key": "C",
+          "text": "Motoru soğutur"
+        },
+        {
+          "key": "D",
+          "text": "Freni güçlendirir"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Akü araca elektrik enerjisi sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_13",
+      "order": 13,
+      "categoryId": "motor",
+      "question": "Radyatör ne işe yarar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yakıtı filtreler"
+        },
+        {
+          "key": "B",
+          "text": "Motoru soğutur"
+        },
+        {
+          "key": "C",
+          "text": "Yağı depolar"
+        },
+        {
+          "key": "D",
+          "text": "Egzozu temizler"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Radyatör motoru soğutmak için kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_14",
+      "order": 14,
+      "categoryId": "motor",
+      "question": "Fren balatası neyi sağlar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hızlanmayı"
+        },
+        {
+          "key": "B",
+          "text": "Yavaşlamayı ve durmayı"
+        },
+        {
+          "key": "C",
+          "text": "Direksiyon kontrolünü"
+        },
+        {
+          "key": "D",
+          "text": "Motor gücünü"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fren balatası aracın yavaşlamasını ve durmasını sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_15",
+      "order": 15,
+      "categoryId": "motor",
+      "question": "Alternatör ne işe yarar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aracı soğutur"
+        },
+        {
+          "key": "B",
+          "text": "Yakıtı pompalar"
+        },
+        {
+          "key": "C",
+          "text": "Akü şarj eder ve elektrik üretir"
+        },
+        {
+          "key": "D",
+          "text": "Egzozu filtreler"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Alternatör motor çalışırken akü şarj eder ve elektrik üretir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_16",
+      "order": 16,
+      "categoryId": "ilkyardim",
+      "question": "Kalp masajında göğüs kaç cm bastırılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "1-2 cm"
+        },
+        {
+          "key": "B",
+          "text": "3-4 cm"
+        },
+        {
+          "key": "C",
+          "text": "5-6 cm"
+        },
+        {
+          "key": "D",
+          "text": "7-8 cm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kalp masajında göğüs 5-6 cm bastırılmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_17",
+      "order": 17,
+      "categoryId": "ilkyardim",
+      "question": "CPR'da dakikada kaç baskı yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "60 baskı"
+        },
+        {
+          "key": "B",
+          "text": "80 baskı"
+        },
+        {
+          "key": "C",
+          "text": "100-120 baskı"
+        },
+        {
+          "key": "D",
+          "text": "150 baskı"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "CPR da dakikada 100-120 baskı yapılmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_18",
+      "order": 18,
+      "categoryId": "ilkyardim",
+      "question": "Kanamalı bir yarada ilk yapılacak şey nedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yarayı yıkamak"
+        },
+        {
+          "key": "B",
+          "text": "Baskı uygulamak"
+        },
+        {
+          "key": "C",
+          "text": "İlaç vermek"
+        },
+        {
+          "key": "D",
+          "text": "Hastaneye götürmek"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kanamalı yarada ilk yapılacak şey baskı uygulamaktır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_19",
+      "order": 19,
+      "categoryId": "ilkyardim",
+      "question": "Kırık şüphesi olan bir uzva ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hareket ettirilmeli"
+        },
+        {
+          "key": "B",
+          "text": "Sabitleme yapılmalı"
+        },
+        {
+          "key": "C",
+          "text": "Ovulmalı"
+        },
+        {
+          "key": "D",
+          "text": "Soğuk su dökülerek ıslatılmalı"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kırık şüphesi olan bir uzva sabitleme yapılmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_20",
+      "order": 20,
+      "categoryId": "ilkyardim",
+      "question": "Bilinç kaybı olan bir kişi nasıl konumlandırılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yüz üstü yatırılmalı"
+        },
+        {
+          "key": "B",
+          "text": "Oturur pozisyona getirilmeli"
+        },
+        {
+          "key": "C",
+          "text": "Kurtarma pozisyonuna alınmalı"
+        },
+        {
+          "key": "D",
+          "text": "Ayağa kaldırılmalı"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bilinç kaybı olan kişi kurtarma pozisyonuna alınmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_21",
+      "order": 21,
+      "categoryId": "trafik",
+      "question": "Geçiş üstünlüğü hangi araçlara verilir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece polise"
+        },
+        {
+          "key": "B",
+          "text": "Ambulans, itfaiye, polis"
+        },
+        {
+          "key": "C",
+          "text": "Sadece ambulansa"
+        },
+        {
+          "key": "D",
+          "text": "Tüm kamu araçlarına"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ambulans, itfaiye ve polis araçlarına geçiş üstünlüğü tanınır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_22",
+      "order": 22,
+      "categoryId": "trafik",
+      "question": "Takip mesafesi neden önemlidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yakıt tasarrufu için"
+        },
+        {
+          "key": "B",
+          "text": "Frenleme mesafesi için"
+        },
+        {
+          "key": "C",
+          "text": "Diğer araçları görmek için"
+        },
+        {
+          "key": "D",
+          "text": "Hız sınırına uymak için"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Takip mesafesi frenleme için yeterli alan sağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_23",
+      "order": 23,
+      "categoryId": "trafik",
+      "question": "Yağmurlu havada lastik tutuşu nasıl etkilenir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Artar"
+        },
+        {
+          "key": "B",
+          "text": "Değişmez"
+        },
+        {
+          "key": "C",
+          "text": "Azalır"
+        },
+        {
+          "key": "D",
+          "text": "Tamamen kaybolur"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Yağmurlu havada lastik tutuşu azalır, frenleme mesafesi uzar.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_24",
+      "order": 24,
+      "categoryId": "trafik",
+      "question": "Araç içinde çocuklar için hangi güvenlik önlemi alınmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Arka koltukta oturturulmalı"
+        },
+        {
+          "key": "B",
+          "text": "Çocuk koltuğu kullanılmalı"
+        },
+        {
+          "key": "C",
+          "text": "Anne kucağında taşınmalı"
+        },
+        {
+          "key": "D",
+          "text": "Ön koltukta emniyet kemer ile"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Çocuklar yaş ve kilolarına uygun çocuk koltuğunda taşınmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_25",
+      "order": 25,
+      "categoryId": "trafik",
+      "question": "Sollama yasağı olan yerde ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hızlı sollama yapılır"
+        },
+        {
+          "key": "B",
+          "text": "Sollama yapılmaz"
+        },
+        {
+          "key": "C",
+          "text": "Karşıdan araç yoksa sollanır"
+        },
+        {
+          "key": "D",
+          "text": "Korna çalınarak sollanır"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sollama yasağı olan yerde kesinlikle sollama yapılmaz.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_26",
+      "order": 26,
+      "categoryId": "trafik",
+      "question": "Gece sürüşünde uzun far ne zaman kullanılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her zaman"
+        },
+        {
+          "key": "B",
+          "text": "Karşıdan araç gelirken"
+        },
+        {
+          "key": "C",
+          "text": "Karşıdan araç gelmediğinde"
+        },
+        {
+          "key": "D",
+          "text": "Şehir içinde"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Uzun far karşıdan araç gelmediğinde kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_27",
+      "order": 27,
+      "categoryId": "trafik",
+      "question": "Kavşaklarda geçiş önceliği kime aittir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Soldan gelene"
+        },
+        {
+          "key": "B",
+          "text": "Sağdan gelene"
+        },
+        {
+          "key": "C",
+          "text": "Büyük araca"
+        },
+        {
+          "key": "D",
+          "text": "Hızlı gelene"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "İşaretsiz kavşaklarda sağdan gelen araca öncelik tanınır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_28",
+      "order": 28,
+      "categoryId": "trafik",
+      "question": "Dönel kavşaklarda geçiş önceliği kime aittir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Girecek araca"
+        },
+        {
+          "key": "B",
+          "text": "Kavşak içindeki araca"
+        },
+        {
+          "key": "C",
+          "text": "Büyük araca"
+        },
+        {
+          "key": "D",
+          "text": "Soldan gelene"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dönel kavşaklarda içeride olan araç önceliklidir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_29",
+      "order": 29,
+      "categoryId": "trafik",
+      "question": "Araç arızalandığında ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Araç ortada bırakılır"
+        },
+        {
+          "key": "B",
+          "text": "Reflektör konulur ve ikaz lambası yakılır"
+        },
+        {
+          "key": "C",
+          "text": "Sadece dörtlü yakılır"
+        },
+        {
+          "key": "D",
+          "text": "Hemen onarım yapılır"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Araç arızalandığında reflektör konulmalı ve ikaz lambası yakılmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_30",
+      "order": 30,
+      "categoryId": "motor",
+      "question": "Dizel motor ile benzinli motor arasındaki temel fark nedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dizel motor daha küçüktür"
+        },
+        {
+          "key": "B",
+          "text": "Dizel motor ateşleme bujisi kullanmaz"
+        },
+        {
+          "key": "C",
+          "text": "Benzinli motor daha güçlüdür"
+        },
+        {
+          "key": "D",
+          "text": "Dizel motor daha hızlıdır"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dizel motorlar sıkıştırma ile ateşleme yapar bujiye ihtiyaç duymaz.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_31",
+      "order": 31,
+      "categoryId": "motor",
+      "question": "Hidrolik fren sistemi ne ile çalışır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hava basıncı"
+        },
+        {
+          "key": "B",
+          "text": "Fren yağı"
+        },
+        {
+          "key": "C",
+          "text": "Motor yağı"
+        },
+        {
+          "key": "D",
+          "text": "Su"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hidrolik fren sistemi fren yağı basıncı ile çalışır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_32",
+      "order": 32,
+      "categoryId": "motor",
+      "question": "Turbo ne işe yarar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yakıt tasarrufu sağlar"
+        },
+        {
+          "key": "B",
+          "text": "Motora daha fazla hava göndererek gücü artırır"
+        },
+        {
+          "key": "C",
+          "text": "Egzozu filtreler"
+        },
+        {
+          "key": "D",
+          "text": "Motoru soğutur"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Turbo motora daha fazla hava göndererek motor gücünü artırır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_33",
+      "order": 33,
+      "categoryId": "motor",
+      "question": "ABS sistemi ne işe yarar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hızı artırır"
+        },
+        {
+          "key": "B",
+          "text": "Frenleme sırasında tekerleklerin kilitlenmesini önler"
+        },
+        {
+          "key": "C",
+          "text": "Motoru korur"
+        },
+        {
+          "key": "D",
+          "text": "Yakıt tasarrufu sağlar"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "ABS frenleme sırasında tekerleklerin kilitlenmesini önler.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_34",
+      "order": 34,
+      "categoryId": "motor",
+      "question": "Debriyaj ne işe yarar?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fren yapar"
+        },
+        {
+          "key": "B",
+          "text": "Motor ile şanzımanı birbirinden ayırır"
+        },
+        {
+          "key": "C",
+          "text": "Direksiyonu kontrol eder"
+        },
+        {
+          "key": "D",
+          "text": "Hız artırır"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Debriyaj motor ile şanzıman arasındaki bağlantıyı keser veya bağlar.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_35",
+      "order": 35,
+      "categoryId": "motor",
+      "question": "Egzoz gazları neden zararlıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gürültü yapar"
+        },
+        {
+          "key": "B",
+          "text": "Karbon monoksit ve zararlı gazlar içerir"
+        },
+        {
+          "key": "C",
+          "text": "Yakıt tüketimini artırır"
+        },
+        {
+          "key": "D",
+          "text": "Motoru aşındırır"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Egzoz gazları karbon monoksit ve çeşitli zararlı gazlar içerir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_36",
+      "order": 36,
+      "categoryId": "ilkyardim",
+      "question": "Yanık yarası nasıl soğutulmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Buz ile"
+        },
+        {
+          "key": "B",
+          "text": "Soğuk su ile 10-20 dakika"
+        },
+        {
+          "key": "C",
+          "text": "Diş macunu ile"
+        },
+        {
+          "key": "D",
+          "text": "Yağ ile"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Yanık yaraları soğuk su ile 10-20 dakika soğutulmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_37",
+      "order": 37,
+      "categoryId": "ilkyardim",
+      "question": "Trafik kazasında yaralıya ilk yapılacak şey nedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hemen arabadan çıkarmak"
+        },
+        {
+          "key": "B",
+          "text": "112 yi aramak ve güvenliği sağlamak"
+        },
+        {
+          "key": "C",
+          "text": "Su vermek"
+        },
+        {
+          "key": "D",
+          "text": "Soğuk uygulama yapmak"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Önce 112 aranmalı olay yeri güvenliği sağlanmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_38",
+      "order": 38,
+      "categoryId": "ilkyardim",
+      "question": "Boğulma tehlikesindeki kişiye ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Su içirilir"
+        },
+        {
+          "key": "B",
+          "text": "Heimlich manevrası uygulanır"
+        },
+        {
+          "key": "C",
+          "text": "Ayakları yukarı kaldırılır"
+        },
+        {
+          "key": "D",
+          "text": "Sırt üstü yatırılır"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Boğulmada Heimlich manevrası uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_39",
+      "order": 39,
+      "categoryId": "ilkyardim",
+      "question": "Bayılan kişi için ilk yapılacak şey nedir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Su serpmek"
+        },
+        {
+          "key": "B",
+          "text": "Hava yolunu açmak ve solunumu kontrol etmek"
+        },
+        {
+          "key": "C",
+          "text": "Yüzüne vurmak"
+        },
+        {
+          "key": "D",
+          "text": "İlaç vermek"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bayılan kişide önce hava yolu açılmalı solunum kontrol edilmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_40",
+      "order": 40,
+      "categoryId": "ilkyardim",
+      "question": "Elektrik çarpması durumunda ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hemen dokunulur"
+        },
+        {
+          "key": "B",
+          "text": "Önce elektrik kesilir sonra müdahale edilir"
+        },
+        {
+          "key": "C",
+          "text": "Su dökülür"
+        },
+        {
+          "key": "D",
+          "text": "Beklenilir"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Elektrik çarpmalarında önce elektrik kesilmeli sonra müdahale edilmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_41",
+      "order": 41,
+      "categoryId": "trafikadabi",
+      "question": "Diğer sürücülere karşı saygılı olmak neden önemlidir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ceza almamak için"
+        },
+        {
+          "key": "B",
+          "text": "Trafik akışını kolaylaştırmak ve kaza riskini azaltmak için"
+        },
+        {
+          "key": "C",
+          "text": "Yakıt tasarrufu için"
+        },
+        {
+          "key": "D",
+          "text": "Araç ömrünü uzatmak için"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Saygılı sürüş trafik akışını kolaylaştırır ve kaza riskini azaltır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_42",
+      "order": 42,
+      "categoryId": "trafikadabi",
+      "question": "Ambulans geçerken ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hızlanılır"
+        },
+        {
+          "key": "B",
+          "text": "Yol verilir ve geçmesi beklenir"
+        },
+        {
+          "key": "C",
+          "text": "Kornaya basılır"
+        },
+        {
+          "key": "D",
+          "text": "Takip edilir"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ambulans geçerken yol verilmeli ve geçmesi beklenmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_43",
+      "order": 43,
+      "categoryId": "trafikadabi",
+      "question": "Kornayı ne zaman kullanmak uygun değildir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tehlike durumunda"
+        },
+        {
+          "key": "B",
+          "text": "Şehir içinde gereksiz yere"
+        },
+        {
+          "key": "C",
+          "text": "Köy yollarında"
+        },
+        {
+          "key": "D",
+          "text": "Gece karanlıkta"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Şehir içinde gereksiz yere korna kullanmak trafik adabına aykırıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_44",
+      "order": 44,
+      "categoryId": "trafikadabi",
+      "question": "Yayalara karşı sürücünün tutumu nasıl olmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Onları görmezden gelmeli"
+        },
+        {
+          "key": "B",
+          "text": "Saygılı ve dikkatli olmalı"
+        },
+        {
+          "key": "C",
+          "text": "Hızını artırmalı"
+        },
+        {
+          "key": "D",
+          "text": "Korna çalmalı"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sürücüler yayalara karşı her zaman saygılı ve dikkatli olmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_45",
+      "order": 45,
+      "categoryId": "trafikadabi",
+      "question": "Trafik sıkışıklığında sürücü ne yapmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trafiği tıkamalı"
+        },
+        {
+          "key": "B",
+          "text": "Sabırlı olmalı ve sırasını beklemelidir"
+        },
+        {
+          "key": "C",
+          "text": "Korna çalmalı"
+        },
+        {
+          "key": "D",
+          "text": "Kaldırıma çıkmalı"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trafik sıkışıklığında sabırlı olmak ve sıra beklemek doğru davranıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_46",
+      "order": 46,
+      "categoryId": "trafik",
+      "question": "Sis farları ne zaman kullanılır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her gece"
+        },
+        {
+          "key": "B",
+          "text": "Yoğun sis kar veya yağmurda"
+        },
+        {
+          "key": "C",
+          "text": "Şehir içinde"
+        },
+        {
+          "key": "D",
+          "text": "Otoyollarda"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sis farları yoğun sis kar veya yağmurda kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_47",
+      "order": 47,
+      "categoryId": "trafik",
+      "question": "Araçta bulunması zorunlu olan ekipmanlar nelerdir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sadece reflektör"
+        },
+        {
+          "key": "B",
+          "text": "Reflektör yangın söndürücü ilk yardım çantası"
+        },
+        {
+          "key": "C",
+          "text": "Sadece ilk yardım çantası"
+        },
+        {
+          "key": "D",
+          "text": "Sadece yangın söndürücü"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Araçlarda reflektör yangın söndürücü ve ilk yardım çantası bulunması zorunludur.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_48",
+      "order": 48,
+      "categoryId": "trafik",
+      "question": "Tek yön levhası olan bir sokakta ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her yöne gidilebilir"
+        },
+        {
+          "key": "B",
+          "text": "Sadece işaretin gösterdiği yönde gidilir"
+        },
+        {
+          "key": "C",
+          "text": "Karşıdan araç yoksa ters gidilebilir"
+        },
+        {
+          "key": "D",
+          "text": "İki yönlü kullanılabilir"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tek yön levhası olan sokakta sadece belirtilen yönde gidilir.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_49",
+      "order": 49,
+      "categoryId": "trafik",
+      "question": "Araç lastiği patlarsa ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ani fren yapılır"
+        },
+        {
+          "key": "B",
+          "text": "Direksiyon sıkı tutulur yavaşça frene basılır"
+        },
+        {
+          "key": "C",
+          "text": "Hızlanılır"
+        },
+        {
+          "key": "D",
+          "text": "Araç terk edilir"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lastik patlamasında direksiyon sıkı tutulmalı ve yavaşça fren yapılmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "nisan2026_50",
+      "order": 50,
+      "categoryId": "trafik",
+      "question": "Trafik cezaları nereye ödenir?",
+      "type": "text",
+      "options": [
+        {
+          "key": "A",
+          "text": "Polise"
+        },
+        {
+          "key": "B",
+          "text": "Vergi dairelerine veya PTT ye"
+        },
+        {
+          "key": "C",
+          "text": "Belediyeye"
+        },
+        {
+          "key": "D",
+          "text": "Mahkemeye"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trafik cezaları vergi daireleri veya PTT aracılığıyla ödenir.",
+      "mainImage": null
+    }
+  ]
+}
