@@ -398,7 +398,7 @@
       "options": [
         { "key": "A", "text": "Aynı olmalıdır" },
         { "key": "B", "text": "10 km/saat daha az olmalıdır" },
-        { "key": "C": "20 km/saat daha fazla olmalıdır" },
+        { "key": "C", "text": "20 km/saat daha fazla olmalıdır" },
         { "key": "D", "text": "Yarı yarıya az olmalıdır" }
       ],
       "correctAnswer": "B",
@@ -607,7 +607,7 @@
         { "key": "A", "text": "Yavaşlama şeridi" },
         { "key": "B", "text": "Hızlanma şeridi" },
         { "key": "C", "text": "Banket" },
-        { "key": "D": "Sol şerit" }
+        { "key": "D", "text": "Sol şerit" }
       ],
       "correctAnswer": "B",
       "explanation": "Otoyol trafiğine uyum sağlamak için hızlanma şeridi kullanılır.",
