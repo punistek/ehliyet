@@ -79,7 +79,7 @@
         { "key": "A", "text": "Korna çalarak diğer araçları uyarması" },
         { "key": "B", "text": "Gireceği şeritteki araçların emniyetle geçişini beklemesi" },
         { "key": "C", "text": "Hızını azaltarak şerit değiştirmesi" },
-        { "key": "D": "Ani manevra yaparak şeride girmesi" }
+        { "key": "D", "text": "Ani manevra yaparak şeride girmesi" }
       ],
       "correctAnswer": "B",
       "explanation": "Şerit değiştirirken o şeritteki araçların geçiş hakkı önceliklidir.",
