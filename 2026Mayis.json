@@ -1,0 +1,105 @@
+{
+  "name": "2026 Mayıs Çıkmış Sınav",
+  "categoryId": "trafik",
+  "questionCount": 50,
+  "testNumber": 2,
+  "testId": "cikmis_2026mayis",
+  "questions": [
+    {
+      "id": "mayis2026_1",
+      "order": 1,
+      "categoryId": "trafik",
+      "question": "Aksine bir işaret yoksa, yerleşim yeri dışındaki şehirler arası çift yönlü karayollarında otomobiller için azami hız sınırı saatte kaç kilometredir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "80" },
+        { "key": "B", "text": "90" },
+        { "key": "C", "text": "110" },
+        { "key": "D", "text": "120" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Otomobiller için yerleşim yeri dışı şehirler arası çift yönlü yollarda hız sınırı 90 km/saattir.",
+      "mainImage": null
+    },
+    {
+      "id": "mayis2026_2",
+      "order": 2,
+      "categoryId": "trafik",
+      "question": "Öndeki aracı güvenli ve yeterli mesafeden takip etmeyen sürücüye ne denir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Dikkatli" },
+        { "key": "B", "text": "Kuralcı" },
+        { "key": "C", "text": "Tedbirsiz" },
+        { "key": "D", "text": "Saygılı" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Takip mesafesine uymamak kaza riskini artıran tedbirsiz bir davranıştır.",
+      "mainImage": null
+    },
+    {
+      "id": "mayis2026_3",
+      "order": 3,
+      "categoryId": "trafik",
+      "question": "Tehlikeli madde taşıyan araçlar, boş olarak seyrederken kendi sınıflarındaki araçlar için belirlenen hızla gidebilirler mi?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Evet, gidebilirler" },
+        { "key": "B", "text": "Hayır, gidemezler" },
+        { "key": "C", "text": "Sadece otoyolda" },
+        { "key": "D", "text": "Sadece gündüzleri" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tehlikeli madde taşıyan araçlar boşken kendi cinslerine ait hız sınırlarına tabidir.",
+      "mainImage": null
+    },
+    {
+      "id": "mayis2026_11",
+      "order": 11,
+      "categoryId": "motor",
+      "question": "Motorun soğutma sisteminde kullanılan antifriz, aşağıdakilerden hangisini önler?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Yakıtın donmasını" },
+        { "key": "B", "text": "Motorun yağ yakmasını" },
+        { "key": "C", "text": "Soğutma suyunun donmasını" },
+        { "key": "D", "text": "Lastiklerin aşınmasını" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Antifriz kışın soğutma suyunun donmasını, yazın ise kaynamasını önler.",
+      "mainImage": null
+    },
+    {
+      "id": "mayis2026_16",
+      "order": 16,
+      "categoryId": "ilkyardim",
+      "question": "Yetişkin bir insanda temel yaşam desteği uygulanırken, göğüs kemiği dakikada kaç kez aşağı inip kalkmalıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "60" },
+        { "key": "B", "text": "80" },
+        { "key": "C", "text": "100" },
+        { "key": "D", "text": "140" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kalp masajı hızı dakikada yaklaşık 100-120 bası olacak şekilde ayarlanmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "mayis2026_41",
+      "order": 41,
+      "categoryId": "trafikadabi",
+      "question": "Hangi tutum trafik adabına sahip bir sürücüden beklenir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Hatalı sollama yapmak" },
+        { "key": "B", "text": "Diğer sürücülere öfkelenmek" },
+        { "key": "C", "text": "Yayalara öncelik tanımak" },
+        { "key": "D", "text": "Sürekli korna çalmak" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Yayalara ve diğer yol kullanıcılarına saygı trafik adabının temelidir.",
+      "mainImage": null
+    }
+  ]
+}
