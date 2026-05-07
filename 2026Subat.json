@@ -1,0 +1,809 @@
+{
+  "name": "2026 Şubat Çıkmış Sınav",
+  "categoryId": "karisik",
+  "questionCount": 50,
+  "testNumber": 4,
+  "testId": "cikmis_2026subat",
+  "questions": [
+    {
+      "id": "subat2026_1",
+      "order": 1,
+      "categoryId": "trafik",
+      "question": "Aksine bir işaret yoksa, eğimsiz iki yönlü dar yolda, otomobil ile iş makinesinin karşılaşması halinde hangisi diğerine yol vermelidir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "İş makinesi, otomobile" },
+        { "key": "B", "text": "Otomobil, iş makinesine" },
+        { "key": "C", "text": "Şeridi daralmış olan, diğerine" },
+        { "key": "D", "text": "Hızı az olan, diğerine" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dar yollarda karşılaşma önceliği kurallarına göre iş makinesi, otomobile yol vermek zorundadır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_2",
+      "order": 2,
+      "categoryId": "trafik",
+      "question": "Geceleri arkasındaki aracın geçme uyarısını alan araç sürücüsünün aşağıdakilerden hangisini yapması doğrudur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Arka sis lambalarını yakması" },
+        { "key": "B", "text": "Hızını artırarak uzaklaşması" },
+        { "key": "C", "text": "Uzağı gösteren ışıkları yakması" },
+        { "key": "D", "text": "Daha güvenli gidilebilmesi için sağa yanaşması" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sollanan araç sürücüsü, geçen araca yardımcı olmak amacıyla hızını korumalı veya sağa yanaşmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_3",
+      "order": 3,
+      "categoryId": "ilkyardim",
+      "question": "Ağızdan ağıza suni solunum yapılacak olan kazazedede boyun travması yoksa, verilecek en doğru pozisyon hangisidir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Başın sert bir yastıkla desteklenmesi" },
+        { "key": "B", "text": "Başın geriye doğru itilip çenenin yukarı kaldırılması" },
+        { "key": "C", "text": "Sırtüstü yatırılıp ayakların yükseltilmesi" },
+        { "key": "D", "text": "Yan yatırılarak dilin dışarı çıkarılması" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hava yolunu açmak için 'Baş Geri - Çene Yukarı' manevrası uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_4",
+      "order": 4,
+      "categoryId": "motor",
+      "question": "Vantilatör kayışı koptuğunda aşağıdaki göstergelerden hangisi yanar?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Yağ lambası" },
+        { "key": "B", "text": "Şarj lambası" },
+        { "key": "C", "text": "Yakıt lambası" },
+        { "key": "D", "text": "Hararet lambası" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vantilatör kayışı alternatörü (şarj dinamosunu) çevirdiği için koptuğunda şarj ikaz lambası yanar.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_5",
+      "order": 5,
+      "categoryId": "trafik",
+      "question": "Taşıt yolu üzerine çizilen 'YAVAŞLAMA UYARI ÇİZGİLERİ' hangi alanlara yaklaşırken kullanılır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Yaya geçidine" },
+        { "key": "B", "text": "Kavşaklara" },
+        { "key": "C", "text": "Gişelere veya tehlikeli virajlara" },
+        { "key": "D", "text": "Hepsi" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Yere çizilen giderek sıklaşan çizgiler sürücüyü yavaşlaması gereken her tehlikeli bölgede uyarır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_6",
+      "order": 6,
+      "categoryId": "trafikadabi",
+      "question": "Sürücünün trafik ortamında yaptığı bir kural ihlalinde, kendi hatasını kabul etmesi hangi erdeme örnektir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Bencillik" },
+        { "key": "B", "text": "Özgüven eksikliği" },
+        { "key": "C", "text": "Sorumluluk ve özdenetim" },
+        { "key": "D", "text": "Duyarsızlık" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trafik adabında hataları kabul etmek ve kurallara uymak bireysel sorumluluktur.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_7",
+      "order": 7,
+      "categoryId": "motor",
+      "question": "Seyir halindeyken egzozdan 'yoğun mavi duman' çıkması neyi gösterir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Zengin karışımla çalışıldığını" },
+        { "key": "B", "text": "Motorun yağ yaktığını" },
+        { "key": "C", "text": "Motorun soğuk olduğunu" },
+        { "key": "D", "text": "Yakıta su karıştığını" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mavi duman, motorun piston veya silindir aşınması nedeniyle yağ yaktığının kanıtıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_8",
+      "order": 8,
+      "categoryId": "trafik",
+      "question": "Yerleşim birimleri dışındaki karayollarında geceleri seyrederken, yeterince aydınlatılmamış tünellere girerken hangi ışıkların yakılması zorunludur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Sis ışıklarının" },
+        { "key": "B", "text": "Park ışıklarının" },
+        { "key": "C", "text": "Uzağı gösteren ışıkların" },
+        { "key": "D", "text": "Yakını gösteren ışıkların" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Aydınlatma yetersizse ve karşıdan gelen yoksa uzağı gösteren ışıklar kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_9",
+      "order": 9,
+      "categoryId": "ilkyardim",
+      "question": "Omurga kırığı olan yaralılar neden sedye ile ve kımıldatılmadan taşınmalıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Yaralının ağrısını azaltmak için" },
+        { "key": "B", "text": "Yaralının daha hızlı iyileşmesini sağlamak için" },
+        { "key": "C", "text": "Felç oluşmasını engellemek için" },
+        { "key": "D", "text": "Şoka girmesini önlemek için" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Omurilikteki sinir hasarı kalıcı felce neden olabilir, bu yüzden sabit tutulmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_10",
+      "order": 10,
+      "categoryId": "motor",
+      "question": "Frenleme esnasında aracın bir tarafa çekme yapmasının nedeni hangisidir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Fren balatalarının ıslanmış olması" },
+        { "key": "B", "text": "Fren ayarının bozuk olması (eşit olmaması)" },
+        { "key": "C", "text": "Lastiklerin havasının çok olması" },
+        { "key": "D", "text": "Balataların yeni olması" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fren kuvvetinin tekerleklere eşit dağılmaması aracı sağa veya sola çeker.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_11",
+      "order": 11,
+      "categoryId": "trafik",
+      "question": "Araçların muayene süresi dolmasa bile, hangi durumda özel muayeneye sevk edilmesi zorunludur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Lastiklerin değiştirilmesi durumunda" },
+        { "key": "B", "text": "Sürücünün değişmesi durumunda" },
+        { "key": "C", "text": "Üzerinde teknik değişiklik yapılması durumunda" },
+        { "key": "D", "text": "Sileceklerin eskimesi durumunda" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LPG takılması, renk değişimi gibi teknik değişiklikler muayene gerektirir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_12",
+      "order": 12,
+      "categoryId": "trafik",
+      "question": "Kara yollarında araçların güvenle seyredebilecekleri en yüksek hıza ne denir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Ekonomik hız" },
+        { "key": "B", "text": "Ortalama hız" },
+        { "key": "C", "text": "Azami hız" },
+        { "key": "D", "text": "Asgari hız" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Azami hız, yasal olarak izin verilen en üst hız sınırıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_13",
+      "order": 13,
+      "categoryId": "ilkyardim",
+      "question": "Hangi tür kanamada kan koyu renkli ve sızıntı şeklindedir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Atardamar kanaması" },
+        { "key": "B", "text": "Toplardamar kanaması" },
+        { "key": "C", "text": "Kılcal damar kanaması" },
+        { "key": "D", "text": "Dış kanama" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Toplardamar kanaması koyu renkli ve sürekli akış/sızıntı halindedir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_14",
+      "order": 14,
+      "categoryId": "motor",
+      "question": "Aracın gösterge panelinde 'ABS' lambasının yanması neyi ifade eder?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Fren sisteminin çok iyi çalıştığını" },
+        { "key": "B", "text": "Frenleme sırasında tekerleklerin kilitlenmeyeceğini" },
+        { "key": "C", "text": "ABS sisteminde bir arıza olduğunu" },
+        { "key": "D", "text": "Aracın kaymaya başladığını" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "İkaz lambasının yanması, o sistemde bir sorun olduğunu ve devre dışı kalabileceğini gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_15",
+      "order": 15,
+      "categoryId": "trafikadabi",
+      "question": "Hangisi trafikte öfke yönetiminin adımlarından biri değildir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Derin nefes almak" },
+        { "key": "B", "text": "Durumu analiz edip sakinleşmek" },
+        { "key": "C", "text": "Hatalı sürücüye bağırmak" },
+        { "key": "D", "text": "Dikkati başka yöne çekmek" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bağırmak öfkeyi artırır, trafik adabına ve güvenliğine aykırıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_16",
+      "order": 16,
+      "categoryId": "trafik",
+      "question": "Sürücü belgesini yanında bulundurmayan sürücüye aşağıdakilerden hangisi uygulanır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Trafikten men" },
+        { "key": "B", "text": "Hapis cezası" },
+        { "key": "C", "text": "Para cezası ve ceza puanı" },
+        { "key": "D", "text": "Belgenin iptal edilmesi" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Belgeyi yanında bulundurmamak idari para cezası ve ceza puanı yaptırımı gerektirir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_17",
+      "order": 17,
+      "categoryId": "ilkyardim",
+      "question": "Kaza yapmış bir araçta yangın riskini önlemek için ilk ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Araca su dökülmelidir" },
+        { "key": "B", "text": "Kontağın kapatılıp el freninin çekilmesi" },
+        { "key": "C", "text": "Camların kırılması" },
+        { "key": "D", "text": "Yaralıların hemen çıkarılması" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kontağı kapatmak elektrik sistemini keserek kıvılcım oluşumunu engeller.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_18",
+      "order": 18,
+      "categoryId": "motor",
+      "question": "Akü kutup başları ters bağlanırsa aşağıdakilerden hangisi arızalanabilir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Silecek motoru" },
+        { "key": "B", "text": "Vites kutusu" },
+        { "key": "C", "text": "Alternatör diyotları" },
+        { "key": "D", "text": "Diferansiyel" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ters bağlantı alternatörün diyotlarını (yönlendirme devrelerini) yakabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_19",
+      "order": 19,
+      "categoryId": "trafik",
+      "question": "Duraklanan veya park edilen yerden çıkılırken sürücülerin ne yapması zorunludur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Korna çalıp yayaları uyarmak" },
+        { "key": "B", "text": "Işıkla veya kolla sinyal vermek" },
+        { "key": "C", "text": "Dörtlü ikaz lambalarını yakmak" },
+        { "key": "D", "text": "Hemen ana yola girmek" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Çıkış manevrasından önce diğer sürücüleri uyarmak için sinyal verilmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_20",
+      "order": 20,
+      "categoryId": "ilkyardim",
+      "question": "Açık karın yaralanması olan kazazedeye hangi pozisyon verilir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Yüzüstü yatış" },
+        { "key": "B", "text": "Sırtüstü yatış, dizler bükük" },
+        { "key": "C", "text": "Yan yatış" },
+        { "key": "D", "text": "Yarı oturuş" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dizlerin bükülmesi karın kaslarını gevşetir ve iç organların dışarı çıkmasını zorlaştırır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_21",
+      "order": 21,
+      "categoryId": "trafik",
+      "question": "Aracın iki saniyede katedeceği yol uzunluğu hangi mesafeyi belirler?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Durma mesafesi" },
+        { "key": "B", "text": "Fren mesafesi" },
+        { "key": "C", "text": "Takip mesafesi" },
+        { "key": "D", "text": "Geçiş mesafesi" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Takip mesafesi, hızın yarısı kadar metre veya '88-89' kuralı (2 saniye) ile hesaplanır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_22",
+      "order": 22,
+      "categoryId": "motor",
+      "question": "Motorun soğutma sisteminde kullanılan antifriz aşağıdakilerden hangisini engellemez?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Donmayı" },
+        { "key": "B", "text": "Kireçlenmeyi" },
+        { "key": "C", "text": "Paslanmayı" },
+        { "key": "D", "text": "Yağın ısınmasını" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Antifriz su sistemini korur, yağın ısınmasıyla doğrudan bir ilgisi yoktur.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_23",
+      "order": 23,
+      "categoryId": "trafik",
+      "question": "Uyuşturucu veya uyarıcı madde aldığı tespit edilen sürücü hakkında hangisi uygulanır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Sadece para cezası verilir" },
+        { "key": "B", "text": "Sürücü belgesi 5 yıl süreyle geri alınır" },
+        { "key": "C", "text": "En sağ şeritten gitmesine izin verilir" },
+        { "key": "D", "text": "Sadece uyarı yapılır" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Uyuşturucu kullanımı durumunda belgeye 5 yıl el konulur ve hapis cezası da uygulanabilir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_24",
+      "order": 24,
+      "categoryId": "ilkyardim",
+      "question": "Kanamalarda damar üzerine baskı uygulamak hangi durumda tercih edilir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Kılcal damar kanamalarında" },
+        { "key": "B", "text": "Kanamanın durdurulamadığı şiddetli durumlarda" },
+        { "key": "C", "text": "Burun kanamasında" },
+        { "key": "D", "text": "Sıyrıklarda" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bası noktalarına müdahale, kan akışını ana kaynaktan kesmek için yapılır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_25",
+      "order": 25,
+      "categoryId": "trafik",
+      "question": "Römork takmış bir otomobilin azami hızı, römorksuz haline göre nasıl olmalıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Aynı olmalıdır" },
+        { "key": "B", "text": "10 km/saat daha az olmalıdır" },
+        { "key": "C": "20 km/saat daha fazla olmalıdır" },
+        { "key": "D", "text": "Yarı yarıya az olmalıdır" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Römorklu araçların hız limiti, aynı cins römorksuz araçlara göre 10 km/saat düşüktür.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_26",
+      "order": 26,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi yakıt sisteminin bir parçasıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Endüksiyon bobini" },
+        { "key": "B", "text": "Karbüratör" },
+        { "key": "C", "text": "Vantilatör" },
+        { "key": "D", "text": "Amortisör" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Karbüratör (eski nesil motorlarda) yakıt-hava karışımını ayarlar.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_27",
+      "order": 27,
+      "categoryId": "trafik",
+      "question": "Geçiş üstünlüğü bulunan bir aracın duyulur veya görülür işareti alındığında ne yapılmalıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Yolun ortasında durulmalıdır" },
+        { "key": "B", "text": "Taşıt yolunda yer açılmalı (fermuar sistemi)" },
+        { "key": "C", "text": "Hızlanarak önünden kaçılmalıdır" },
+        { "key": "D", "text": "Korna ile cevap verilmelidir" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Güvenli bir şekilde sağa veya sola yanaşarak geçiş koridoru açılmalıdır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_28",
+      "order": 28,
+      "categoryId": "ilkyardim",
+      "question": "Hangi kazazedeye turnike uygulanması uygundur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Kanaması duran kişiye" },
+        { "key": "B", "text": "Uzvun koptuğu veya çok sayıda yaralının olduğu durumlarda" },
+        { "key": "C", "text": "Bilinci yerinde olmayan herkese" },
+        { "key": "D", "text": "Kılcal damar kanaması olanlara" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Turnike, baskı noktalarına basının yetersiz kaldığı ekstrem (uzuv kopması vb.) durumlarda uygulanır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_29",
+      "order": 29,
+      "categoryId": "trafik",
+      "question": "Tescil edilmiş araçların durumunu gösteren belgeye ne ad verilir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Sürücü belgesi" },
+        { "key": "B", "text": "Araç tescil belgesi (Ruhsat)" },
+        { "key": "C", "text": "Gümrük belgesi" },
+        { "key": "D", "text": "Sahiplik belgesi" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Araç tescil belgesi, aracın kimlik bilgilerini içerir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_30",
+      "order": 30,
+      "categoryId": "motor",
+      "question": "Lastik hava basıncı normalden fazla olursa ne olur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Lastikler kenarlardan aşınır" },
+        { "key": "B", "text": "Lastikler ortadan aşınır ve sürüş konforu azalır" },
+        { "key": "C", "text": "Yakıt tüketimi artırır" },
+        { "key": "D", "text": "Fren mesafesi kısalır" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Fazla basınç lastiğin orta kısmının yola basmasına ve o bölgenin aşınmasına neden olur.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_31",
+      "order": 31,
+      "categoryId": "trafik",
+      "question": "Işıklı trafik işaret cihazında 'kırmızı' ışıkla birlikte 'sarı' ışığın yanması neyi bildirir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Durulacağını" },
+        { "key": "B", "text": "Yolun trafiğe kapanacağını" },
+        { "key": "C", "text": "Harekete hazırlanılacağını" },
+        { "key": "D", "text": "Yavaşlanacağını" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kırmızı+Sarı, yeşilin yanacağını ve kalkışa hazırlanılması gerektiğini gösterir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_32",
+      "order": 32,
+      "categoryId": "ilkyardim",
+      "question": "Soluk yoluna yabancı cisim kaçmış ve tam tıkanma yaşayan birine hangi manevra uygulanır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Rantek manevrası" },
+        { "key": "B", "text": "Heimlich manevrası" },
+        { "key": "C", "text": "Şok pozisyonu" },
+        { "key": "D", "text": "Koma pozisyonu" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Karın bölgesine bası yaparak cismi çıkarmayı amaçlayan yöntem Heimlich'tir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_33",
+      "order": 33,
+      "categoryId": "motor",
+      "question": "Aşağıdakilerden hangisi aktarma organıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Piston" },
+        { "key": "B", "text": "Şanzıman (Vites kutusu)" },
+        { "key": "C", "text": "Radyatör" },
+        { "key": "D", "text": "Krank mili" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Şanzıman, motordan aldığı gücü tekerleklere aktaran birimlerden biridir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_34",
+      "order": 34,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte engelli bir vatandaşın geçişine yardımcı olmak hangi değere girer?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Feragat" },
+        { "key": "B", "text": "Yardımlaşma ve hoşgörü" },
+        { "key": "C", "text": "Sabırsızlık" },
+        { "key": "D", "text": "İnatlaşma" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dezavantajlı gruplara öncelik ve kolaylık sağlamak trafik adabının temelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_35",
+      "order": 35,
+      "categoryId": "trafik",
+      "question": "Kontrollü demir yolu (hemzemin) geçidine yaklaşan sürücü ne yapmalıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Hızını artırıp geçmelidir" },
+        { "key": "B", "text": "Uygun mesafede durmalı veya bariyer açıksa dikkatli geçmelidir" },
+        { "key": "C", "text": "Sadece korna çalıp geçmelidir" },
+        { "key": "D", "text": "Bariyer kapalıyken yanından dolaşmalıdır" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hemzemin geçitlerde kurallara uymak ve tren geçişine öncelik vermek hayati önem taşır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_36",
+      "order": 36,
+      "categoryId": "ilkyardim",
+      "question": "Hangi durumda kazazedenin omuriliğine zarar vermeden araçtan çıkarılması amaçlanır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Şok pozisyonu" },
+        { "key": "B", "text": "Rantek manevrası" },
+        { "key": "C", "text": "Heimlich manevrası" },
+        { "key": "D", "text": "Ayak bileklerinden sürükleme" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Araçtan yaralıyı (baş-boyun-gövde eksenini bozmadan) çıkarma tekniği Rantek'tir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_37",
+      "order": 37,
+      "categoryId": "motor",
+      "question": "Kışın suyun donmasını engellemek için radyatöre ne konur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Saf su" },
+        { "key": "B", "text": "Antifriz" },
+        { "key": "C", "text": "Sirke" },
+        { "key": "D", "text": "Motor yağı" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Antifriz, sıvının donma noktasını düşürür.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_38",
+      "order": 38,
+      "categoryId": "trafik",
+      "question": "Otoyola girerken hangi şeridin kullanılması zorunludur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Yavaşlama şeridi" },
+        { "key": "B", "text": "Hızlanma şeridi" },
+        { "key": "C", "text": "Banket" },
+        { "key": "D": "Sol şerit" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Otoyol trafiğine uyum sağlamak için hızlanma şeridi kullanılır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_39",
+      "order": 39,
+      "categoryId": "ilkyardim",
+      "question": "Şoktaki bir kazazedeye ayakların 30 cm yükseltilmesi neden yapılır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Ayak ağrısını dindirmek için" },
+        { "key": "B", "text": "Beyne kan gitmesini sağlamak için" },
+        { "key": "C", "text": "Sırt ağrısını azaltmak için" },
+        { "key": "D", "text": "Uyumasına yardımcı olmak için" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Şok pozisyonu, hayati organlara (beyin gibi) kan akışını önceler.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_40",
+      "order": 40,
+      "categoryId": "motor",
+      "question": "Eski lastiklerin kullanılması trafikte neye yol açabilir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Daha konforlu sürüşe" },
+        { "key": "B", "text": "Yakıt tasarrufuna" },
+        { "key": "C", "text": "Kaza riskinin artmasına" },
+        { "key": "D", "text": "Motorun ısınmasına" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Diş derinliği azalan ve sertleşen lastikler fren mesafesini uzatır ve kaymaya neden olur.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_41",
+      "order": 41,
+      "categoryId": "trafik",
+      "question": "Trafik kazalarında asıl kusurlu sayılan hallere ne denir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Kusur payı" },
+        { "key": "B", "text": "Tali kusur" },
+        { "key": "C", "text": "Asli kusur" },
+        { "key": "D", "text": "Hatalı sollama" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kırmızı ışıkta geçmek, ters yöne girmek gibi ağır hatalar asli kusurdur.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_42",
+      "order": 42,
+      "categoryId": "ilkyardim",
+      "question": "Burun kanaması olan birine hangi müdahale yanlıştır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Başı hafifçe öne eğmek" },
+        { "key": "B", "text": "Burun kanatlarını 5 dakika sıkmak" },
+        { "key": "C", "text": "Başı geriye doğru yaslamak" },
+        { "key": "D", "text": "Yüzünü soğuk suyla yıkamak" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Başı geriye atmak kanın yutağa kaçmasına neden olur, tehlikelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_43",
+      "order": 43,
+      "categoryId": "motor",
+      "question": "Vites kutusu ve diferansiyel yağı ne zaman kontrol edilir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Sadece arızalandığında" },
+        { "key": "B", "text": "Periyodik bakımlarda" },
+        { "key": "C", "text": "Her gün" },
+        { "key": "D", "text": "Lastik değiştirirken" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bu organlar kapalı devre olsa da bakım kitapçığına göre kontrol edilmelidir.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_44",
+      "order": 44,
+      "categoryId": "trafikadabi",
+      "question": "Trafikte bir hata yapıldığında karşıdaki sürücüden el işaretiyle özür dilenmesi neyi sağlar?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Gerginliğin azalmasını" },
+        { "key": "B", "text": "Daha çok ceza almayı" },
+        { "key": "C", "text": "Aracın bozulmasını" },
+        { "key": "D", "text": "Hız yapmayı" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Küçük bir nezaket gösterisi trafiği daha güvenli kılar.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_45",
+      "order": 45,
+      "categoryId": "trafik",
+      "question": "Tehlikeli madde taşıyan araçların boş olarak seyri sırasında hız sınırları neye göre belirlenir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Kendi özel limitlerine göre" },
+        { "key": "B", "text": "Diğer normal araçların limitlerine göre" },
+        { "key": "C", "text": "Traktör hızına göre" },
+        { "key": "D", "text": "En düşük hıza göre" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Boş olduklarında, o aracın cinsine (kamyon vb.) uygun normal hız sınırlarına uyarlar.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_46",
+      "order": 46,
+      "categoryId": "ilkyardim",
+      "question": "Hangisi suni solunum sırasında yapılmalıdır?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Hastanın karnına basılması" },
+        { "key": "B", "text": "Havanın göğsü şişirecek kadar verilmesi" },
+        { "key": "C", "text": "Hızlı ve yüzeysel üflenmesi" },
+        { "key": "D", "text": "Burnun kapatılmaması" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Havanın akciğerlere gittiği, göğüs kafesinin yükselmesinden anlaşılır.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_47",
+      "order": 47,
+      "categoryId": "motor",
+      "question": "Egzoz susturucusu ne işe yarar?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Yakıtın yanmasını sağlar" },
+        { "key": "B", "text": "Gürültü kirliliğini azaltır" },
+        { "key": "C", "text": "Hava girişini kontrol eder" },
+        { "key": "D", "text": "Yağ seviyesini ölçer" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Susturucu, egzoz gazının çıkış sesini minimize eder.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_48",
+      "order": 48,
+      "categoryId": "trafik",
+      "question": "Araçların tescil edildiği yeri gösteren plaka üzerinde hangi kurumun mührü bulunur?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Belediye" },
+        { "key": "B", "text": "Milli Eğitim" },
+        { "key": "C", "text": "Şoförler Odası veya Emniyet Müdürlüğü" },
+        { "key": "D", "text": "Vergi Dairesi" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Resmi mühür plakanın yasal olduğunu kanıtlar.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_49",
+      "order": 49,
+      "categoryId": "ilkyardim",
+      "question": "Kırık, çıkık ve burkulmalarda uygulanacak ilk kural hangisidir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Hemen sıcak uygulama yapmak" },
+        { "key": "B", "text": "Hareket etmeden sabitlemek" },
+        { "key": "C", "text": "Çıkığı yerine oturtmak" },
+        { "key": "D", "text": "Bölgeyi bandajla çok sıkı sarmak" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sabitleme (atel vb.), hasarın artmasını ve ağrıyı engeller.",
+      "mainImage": null
+    },
+    {
+      "id": "subat2026_50",
+      "order": 50,
+      "categoryId": "motor",
+      "question": "Kontağı açtığınızda gösterge panelindeki 'yağ lambası' yanmıyorsa muhtemel hata nedir?",
+      "type": "text",
+      "options": [
+        { "key": "A", "text": "Motor bozulmuştur" },
+        { "key": "B", "text": "Lamba ampulü patlamıştır veya müşür arızalıdır" },
+        { "key": "C", "text": "Yağ fazladır" },
+        { "key": "D", "text": "Akü bitmiştir" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Normalde kontak açıkken yanması gereken lamba yanmıyorsa devre veya ampul hatası vardır.",
+      "mainImage": null
+    }
+  ]
+}
